@@ -1,12 +1,15 @@
 {% extends "base.html" %}
 
 {% block content %}
-<h1 class="title">
-  This is my blog, saunoja!!!!
-</h1>
 {{ section.content | safe }}
 {% for page in section.pages %}
-<h2 class="subtitle"><a href="{{ page.permalink | safe }}">{{ page.title }}</a></h2>
-<p>{{ page.summary | safe }}</p>
+<h2><a href="{{ page.permalink | safe }}">{{ page.title }}</a></h2>
+<p class="post-data">
+  <span class="post-date">{{ page.date | replace(from="-", to="/")}}</span>
+  <span class="post-author">著者: {{ page.extra.author }}</span>
+</p>
+{{ page.summary | safe }}
+<p><a href="{{ page.permalink | safe }}">（続きを読む）</a></p>
+<hr>
 {% endfor %}
 {% endblock content %}
