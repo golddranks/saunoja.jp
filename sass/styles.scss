@@ -65,7 +65,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Raleway", "Hiragino Sans", Helvetica, sans-serif;
 }
 
-.post-data {
+.post-info {
   margin: 0 0 0 0;
   color: #8d8d8d;
 }
@@ -91,7 +91,13 @@ a {
 
 @media (max-height: 670px) {
   header {
-    background-size: 30% auto;
+    background-size: auto 670px;
+  }
+  footer {
+    position: static;
+    margin-left: 30%;
+    text-align: left;
+    color: #6e6e6e;
   }
 }
 

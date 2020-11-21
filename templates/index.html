@@ -4,7 +4,7 @@
 {{ section.content | safe }}
 {% for page in section.pages %}
 <h2><a href="{{ page.permalink | safe }}">{{ page.title }}</a></h2>
-<p class="post-data">
+<p class="post-info">
   <span class="post-date">{{ page.date | replace(from="-", to="/")}}</span>
   <span class="post-author">著者: {{ page.extra.author }}</span>
 </p>

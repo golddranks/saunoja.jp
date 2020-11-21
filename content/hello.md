@@ -1,6 +1,6 @@
 +++
 title = "ブログをはじめました"
-slug = "hajimemashite"
+slug = "blog-wo-hajimemashita"
 date = 2020-11-22
 
 [extra]
