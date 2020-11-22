@@ -3,4 +3,9 @@
   to = "https://saunoja.jp/:splat"
   status = 301
   force = false
-  query = {path = ":path"}
+
+[[redirects]]
+  from = "https://www.saunoya.jp/*"
+  to = "https://saunoja.jp/:splat"
+  status = 301
+  force = false
