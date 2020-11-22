@@ -94,6 +94,15 @@ a {
   text-decoration: none;
 }
 
+@media (max-width: 960px) {
+  header {
+    padding: 6em 1em 0 0;
+  }
+  footer {
+    padding: 0 1em 4em 0;
+  }
+}
+
 @media (max-height: 670px) {
   header {
     background-size: auto 670px;
@@ -103,15 +112,7 @@ a {
     margin-left: 30%;
     text-align: left;
     color: #6e6e6e;
-  }
-}
-
-@media (max-width: 960px) {
-  header {
-    padding: 6em 1em 0 0;
-  }
-  footer {
-    padding: 0 1em 4em 0;
+    padding: 0 0 1em 3em;
   }
 }
 
@@ -133,8 +134,11 @@ a {
     padding: 3em;
   }
   footer {
+    margin: 0;
+    padding: 0 0 1em 3em;
     text-align: left;
     position: static;
     width: 100%;
+    color: #6e6e6e;
   }
 }
