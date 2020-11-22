@@ -10,7 +10,7 @@
 
 <body>
   <header class="{% if page.extra.header_image -%}{{ page.extra.header_image }}{%- endif %}">
-    <a href="/">
+    <a href="{{ config.base_url | safe }}">
     <h1><ruby>saunoja<rt>サウノ屋</rt></ruby></h1>
     <p id="catch-copy">フィンランド夫婦は<br>サウナからお届けします</p>
     </a>
