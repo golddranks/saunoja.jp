@@ -1,4 +1,6 @@
-[[headers]]
-  for = "*"
-  [headers.values]
-    Cache-Control = "public, max-age=300"
+[[redirects]]
+  from = "https://saunoya.jp/*"
+  to = "https://saunoja.jp/:splat"
+  status = 301
+  force = false
+  query = {path = ":path"}
