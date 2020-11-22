@@ -2,10 +2,10 @@
   from = "https://saunoya.jp/*"
   to = "https://saunoja.jp/:splat"
   status = 301
-  force = false
+  force = true
 
 [[redirects]]
   from = "https://www.saunoya.jp/*"
   to = "https://saunoja.jp/:splat"
   status = 301
-  force = false
+  force = true
