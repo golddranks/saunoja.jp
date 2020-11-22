@@ -36,7 +36,7 @@ header.ranta {
 }
 
 #catch-copy {
-  font-family: "Kokoro";
+  font-family: "M PLUS Rounded 1c";
 }
 
 footer {
@@ -94,8 +94,8 @@ ruby rt {
   font-family: "Hiragino Sans", sans-serif;
   display: inline;
   line-height: 0.4;
-  text-align: justify;
-  text-align-last: justify;
+  display: flex;
+  justify-content: space-between;
 }
 
 hr {
@@ -119,7 +119,7 @@ a {
 
 @media (max-height: 670px) {
   header {
-    background-size: auto 670px;
+    background-size: auto 672px;
   }
   footer {
     position: static;
