@@ -1,11 +1,11 @@
-@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Raleway:400,800,900');
-
 html, body {
   padding: 0;
   margin: 0;
   font-family: 'Source Sans Pro', "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Helvetica, sans-serif;
   color: #6e6e6e;
   width: 100%;
+  min-width: 350px;
+  text-align: justify;
 }
 
 header {
@@ -36,7 +36,7 @@ header.ranta {
 }
 
 #catch-copy {
-  font-family: "Tsukushi A Round Gothic Regular";
+  font-family: "Kokoro";
 }
 
 footer {
@@ -70,6 +70,11 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Raleway", "Hiragino Sans", Helvetica, sans-serif;
 }
 
+// We don't fant a "flash" of Hiragino Sans for the SAUNOJA logo
+h1 {
+  font-family: "Raleway", Helvetica, sans-serif;
+}
+
 .post-info {
   margin: 0 0 0 0;
   color: #8d8d8d;
@@ -79,9 +84,18 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0 3em 0 0;
 }
 
-rt {
+ruby {
+  display: inline-flex;
+  flex-direction: column-reverse;
+}
+
+ruby rt {
   font-weight: 100;
   font-family: "Hiragino Sans", sans-serif;
+  display: inline;
+  line-height: 0.4;
+  text-align: justify;
+  text-align-last: justify;
 }
 
 hr {
@@ -133,9 +147,46 @@ a {
       }
     }
   }
+  .post-date, .post-author {
+    margin: 0 1.6em 0 0;
+  }
   #main {
     margin-left: 0;
     padding: 3em;
+  }
+  footer {
+    margin: 0;
+    padding: 0 0 1em 3em;
+    text-align: left;
+    position: static;
+    width: 100%;
+    color: #6e6e6e;
+  }
+}
+
+@media (max-width: 400px) {
+  header {
+    background-position: 0 0;
+    padding: 2em 0;
+    h1 {
+      margin: 0.5rem;
+    }
+    #catch-copy {
+      margin: 0.5rem 0.8rem 0 0;
+      br {
+        display: none;
+      }
+    }
+  }
+  .post-date, .post-author {
+    margin: 0 0.7em 0 0;
+  }
+  #main {
+    padding: 2em;
+    letter-spacing: -0.05em;
+    h1, h2, h3 {
+      letter-spacing: 0.06em;
+    }
   }
   footer {
     margin: 0;
