@@ -1,4 +1,4 @@
 +++
 [extra]
-header_image = "vene"
+header_image = "static_private/vene_inline.txt"
 +++
