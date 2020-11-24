@@ -30,14 +30,6 @@
   src: url('/Source Sans Pro 700.woff2') format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
-@font-face {
-  font-family: 'TukusiCatchCopy';
-  src: url({{ load_data(path='static_private/Tsukushi_A_Round_Gothic_Custom.woff2.dataurl') | safe }});
-}
-@font-face {
-  font-family: 'RalewaySaunoja';
-  src: url({{ load_data(path='static_private/Raleway_Saunoja.woff2.dataurl') | safe }});
-}
   </style>
   <script async src="/tracker.js" data-ackee-server="https://analytics.saunoja.jp" data-ackee-domain-id="9e7f6301-2563-44e7-b519-4f3ad71cb2df"></script>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -52,7 +44,7 @@
 <body>
   <header style="{{ header_style | trim | safe }}">
     <a href="{{ config.base_url | safe }}">
-    <h1><ruby>saunoja<rt><span>サ</span><span>ウ</span><span>ノ</span><span>屋</span></rt></ruby></h1>
+    <h1 id="saunoja-logo"><ruby>saunoja<rt><span>サ</span><span>ウ</span><span>ノ</span><span>屋</span></rt></ruby></h1>
     <p id="catch-copy">フィンランド夫婦は<br>サウナからお届けします</p>
     </a>
   </header>

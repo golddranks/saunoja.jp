@@ -1,3 +1,25 @@
+@import "raleway";
+@import "tsukushi";
+
+@font-face {
+  font-family: 'RalewayCustom';
+  src: $raleway_font;
+}
+
+@font-face {
+  font-family: 'TsukushiCustom';
+  src: $tsukushi_font;
+}
+
+// We don't fant a "flash" of fallback font for the SAUNOJA logo or the catch copy
+#saunoja-logo {
+  font-family: "RalewayCustom";
+}
+
+#catch-copy {
+  font-family: "TsukushiCustom";
+}
+
 html, body {
   padding: 0;
   margin: 0;
@@ -30,10 +52,6 @@ header {
   }
 }
 
-#catch-copy {
-  font-family: "TukusiCatchCopy";
-}
-
 footer {
   padding: 4em 3em;
   color: #afa79e;
@@ -63,11 +81,6 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0 0 1em 0;
   text-transform: uppercase;
   font-family: "Raleway", "Hiragino Sans", Helvetica, sans-serif;
-}
-
-// We don't fant a "flash" of Hiragino Sans for the SAUNOJA logo
-h1 {
-  font-family: "RalewaySaunoja";
 }
 
 .post-info {
