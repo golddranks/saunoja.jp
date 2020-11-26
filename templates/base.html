@@ -38,15 +38,13 @@ header { background-repeat: no-repeat; position: fixed; background-size: auto 10
   <script async src="/tracker.js" data-ackee-server="https://analytics.saunoja.jp" data-ackee-domain-id="9e7f6301-2563-44e7-b519-4f3ad71cb2df"></script>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
-{% if page.extra.header_image -%}
-{% set header_style = load_data(path=page.extra.header_image) %}
-{%- endif %}
-{% if section.extra.header_image -%}
-{% set header_style = load_data(path=section.extra.header_image) %}
-{%- endif %}
-
+{% set extra = page.extra | default(value=section.extra) %}
+{% set header_image_path = extra.header_image ~ ".jpg" %}
+{% set header_image_dataurl = load_data(path = "content/" ~ extra.header_image ~ ".dataurl") | trim %}
 <body>
-  <header style="{{ header_style | trim | safe }}">
+  <header style="background-image: url({{
+      resize_image(path=header_image_path, width=1000, op='fit_width') | safe
+  }}), url({{ header_image_dataurl | safe }});{{ extra.header_style | default(value='') | safe }}">
     <a href="{{ config.base_url | safe }}">
     <h1 id="saunoja-logo"><ruby>saunoja<rt><span>サ</span><span>ウ</span><span>ノ</span><span>屋</span></rt></ruby></h1>
     <p id="catch-copy">フィンランド夫婦は<br>サウナからお届けします</p>
