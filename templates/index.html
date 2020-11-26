@@ -3,13 +3,13 @@
 {% block content %}
 {{ section.content | safe }}
 {% for page in section.pages %}
-<h2><a href="{{ page.permalink | safe }}">{{ page.title }}</a></h2>
+<h2><a href="{{ page.path | safe }}">{{ page.title }}</a></h2>
 <p class="post-info">
   <span class="post-date">{{ page.date | replace(from="-", to="/")}}</span>
   <span class="post-author">著者: {{ page.extra.author }}</span>
 </p>
 {{ page.summary | safe }}
-<p><a href="{{ page.permalink | safe }}">（続きを読む）</a></p>
+<p><a href="{{ page.path | safe }}">（続きを読む）</a></p>
 <hr>
 {% endfor %}
 {% endblock content %}
