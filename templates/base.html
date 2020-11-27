@@ -49,7 +49,7 @@ body { margin: 0 }
 {% set header_image_dataurl = load_data(path = "content/" ~ extra.header_image ~ ".dataurl") | trim %}
 <body>
   <header style="background-image: url({{
-      resize_image(path=header_image_path, width=1000, op='fit_width') | safe
+      resize_image(path=header_image_path, width=1000, op='fit_width') | replace(from='https://saunoja.jp', to='') | safe
   }}), url({{ header_image_dataurl | safe }});{{ extra.header_style | default(value='') | safe }}">
     <a href="/">
     <h1 id="saunoja-logo"><ruby>saunoja<rt><span>サ</span><span>ウ</span><span>ノ</span><span>屋</span></rt></ruby></h1>
