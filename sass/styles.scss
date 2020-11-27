@@ -220,3 +220,11 @@ a {
     flex-basis: auto;
   }
 }
+
+:not(.imgrow)+.imgrow {
+  margin-top: 2em;
+}
+
+.imgrow+:not(.imgrow) {
+  margin-top: 2em;
+}
