@@ -48,7 +48,7 @@ header {
   h1, p {
     color: #f3f0ea;
     margin-bottom: 0;
-    text-shadow: 0 0 3px rgb(44, 68, 99); 
+    text-shadow: 0 0 3px rgb(44, 68, 99);
   }
 }
 
@@ -61,6 +61,7 @@ footer {
   bottom: 0;
   left: 0;
   box-sizing: border-box;
+  text-shadow: 0 0 3px rgb(0, 0, 0);
 }
 
 #main {
@@ -208,5 +209,14 @@ a {
     position: static;
     width: 100%;
     color: #6e6e6e;
+  }
+}
+
+.imgrow {
+  max-height: 600px;
+  max-width: 100%;
+  display: flex;
+  * {
+    flex-basis: auto;
   }
 }

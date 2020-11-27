@@ -1,0 +1,5 @@
+<div class="imgrow">
+    {% for image in images -%}
+    <img src="{{ resize_image(path=image, width=600, height=600, op='fill') | replace(from='https://saunoja.jp', to='') | safe }}">
+    {%- endfor %}
+</div>
