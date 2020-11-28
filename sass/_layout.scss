@@ -1,0 +1,85 @@
+@import "vars";
+
+html, body {
+  min-width: $min-width;
+}
+
+header {
+  box-sizing: border-box;
+  padding: 6em 3em 0 0;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: $header-ratio;
+  background-repeat: no-repeat;
+  background-attachment: local;
+  background-position: left top;
+  background-size: cover;
+  background-color: rgb(6, 7, 10);
+}
+
+@media (max-width: $compress-logo-bp) {
+  header, footer {
+    padding-right: calc( 1em + 16vw - 128px);
+  }
+}
+
+footer {
+  box-sizing: border-box;
+  padding: 0 3em 4em 0;
+  position: fixed;
+  width: $header-ratio;
+  bottom: 0;
+  left: 0;
+}
+
+@media (max-height: $drop-footer-vbp) {
+  footer {
+    position: static;
+    margin-left: $header-ratio;
+    padding: 0 0 1em 3em;
+  }
+}
+
+#main {
+  box-sizing: border-box;
+  margin-left: $header-ratio;
+  padding: 6em 3em 3em 3em;
+  max-width: $main-max-width;
+  overflow: hidden;
+}
+
+@media (max-width: $portrait-mode-bp) {
+  header {
+    position: static;
+    width: 100%;
+    min-width: $min-width;
+    background-size: 100%;
+    padding: 2em 4vw;
+    #catch-copy {
+      br {
+        display: none;
+      }
+    }
+  }
+  #main {
+    margin-left: 0;
+    padding: 6vw;
+  }
+  footer {
+    margin: 0;
+    padding: 0 0 1em 3em;
+    position: static;
+    width: 100%;
+  }
+}
+
+@media (max-width: $min-width) {
+  header {
+    padding: 2em #{4vw/100vw * $min-width};
+  }
+  #main {
+    padding: #{6vw/100vw * $min-width};
+  }
+}

@@ -1,3 +1,5 @@
 <div class="imgrow">
-    <img src="{{ resize_image(path=image, width=1600, op='fit_width') | replace(from='https://saunoja.jp', to='') | safe }}">
+    <div>
+        <img src="{{ resize_image(path=image, width=1600, op='fit_width') | replace(from='https://saunoja.jp', to='') | safe }}">
+    </div>
 </div>

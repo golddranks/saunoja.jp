@@ -11,7 +11,9 @@
 {% if page.extra.title_image %}
 {% set image = page.extra.title_image ~ ".jpg" %}
 <div class="imgrow">
-  <img src="{{ resize_image(path=image, width=1600, op='fit_width') | replace(from='https://saunoja.jp', to='') | safe }}">
+  <div>
+    <img src="{{ resize_image(path=image, width=1600, op='fit_width') | replace(from='https://saunoja.jp', to='') | safe }}">
+  </div>
 </div>
 {% endif %}
 {{ page.summary | safe }}

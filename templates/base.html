@@ -5,11 +5,11 @@
   <meta charset="utf-8">
   <title>Saunoja</title>
   <style> /* Rough layout fallback */
-header { background-repeat: no-repeat; position: fixed; background-size: auto 100%; width: 30%; height: 100%; top: 0; left: 0; }
-#main { margin-left: 30% }
+header { background-repeat: no-repeat; position: fixed; background-size: auto 100vh; width: 30vw; top: 0; bottom: 0; left: 0; }
+#main { margin-left: 30vw }
 body { margin: 0 }
 @media (max-width: 800px) {
-  header { position: static; width: 100%; background-size: 100% }
+  header { position: static; width: 100vw; background-size: 100% }
   h1 { margin: 0 }
   #main { margin-left: 0 }
 }
@@ -51,16 +51,21 @@ body { margin: 0 }
   <header style="background-image: url({{
       resize_image(path=header_image_path, width=1000, op='fit_width') | replace(from='https://saunoja.jp', to='') | safe
   }}), url({{ header_image_dataurl | safe }});{{ extra.header_style | default(value='') | safe }}">
-    <a href="/">
-    <h1 id="saunoja-logo"><ruby>saunoja<rt><span>サ</span><span>ウ</span><span>ノ</span><span>屋</span></rt></ruby></h1>
-    <p id="catch-copy">フィンランド夫婦は<br>サウナからお届けします</p>
+    <h1 id="saunoja-logo">
+      <a href="/">
+        <ruby>saunoja<rt><span>サ</span><span>ウ</span><span>ノ</span><span>屋</span></rt></ruby>
+      </a>
+    </h1>
+    <div id="catch-copy">
+      <a href="/">フィンランド夫婦は<br>サウナからお届けします</a>
+    </div>
     </a>
   </header>
-  <div id="main">
+  <article id="main">
     {% block content %} {% endblock %}
-  </div>
+  </article>
   <footer>
-    © Pyry & Noora Kontio
+    <div id="copyright">© Pyry & Noora Kontio</div>
   </footer>
 </body>
 
