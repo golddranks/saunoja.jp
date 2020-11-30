@@ -1,4 +1,7 @@
 +++
+sort_by = "date"
+paginate_by = 5
 [extra]
-header_image = "_index_vene"
+header_image = "vene"
 +++
+ddth

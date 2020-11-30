@@ -2,7 +2,8 @@
 
 {% block content %}
 {{ section.content | safe }}
-{% for page in section.pages | reverse %}
+{{ section.pages }}
+{% for page in section.pages %}
 <h2><a href="{{ page.path | safe }}">{{ page.title }}</a></h2>
 <p class="post-info">
   <span class="post-date">{{ page.date | replace(from="-", to="/")}}</span>

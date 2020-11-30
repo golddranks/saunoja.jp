@@ -56,8 +56,11 @@ body { margin: 0 }
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 {% set extra = page.extra | default(value=section.extra) %}
-{% set header_image_path = extra.header_image ~ ".jpg" %}
-{% set header_image_dataurl = load_data(path = "content/" ~ extra.header_image ~ ".dataurl") | trim %}
+{% set relative_path = page.relative_path | default(value=section.relative_path) %}
+{% set relpath = relative_path | split(pat="/") | slice(end=-1) %}
+{% set content_relpath = ["content"] | concat(with=relpath) %}
+{% set header_image_path = relpath | concat(with=extra.header_image ~ ".jpg") | join(sep="/") %}
+{% set header_image_dataurl = load_data(path = content_relpath | concat(with=extra.header_image ~ ".dataurl") | join(sep="/")) | trim %}
 <body>
   <header style="background-image: url({{
       resize_image(path=header_image_path, width=1000, op='fit_width') | replace(from='https://saunoja.jp', to='') | safe

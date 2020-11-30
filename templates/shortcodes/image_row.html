@@ -1,8 +1,10 @@
 <div class="imgrow">
     {% for image in images -%}
+    {% set relpath = page.relative_path | split(pat="/") | slice(end=-1) | join(sep="/") %}
+    {% set img_path = relpath ~ "/" ~ image ~ ".jpg" %}
     <div>
-        <a href="{{ resize_image(path=image, width=2000, height=2000, op='fill') | replace(from='https://saunoja.jp', to='') | safe }}">
-            <img src="{{ resize_image(path=image, width=600, height=600, op='fill') | replace(from='https://saunoja.jp', to='') | safe }}">
+        <a href="{{ resize_image(path=img_path, width=2000, height=2000, op='fill') | replace(from='https://saunoja.jp', to='') | safe }}">
+            <img src="{{ resize_image(path=img_path, width=600, height=600, op='fill') | replace(from='https://saunoja.jp', to='') | safe }}">
         </a>
     </div>
     {%- endfor %}
