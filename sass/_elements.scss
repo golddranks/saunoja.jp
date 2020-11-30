@@ -1,0 +1,38 @@
+p {
+  margin-bottom: 1.5em;
+}
+
+.imgrow {
+  max-height: 600px;
+  max-width: 100%;
+  display: flex;
+  justify-content: space-between;
+  div {
+    flex: 1 1 10px;
+    img {
+      width: 100%;
+    }
+  }
+}
+
+:not(.imgrow)+.imgrow {
+  margin-top: 2em;
+}
+
+.imgrow+:not(.imgrow) {
+  margin-top: 2em;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #e4e4e4;
+  margin: 2em 0;
+}
+
+.post-info {
+  max-width: 250px;
+  margin: 0 0 0 0;
+  display: flex;
+  justify-content: space-between;
+  color: #8d8d8d;
+}
