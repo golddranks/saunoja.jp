@@ -16,8 +16,16 @@ build_search_index = false
 ignored_content = ["*.dataurl", "*.jpg"]
 
 languages = [
+    {code = "fi"},
 ]
 
+[translations.fi]
+catchcopy = "Suomipariskunta<br>blogaa saunasta"
+author = "Kirjoittaja"
+
+[translations.ja]
+catchcopy = "フィンランド夫婦は<br>サウナからお届けします"
+author = "著者"
 
 [extra]
 # Put all your custom variables here

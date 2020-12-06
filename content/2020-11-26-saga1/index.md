@@ -1,6 +1,5 @@
 +++
 title = "佐賀県武雄市でサウナに入ってきました！（グルメ編）"
-date = 2020-11-26
 
 [extra]
 author = "Pyry & Noora"

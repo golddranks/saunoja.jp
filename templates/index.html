@@ -1,16 +1,15 @@
 {% extends "base.html" %}
+{% import "macros.html" as macros %}
 
 {% block content %}
 {{ section.content | safe }}
-{{ section.pages }}
-{% for page in section.pages %}
+{% for page in paginator.pages %}
 <h2><a href="{{ page.path | safe }}">{{ page.title }}</a></h2>
-<p class="post-info">
-  <span class="post-date">{{ page.date | replace(from="-", to="/")}}</span>
-  <span class="post-author">著者: {{ page.extra.author }}</span>
-</p>
+{{ macros::post_info(page=page) }}
 {% if page.extra.title_image %}
-{% set image = page.extra.title_image ~ ".jpg" %}
+{% set relative_path = page.relative_path | default(value=section.relative_path) %}
+{% set relpath = relative_path | split(pat="/") | slice(end=-1) %}
+{% set image = relpath | concat(with=page.extra.title_image ~ ".jpg") | join(sep="/") %}
 <div class="imgrow">
   <div>
     <img src="{{ resize_image(path=image, width=1600, op='fit_width') | replace(from='https://saunoja.jp', to='') | safe }}">
