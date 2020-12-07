@@ -22,7 +22,7 @@ title_image = "molkky_ruoho2"
 受けているらしいです。しかし、モルックのやり方やルールはクーッカよりシンプルで、初心者でもすぐ遊べるようなゲームなので、
 人気の理由がわからなくもないです。
 
-{{ image_single(image="molkky_rules2") }}
+{{ image_single(image="molkky_rules") }}
 
 今回のイベントは初めて開催されたことで、メディアも結構集まっていました。そこでなんと！
 九州でタレントとして活躍されているBobby Judo（ボビー・ジュード）さんがロケをしに登場しました。
@@ -32,7 +32,7 @@ title_image = "molkky_ruoho2"
 
 上等だ！これは受けるしかないと、ノーラは勝負に挑戦！
 
-{{ image_row(images=["bobby_tuyoki2", "noora_tuyoki2"]) }}
+{{ image_row(images=["bobby_tuyoki", "noora_tuyoki"]) }}
 
 熱くていい勝負で、ボビーさんは初心者にしては恐ろしい腕前を披露してくださいました。
 最後は両方のプレイヤーがリーチ状態で、本当にギリギリのところでノーラは見事50点ピッタリのスコアを決めて、
