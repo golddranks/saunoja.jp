@@ -1,6 +1,6 @@
 +++
 title = "ブログをはじめました"
-slug = "2020/11/hello"
+slug = "blog-wo-hajimemashita"
 
 [extra]
 author = "Pyry & Noora"
