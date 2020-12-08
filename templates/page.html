@@ -1,11 +1,9 @@
 {% extends "base.html" %}
+{% import "macros.html" as macros %}
 
 {% block content %}
 <h2>{{ page.title }}</h2>
-<p class="post-info">
-  <span class="post-date">{{ page.date | replace(from="-", to="/")}}</span>
-  <span class="post-author">著者: {{ page.extra.author }}</span>
-</p>
+{{ macros::post_info(page=page) }}
 
 {{ page.content | safe }}
 {% endblock content %}
