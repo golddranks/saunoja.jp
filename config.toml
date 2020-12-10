@@ -23,11 +23,15 @@ languages = [
 catchcopy = "Suomipariskunta blogaa saunasta"
 author = "Kirjoittaja"
 read_more = "(Lue lisää)"
+site-description = "Suomipariskunta blogaa saunasta"
+site-url = "https://saunoja.jp/fi"
 
 [translations.ja]
 catchcopy = "フィンランド夫婦は<br>サウナからお届けします"
 author = "著者"
 read_more = "（続きを読む）"
+site-description = "フィンランド夫婦はサウナからお届けします"
+site-url = "https://saunoja.jp"
 
 [extra]
 # Put all your custom variables here
