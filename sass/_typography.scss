@@ -12,12 +12,27 @@
   src: $tsukushi_font;
 }
 
+body {
+  font-family: 'Source Sans Pro', 'Calibri', 'Devanagari Sangam MN', "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", sans-serif;
+}
+
 #saunoja-logo {
   font-family: "RalewayCustom";
 }
 
 #catch-copy {
   font-family: "TsukushiCustom";
+}
+
+#lang-select {
+  color: $text-color;
+  font-size: 0.8em;
+}
+
+.lang-fi {
+  #catch-copy {
+    font-size: 0.8em;
+  }
 }
 
 header {
@@ -62,7 +77,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #main {
-  font-family: 'Source Sans Pro', 'Calibri', 'Devanagari Sangam MN', "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", sans-serif;
   color: $text-color;
   text-align: justify;
   line-height: 2em;

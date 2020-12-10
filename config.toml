@@ -20,12 +20,14 @@ languages = [
 ]
 
 [translations.fi]
-catchcopy = "Suomipariskunta<br>blogaa saunasta"
+catchcopy = "Suomipariskunta blogaa saunasta"
 author = "Kirjoittaja"
+read_more = "(Lue lisää)"
 
 [translations.ja]
 catchcopy = "フィンランド夫婦は<br>サウナからお届けします"
 author = "著者"
+read_more = "（続きを読む）"
 
 [extra]
 # Put all your custom variables here
