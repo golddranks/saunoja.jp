@@ -42,6 +42,17 @@ footer {
   }
 }
 
+#lang-select {
+  box-sizing: border-box;
+  margin-left: $header-ratio;
+  text-align: right;
+  max-width: $main-max-width;
+  padding: 1em 3em 3em 3em;
+  span {
+    vertical-align: top;
+  }
+}
+
 #main {
   box-sizing: border-box;
   margin-left: $header-ratio;

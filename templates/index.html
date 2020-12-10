@@ -17,7 +17,7 @@
 </div>
 {% endif %}
 {{ page.summary | safe }}
-<p><a href="{{ page.path | safe }}">（続きを読む）</a></p>
+<p><a href="{{ page.path | safe }}">{{ trans(key="read_more", lang=lang) | safe }}</a></p>
 <hr>
 {% endfor %}
 {% endblock content %}

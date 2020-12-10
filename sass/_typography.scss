@@ -20,6 +20,17 @@
   font-family: "TsukushiCustom";
 }
 
+#lang-select {
+  color: $text-color;
+  font-size: 0.8em;
+}
+
+.lang-fi {
+  #catch-copy {
+    font-size: 0.8em;
+  }
+}
+
 header {
   color: $header-text-color;
   text-align: right;
