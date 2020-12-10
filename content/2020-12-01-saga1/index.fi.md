@@ -1,6 +1,6 @@
 +++
 title = "Saunamatka – Takeo, Saga (osa 1)"
-slug = "2020/11/saga1"
+slug = "saga-ken-takeo-shi-de-sauna-ni-haitte-kimashita"
 
 [extra]
 author = "Pyry & Noora"
