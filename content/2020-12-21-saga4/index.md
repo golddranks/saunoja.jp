@@ -1,6 +1,7 @@
 +++
 title = "御船山楽園のサウナはすごい！"
 slug = "saga4"
+draft = true
 
 [extra]
 author = "Pyry & Noora"
