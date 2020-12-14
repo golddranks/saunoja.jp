@@ -1,6 +1,6 @@
 +++
 title = "Saunamatka – Takeo, Saga (osa 3)"
-slug = "saga4"
+slug = "saga3"
 
 [extra]
 author = "Pyry & Noora"
@@ -10,9 +10,9 @@ title_image = "telttasauna4"
 +++
 Jatkoa edelliseen: osallistuimme 23. marraskuuta Sagan läänin Takeon kaupungissa järjestettyyn "Go To フィンランドサウナフェスin武雄" (*Go To Finland Sauna Fes in Takeo*) -tapahtumaan. Nyt pääsemme viimein blogin nimen mukaisesti saunomaan.
 
-Heti alkuun täytyy mainita, että saunomismaisemat olivat upeat. Tokiossa kun ei juuri näe vuoria (Suomesta puhumattakaan) niin vuorimaisemat jaksavat sykähdyttää kerta toisensa jälkeen. Paikalle oli pystytetty useampi telttasauna, joten tuntui kuin olisi ollut telttailemassa ja siinä lomassa päässyt myös saunomaan.
-
 <!-- more -->
+
+Heti alkuun täytyy mainita, että saunomismaisemat olivat upeat. Tokiossa kun ei juuri näe vuoria (Suomesta puhumattakaan) niin vuorimaisemat jaksavat sykähdyttää kerta toisensa jälkeen. Paikalle oli pystytetty useampi telttasauna, joten tuntui kuin olisi ollut telttailemassa ja siinä lomassa päässyt myös saunomaan.
 
 {{ image_row(images=["telttasauna", "vuari"]) }}
 
@@ -25,7 +25,7 @@ Tapahtumassa olleet saunat olivat retkeilyvälinevalmistaja Savotan telttoja!
 
 Kiuaskin oli puulämmitteinen Metoksen kiuas. Meille kerrottiin, että kiuaskivet taas olivat paikallisia kiviä, jotka oli lämpökäsitelty Sagan keramiikasta kuuluisalla 有田焼 (*aritayaki*, Arita-poltto) -tekniikalla, jotta ne kestäisivät saunakäyttöä. Suomalaiseen saunaan taidokkaasti yhdistetty paikallinen osaaminen teki vaikutuksen.
 
-{{ image_single(image="mizuburo") }}
+{{ image_single(image="mizuburo", caption="Kuva: Numata Kooichi") }}
 Saunan kaveriksi oli järjestetty kylmävesiallas vilvoittelua varten. Pyry kävikin siinä useasti, mutta Noora vilukissana jätti pulahtamisen toiseen kertaan. Tämä kylmässä vedessä jäähdyttelykin juontuu suomalaisten tavasta käydä kesämökillä saunomisen välissä järvessä uimassa, mutta koska Japanissa kesämökkejä järvineen ei juuri ole, on kylmävesiallas vakiinnuttanut paikkansa saunan kylkiäisenä. Kylmässä vedessä vilvoittelua pidetään täällä siis oleellisena osana saunakokemusta, mitä se ei Suomessa välttämättä ole. Meille kahdelle ulkoilmassa vilvoittelu ja kesäisin järvessä uiminen on riittänyt mainiosti.
 
 Japanissa tästä saunan, kylmän veden ja ulkoilman yhdistelmästä on tullut resepti 整った (*totonotta*, "asiat kohdillaan") -tilaan; ilmaisun keksi sauna-aiheisen mangankin piirtänyt innokas saunoja Tanaka Katsuki. Kyseessä on ilmiö, jossa toistamalla tarpeeksi monta kertaa em. sauna – kylmä vesi – ulkoilma -kiertoa, on mahdollista saavuttaa täydellisen raukea ja rento olotila. Jokainen, joka on koskaan käynyt saunassa, on varmasti kokenut tämän saunan jälkeisen miellyttävän rentouden, mutta mitään omaa sanaa sille ei suomeksi tietääksemme ole.
