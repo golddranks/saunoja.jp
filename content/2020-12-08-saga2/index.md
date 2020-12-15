@@ -28,7 +28,7 @@ title_image = "molkky_ruoho2"
 九州でタレントとして活躍されているBobby Judo（ボビー・ジュード）さんがロケをしに登場しました。
 面白いから、ボビーさんvs本場フィンランドの人という設定でモルック大会にチャレンジされました！
 
-{{ image_single(image="bobby_vs_finns", caption="出典：沼田光一さん") }}
+{{ image_single(image="bobby_vs_finns") }}
 
 上等だ！これは受けるしかないと、ノーラは勝負に挑戦！
 

@@ -20,7 +20,7 @@ Saunan, Muumien ja designin lisäksi mölkky on viime vuosina päässyt mukaan l
 
 Koska tapahtuma oli uusi, paikalle oli saapunut myös median edustajia. Yksi heistä oli paikallinen tv-juontaja, amerikkalainen Bobby Judo, joka raportoi tapahtumasta kuvausryhmän kanssa. Kävi sitten niin, että tv-ryhmä halusi kuvata mölkkykisan ihka aidon suomalaisen ja Bobbyn välillä.
 
-{{ image_single(image="bobby_vs_finns", caption="Kuva: Numata Kooichi") }}
+{{ image_single(image="bobby_vs_finns") }}
 
 Ja sehän sopii! Haasteen otti vastaan Noora, joka oli pelannut mölkkyä Pyryä enemmän.
 
