@@ -23,7 +23,7 @@ Tapahtumassa olleet saunat olivat retkeilyvälinevalmistaja Savotan telttoja!
 
 {{ image_row(images=["savotta", "telttasauna2"]) }}
 
-Kiuaskin oli puulämmitteinen Metoksen kiuas. Meille kerrottiin, että kiuaskivet taas olivat paikallisia kiviä, jotka oli lämpökäsitelty Sagan keramiikasta kuuluisalla 有田焼 (*aritayaki*, Arita-poltto) -tekniikalla, jotta ne kestäisivät saunakäyttöä. Suomalaiseen saunaan taidokkaasti yhdistetty paikallinen osaaminen teki vaikutuksen.
+Kiuaskin oli puulämmitteinen Metoksen kiuas. Meille kerrottiin, että kiuaskivet taas olivat paikallisia kiviä, jotka oltiin erikseen lämpökäsitelty korkeassa lämpötilassa. Sagan lääni on kuuluisa mm. 有田焼 (*aritayaki*) -keramiikastaan, joten asiantuntemusta luulisi löytyvän!
 
 {{ image_single(image="mizuburo") }}
 Saunan kaveriksi oli järjestetty kylmävesiallas vilvoittelua varten. Pyry kävikin siinä useasti, mutta Noora vilukissana jätti pulahtamisen toiseen kertaan. Tämä kylmässä vedessä jäähdyttelykin juontuu suomalaisten tavasta käydä kesämökillä saunomisen välissä järvessä uimassa, mutta koska Japanissa kesämökkejä järvineen ei juuri ole, on kylmävesiallas vakiinnuttanut paikkansa saunan kylkiäisenä. Kylmässä vedessä vilvoittelua pidetään täällä siis oleellisena osana saunakokemusta, mitä se ei Suomessa välttämättä ole. Meille kahdelle ulkoilmassa vilvoittelu ja kesäisin järvessä uiminen on riittänyt mainiosti.
