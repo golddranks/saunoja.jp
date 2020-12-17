@@ -1,3 +1,4 @@
+<figure>
 <div class="imgrow">
     {% for image in images -%}
     {% set relpath = page.relative_path | split(pat="/") | slice(end=-1) | join(sep="/") %}
@@ -9,3 +10,7 @@
     </div>
     {%- endfor %}
 </div>
+{% if caption %}
+<figcaption>{{ caption }}</figcaption>
+{% endif %}
+</figure>

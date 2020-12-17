@@ -1,7 +1,12 @@
 {% set relpath = page.relative_path | split(pat="/") | slice(end=-1) | join(sep="/") %}
 {% set img_path = relpath ~ "/" ~ image ~ ".jpg" %}
+<figure>
 <div class="imgrow">
     <div>
         <img src="{{ resize_image(path=img_path, width=1600, op='fit_width') | replace(from='https://saunoja.jp', to='') | safe }}">
     </div>
 </div>
+{% if caption %}
+<figcaption>{{ caption }}</figcaption>
+{% endif %}
+</figure>

@@ -19,6 +19,8 @@ languages = [
     {code = "fi"},
 ]
 
+generate_feed = true
+
 [translations.fi]
 catchcopy = "Suomipariskunta blogaa saunasta"
 author = "Kirjoittaja"

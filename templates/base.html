@@ -15,6 +15,9 @@
   <meta name="twitter:title" content="SAUNOJA（サウノ屋）"/>
   <meta name="twitter:description" content="{{ trans(key='site-description', lang=lang) | safe  }}"/>
   <title>SAUNOJA（サウノ屋）</title>
+  {% block rss %}
+  <link rel="alternate" type="application/atom+xml" title="RSS" href="{{ get_url(path='atom.xml', trailing_slash=false) | safe }}">
+  {% endblock %}
   <style> /* Rough layout fallback */
 header { background-repeat: no-repeat; position: fixed; background-size: auto 100vh; width: 30vw; top: 0; bottom: 0; left: 0; }
 #main { margin-left: 30vw }
