@@ -4,9 +4,9 @@ slug = "unesco"
 
 [extra]
 author = "Pyry"
-header_image = "halot"
+header_image = "jarvi"
 header_style = "background-position: 80% top;"
-title_image = "telttasauna4"
+title_image = "sauna"
 +++
 
 素晴らしいニュースだ。フィンランドサウナは、日本の「和食」みたいにUNESCOの無形文化遺産として選ばれたのが、今日発表された。まず、そのニュースを一刻も早く、このブログを読んでいる皆さんにもお伝えしたかった。そして、フィンランド文化遺産局という国の機関がYouTubeでサウナについての短編ドキュメンタリーを発表して、観てみたら素晴らしいものなので前編日本語に訳してみて紹介したくなった。なぐり書きではあるが、どうぞ御覧ください！

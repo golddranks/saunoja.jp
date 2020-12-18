@@ -2,7 +2,7 @@
 {% import "macros.html" as macros %}
 
 {% block content %}
-<h2>{{ page.title }}</h2>
+<h2>{{ page.title | safe }}</h2>
 {{ macros::post_info(page=page) }}
 
 {{ page.content | safe }}
