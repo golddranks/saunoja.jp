@@ -10,11 +10,13 @@
 {% set relative_path = page.relative_path | default(value=section.relative_path) %}
 {% set relpath = relative_path | split(pat="/") | slice(end=-1) %}
 {% set image = relpath | concat(with=page.extra.title_image ~ ".jpg") | join(sep="/") %}
-<div class="imgrow">
-  <div>
-    <img src="{{ resize_image(path=image, width=1600, op='fit_width') | replace(from='https://saunoja.jp', to='') | safe }}">
+<figure>
+  <div class="imgrow">
+    <div>
+      <img src="{{ resize_image(path=image, width=1600, op='fit_width') | replace(from='https://saunoja.jp', to='') | safe }}">
+    </div>
   </div>
-</div>
+</figure>
 {% endif %}
 {{ page.summary | safe }}
 <p><a href="{{ page.path | safe }}">{{ trans(key="read_more", lang=lang) | safe }}</a></p>
