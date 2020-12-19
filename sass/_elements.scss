@@ -36,11 +36,12 @@ hr {
 }
 
 .post-info {
-  max-width: 250px;
   margin: 0 0 0 0;
-  display: flex;
-  justify-content: space-between;
   color: #8d8d8d;
+  .post-date {
+    display: inline-block;
+    width: 8em;
+  }
 }
 
 .yt-container {
