@@ -68,7 +68,7 @@ title_image = "sauna"
 国家のトップレベルの政治も偉い人同士がサウナで議論したのがあるらしい。」
 {% end %}
 
-{{ youtube(id="vb9GBlpdJto", start=191, end=255) }}
+{{ youtube(id="vb9GBlpdJto", start=191, end=212) }}
 
 {% quote() %}
 「やっぱり、素直になれるスペースだな。見せかけじゃなくて、ありのままの自分だ。」
