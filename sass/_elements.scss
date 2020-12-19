@@ -42,3 +42,23 @@ hr {
   justify-content: space-between;
   color: #8d8d8d;
 }
+
+.yt-container {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 56.25%;
+  margin-bottom: 1em;
+  iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+}
+
+blockquote {
+  white-space: pre;
+  margin-bottom: 1em;
+}
