@@ -9,7 +9,7 @@ header_style = "background-position: 80% top; text-shadow: 1px 1px 4px rgb(44, 5
 thin_header_style = "text-shadow: 1px 1px 3px rgb(44, 55, 33), -1px -1px 3px rgb(44, 55, 33), 1px -1px 3px rgb(44, 55, 33), -1px 1px 3px rgb(44, 55, 33), 0 0 15px rgb(44, 55, 33);"
 title_image = "molkky_ruoho2"
 +++
-Jatkoa edelliseen: osallistuimme 23. marraskuuta Sagan läänin Takeon kaupungissa järjestettyyn "Go To フィンランドサウナフェスin武雄" (*Go To Finland Sauna Fes in Takeo*) -tapahtumaan. Tällä kertaa keskitymme mölkkyyn.
+Jatkoa [edelliseen](@/2020-12-01-saga1/index.fi.md): osallistuimme 23. marraskuuta Sagan läänin Takeon kaupungissa järjestettyyn "Go To フィンランドサウナフェスin武雄" (*Go To Finland Sauna Fes in Takeo*) -tapahtumaan. Tällä kertaa keskitymme mölkkyyn.
 <!-- more -->
 
 {{ image_row(images=["molkky_taikai", "molkky"]) }}

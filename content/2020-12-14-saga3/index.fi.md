@@ -8,11 +8,15 @@ header_image = "halot"
 header_style = "background-position: 80% top;"
 title_image = "telttasauna4"
 +++
-Jatkoa edelliseen: osallistuimme 23. marraskuuta Sagan läänin Takeon kaupungissa järjestettyyn "Go To フィンランドサウナフェスin武雄" (*Go To Finland Sauna Fes in Takeo*) -tapahtumaan. Nyt pääsemme viimein blogin nimen mukaisesti saunomaan.
+Jatkoa [edelliseen](@/2020-12-08-saga2/index.fi.md): osallistuimme 23. marraskuuta Sagan läänin Takeon kaupungissa
+järjestettyyn "Go To フィンランドサウナフェスin武雄" (*Go To Finland Sauna Fes in
+Takeo*) -tapahtumaan. Nyt pääsemme viimein blogin nimen mukaisesti saunomaan.
 
 <!-- more -->
 
-Heti alkuun täytyy mainita, että saunomismaisemat olivat upeat. Tokiossa kun ei juuri näe vuoria (Suomesta puhumattakaan) niin vuorimaisemat jaksavat sykähdyttää kerta toisensa jälkeen. Paikalle oli pystytetty useampi telttasauna, joten tuntui kuin olisi ollut telttailemassa ja siinä lomassa päässyt myös saunomaan.
+Heti alkuun täytyy mainita, että saunomismaisemat olivat upeat.
+Tokiossa kun ei juuri näe vuoria (Suomesta puhumattakaan) niin vuorimaisemat
+jaksavat sykähdyttää kerta toisensa jälkeen. Paikalle oli pystytetty useampi telttasauna, joten tuntui kuin olisi ollut telttailemassa ja siinä lomassa päässyt myös saunomaan.
 
 {{ image_row(images=["telttasauna", "vuari"]) }}
 
