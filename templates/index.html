@@ -13,7 +13,9 @@
 <figure>
   <div class="imgrow">
     <div>
+      <a href="{{ page.path | safe }}">
       <img src="{{ resize_image(path=image, width=1600, op='fit_width') | replace(from='https://saunoja.jp', to='') | safe }}">
+      </a>
     </div>
   </div>
 </figure>
