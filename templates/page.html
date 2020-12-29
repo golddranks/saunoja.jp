@@ -1,6 +1,34 @@
 {% extends "base.html" %}
 {% import "macros.html" as macros %}
 
+{% block metatags %}
+
+{% set relative_path = page.relative_path | default(value=section.relative_path) %}
+{% set relpath = relative_path | split(pat="/") | slice(end=-1) %}
+{% set image = relpath | concat(with=page.extra.title_image ~ ".jpg") | join(sep="/") %}
+
+{% if lang == "ja" %}
+<meta property="og:title" content="SAUNOJA（サウノ屋）【{{ page.title }}】"/>
+<title>SAUNOJA（サウノ屋）【{{ page.title }}】</title>
+<meta name="twitter:description" content="{{ trans(key='site-description', lang=lang) | safe  }}。{{
+page.summary | striptags | replace(from="
+", to=" ") }}"/>
+{% else %}
+<meta property="og:title" content="SAUNOJA（サウノ屋）– {{ page.title }}"/>
+<title>SAUNOJA（サウノ屋）– {{ page.title }}</title>
+<meta name="twitter:description" content="{{ trans(key='site-description', lang=lang) | safe  }}. {{
+page.summary | striptags | replace(from="
+", to=" ") }}"/>
+{% endif %}
+<meta property="og:description" content="{{ trans(key='site-description', lang=lang) | safe  }}"/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="{{ trans(key='site-url', lang=lang) | safe  }}"/>
+<meta property="og:image" content="{{ resize_image(path=image, width=1200, op='fit_width') | replace(from='https://saunoja.jp', to='') | safe }}"/>
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="{{ resize_image(path=image, width=1200, op='fit_width') | replace(from='https://saunoja.jp', to='') | safe }}"/>
+<meta name="twitter:title" content="SAUNOJA（サウノ屋）"/>
+{% endblock %}
+
 {% block content %}
 <h2>{{ page.title | safe }}</h2>
 {{ macros::post_info(page=page) }}
