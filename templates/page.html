@@ -15,9 +15,9 @@
 page.summary | striptags | replace(from="
 ", to=" ") }}"/>
 {% else %}
-<meta name="twitter:title" content="SAUNOJA（サウノ屋）– {{ page.title }}"/>
-<meta property="og:title" content="SAUNOJA（サウノ屋）– {{ page.title }}"/>
-<title>SAUNOJA（サウノ屋）– {{ page.title }}</title>
+<meta name="twitter:title" content="SAUNOJA（サウノ屋） {{ page.title }}"/>
+<meta property="og:title" content="SAUNOJA（サウノ屋） {{ page.title }}"/>
+<title>SAUNOJA（サウノ屋） {{ page.title }}</title>
 <meta name="twitter:description" content="{{ trans(key='site-description', lang=lang) | safe  }}. {{
 page.summary | striptags | replace(from="
 ", to=" ") }}"/>
