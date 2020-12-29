@@ -9,7 +9,8 @@ header_style = "background-position: 80% top;"
 title_image = "mies_sauna"
 +++
 
-Heippa taas! Nyt kun saunatapahtuman raportointi on saatu pois alta, haluaisimme
+Heippa taas! Nyt kun saunatapahtuman [raportointi](@/2020-12-14-saga3/index.fi.md)
+on saatu pois alta, haluaisimme
 kertoa vielä parista muusta paikasta, missä kävimme Takeossa ollessamme. Takeo
 on tunnettu *onsen*-kylpylöistään, mutta pääsimme nauttimaan kylvyn lisäksi myös
 saunasta vuoristossa sijaitsevassa *Mifuneyama Rakuen* -nimisessä onsen-hotellissa.
