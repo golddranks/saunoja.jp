@@ -23,9 +23,9 @@ page.summary | striptags | replace(from="
 <meta property="og:description" content="{{ trans(key='site-description', lang=lang) | safe  }}"/>
 <meta property="og:type" content="website"/>
 <meta property="og:url" content="{{ trans(key='site-url', lang=lang) | safe  }}"/>
-<meta property="og:image" content="{{ resize_image(path=image, width=1200, op='fit_width') | replace(from='https://saunoja.jp', to='') | safe }}"/>
+<meta property="og:image" content="{{ resize_image(path=image, width=1200, op='fit_width') | safe }}"/>
 <meta name="twitter:card" content="summary_large_image"/>
-<meta name="twitter:image" content="{{ resize_image(path=image, width=1200, op='fit_width') | replace(from='https://saunoja.jp', to='') | safe }}"/>
+<meta name="twitter:image" content="{{ resize_image(path=image, width=1200, op='fit_width') | safe }}"/>
 <meta name="twitter:title" content="SAUNOJA（サウノ屋）"/>
 {% endblock %}
 
