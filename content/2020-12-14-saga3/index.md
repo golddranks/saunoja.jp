@@ -3,7 +3,6 @@ title = "佐賀県武雄市でサウナに入ってきました！（サウナ�
 slug = "saga3"
 
 [extra]
-author = "Pyry & Noora"
 header_image = "halot"
 header_style = "background-position: 80% top;"
 title_image = "telttasauna4"

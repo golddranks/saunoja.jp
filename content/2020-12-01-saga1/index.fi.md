@@ -3,7 +3,6 @@ title = "Saunamatka – Takeo, Saga (osa 1)"
 slug = "saga-ken-takeo-shi-de-sauna-ni-haitte-kimashita"
 
 [extra]
-author = "Pyry & Noora"
 header_image = "teltta"
 header_style = "background-position: 80% top"
 title_image = "lohikeitto2"
