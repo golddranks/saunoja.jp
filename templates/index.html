@@ -2,7 +2,7 @@
 {% import "macros.html" as macros %}
 
 {% block metatags %}
-<meta property="og:title" content="SAUNOJA（サウノ屋）"/>
+<meta property="og:title" content="{{ config.extra.site_title }}"/>
 <meta property="og:description" content="{{ trans(key='site-description', lang=lang) | safe  }}"/>
 <meta property="og:type" content="website"/>
 <meta property="og:url" content="{{ trans(key='site-url', lang=lang) | safe  }}"/>
@@ -11,9 +11,9 @@
 <meta property="og:image:height" content="600"/>
 <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:image" content="{{ resize_image(path='card_vene.jpg', width=1200, op='fit_width') | safe }}"/>
-<meta name="twitter:title" content="SAUNOJA（サウノ屋）"/>
+<meta name="twitter:title" content="{{ config.extra.site_title }}"/>
 <meta name="twitter:description" content="{{ trans(key='site-description', lang=lang) | safe  }}"/>
-<title>SAUNOJA（サウノ屋）</title>
+<title>{{ config.extra.site_title }}</title>
 {% endblock %}
 
 {% block content %}
@@ -29,7 +29,7 @@
   <div class="imgrow">
     <div>
       <a href="{{ page.path | safe }}">
-      <img src="{{ resize_image(path=image, width=1600, op='fit_width') | replace(from='https://saunoja.jp', to='') | safe }}">
+      <img src="{{ resize_image(path=image, width=1600, op='fit_width') | replace(from=config.base_url, to='') | safe }}">
       </a>
     </div>
   </div>

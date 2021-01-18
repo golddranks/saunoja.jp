@@ -1,9 +1,10 @@
 <!DOCTYPE html>
-<html lang="ja">
+<html lang="{{ lang }}">
 
 <head>
   <meta charset="utf-8">
-  {% block metatags %} {% endblock %}
+  {% block metatags %}
+  {% endblock %}
   {% block rss %}
   <link rel="alternate" type="application/atom+xml" title="RSS" href="{{ get_url(path='atom.xml', trailing_slash=false) | safe }}">
   {% endblock %}
@@ -61,7 +62,7 @@ body { margin: 0 }
 {% set page = page | default(value=section) %}
 <body class="lang-{{lang}}">
   <header style="background-image: url({{
-      resize_image(path=header_image_path, width=1000, op='fit_width') | replace(from='https://saunoja.jp', to='') | safe
+      resize_image(path=header_image_path, width=1000, op='fit_width') | replace(from=config.base_url, to='') | safe
   }}), url({{ header_image_dataurl | safe }});{{ extra.header_style | default(value='') | safe }}">
     <h1 id="saunoja-logo">
       <a href="{{ root }}">
