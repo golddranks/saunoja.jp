@@ -1,5 +1,5 @@
 +++
-title = "Sauna UNESCOn kulttuuri&#8203;perintö&#8203;kohteeksi!"
+title = "Sauna UNESCOn kulttuuriperintökohteeksi!"
 slug = "unesco"
 
 [extra]
