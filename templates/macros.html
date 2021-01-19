@@ -1,6 +1,6 @@
 {% macro post_info(page) %}
     <p class="post-info">
         <span class="post-date">{{ page.date | replace(from="-", to="/")}}</span>
-        <span class="post-author">{{ trans(key="author", lang=lang) }}: {{ page.extra.author }}</span>
+        <span class="post-author">{{ trans(key="author", lang=lang) }}: {{ page.extra.author | default(value=config.extra.author) | safe }}</span>
     </p>
 {% endmacro post_info %}

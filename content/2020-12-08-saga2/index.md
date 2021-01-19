@@ -3,7 +3,6 @@ title = "佐賀県武雄市でサウナに入ってきました！（モルッ�
 slug = "saga2"
 
 [extra]
-author = "Pyry & Noora"
 header_image = "molkky_ruoho"
 header_style = "background-position: 80% top; text-shadow: 1px 1px 4px rgb(44, 55, 33), -1px -1px 4px rgb(44, 55, 33), 1px -1px 4px rgb(44, 55, 33), -1px 1px 4px rgb(44, 55, 33);"
 thin_header_style = "text-shadow: 1px 1px 3px rgb(44, 55, 33), -1px -1px 3px rgb(44, 55, 33), 1px -1px 3px rgb(44, 55, 33), -1px 1px 3px rgb(44, 55, 33), 0 0 15px rgb(44, 55, 33);"

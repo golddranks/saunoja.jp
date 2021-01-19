@@ -3,7 +3,6 @@ title = "ブログをはじめました"
 slug = "blog-wo-hajimemashita"
 
 [extra]
-author = "Pyry & Noora"
 header_image = "ranta"
 title_image = "laituri"
 +++

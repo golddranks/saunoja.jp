@@ -3,7 +3,6 @@ title = "Mifuneyamalla piilee uskomaton sauna?!"
 slug = "saga4"
 
 [extra]
-author = "Pyry & Noora"
 header_image = "pimeys"
 header_style = "background-position: 80% top;"
 title_image = "mies_sauna"
