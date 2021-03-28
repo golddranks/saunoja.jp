@@ -4,8 +4,8 @@ slug = "joulu"
 
 [extra]
 author = "Pyry & Noora"
-header_image = "pimeys"
-header_style = "background-position: 80% top;"
+header_image = "header"
+header_style = "background-position: 30% top;"
 title_image = "mies_sauna"
 +++
 Joulusta on ehtinyt kulua jo hieman aikaa, mutta haluaisimme esitellä miten vietimme sitä suomalaiseen tyyliin täällä Japanissa.
@@ -33,8 +33,12 @@ Jouluaattona olimme vuokranneet auton jotta saisimme kaikki tavarat ruokineen ja
 
 Kesken ruokailun paikalle kuitenkin pölähti joulupukki, joka jakoi kuusen alle kertyneet lahjat. Jokainen meistä oli ostanut yhden lahjan jotta voisimme myöhemmin tehdä lahjanvaihdon. Suomessa joulupukki tulee vierailulle jouluaattona ja jakaa lahjat henkilökohtaisesti,  toisin kuin vaikka Englannissa tai Amerikassa, missä pukin sanotaan käyvän jouluyönä jättämässä lahjat salaa koteihin. Suomessa myös aikuiset antavat lahjoja toisilleen. Pukin poistuttua avasimme lahjat ja nautimme loppuillasta syöden ja juoden.
 
+{{ image_row(images=["joulupukki", "lahja"]) }}
+
 Joulupäivä alkoi joulupuurolla, joka on maidosta tehtyä riisipuuroa. Kuvassa näkyvässä riisipuurossa on voisilmä, sillä Noora tykkää nauttia puuronsa niin, mutta yleensä puuro syödään sokerin ja kanelin kera.　Pienen päiväkävelyn ja puuron sulattelun jälkeen oli kahvin ja herkkujen aika. Katoimme pöytään juustolajitelman, hilloa, kaksi eri kuivakakkua, pullaa, pipareita, joulutorttuja ja suklaata. Kahvin lisäksi tarjolla oli myös itsetehtyä mustikka- ja karpaloglögiä.
 
 {{ image_row(images=["riisipuuro", "herkkupöytä"]) }}
 
 Loppupäivä sujui loikoillessa ja herkkuja syödessä. Seuraavana aamuna oli kotiinlähdön aika. Söimme aamupalaksi vielä riisipuuroa, siivosimme jälkemme ja hyvästelimme majapaikan. Kotimatka sujui väsyneissä tunnelmissa, mutta tyytyväisenä siihen, miten mukava oli ollut.
+
+{{ image_single(image="nordepyrde2") }}
