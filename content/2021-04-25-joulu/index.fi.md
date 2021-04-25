@@ -3,7 +3,7 @@ title = "Vietimme Japanissa suomalaisen joulun"
 slug = "joulu"
 
 [extra]
-author = "Pyry & Noora"
+author = "Noora & Pyry"
 header_image = "header"
 header_style = "background-position: 80% top;"
 title_image = "jouluhuone"
