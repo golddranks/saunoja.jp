@@ -31,14 +31,14 @@ Jouluaattona olimme vuokranneet auton, jotta saisimme kaikki tavarat ruokineen j
 
 {{ image_row(images=["joulupöytä", "joululautanen"]) }}
 
-Kesken ruokailun paikalle kuitenkin pölähti joulupukki, joka jakoi kuusen alle kertyneet lahjat. Jokainen meistä oli ostanut yhden lahjan jotta voisimme myöhemmin tehdä lahjanvaihdon. Suomessa joulupukki tulee vierailulle jouluaattona ja jakaa lahjat henkilökohtaisesti,  toisin kuin vaikka Englannissa tai Amerikassa, missä pukin sanotaan käyvän jouluyönä jättämässä lahjat salaa koteihin. Suomessa myös aikuiset antavat lahjoja toisilleen. Pukin poistuttua avasimme lahjat ja nautimme loppuillasta syöden ja juoden.
+Kesken ruokailun paikalle kuitenkin pölähti joulupukki, joka jakoi kuusen alle kertyneet lahjat. Jokainen meistä oli ostanut lahjanvaihtoa varten yhden lahjan. Suomessahan joulupukki tulee vierailulle jouluaattona ja jakaa lahjat henkilökohtaisesti, toisin kuin vaikka Englannissa tai Amerikassa, missä pukin sanotaan käyvän jouluyönä jättämässä lahjat salaa koteihin. Suomessa myös monesti aikuiset antavat lahjoja toisilleen. Pukin poistuttua avasimme lahjat ja nautimme loppuillasta syöden ja juoden.
 
 {{ image_row(images=["joulupukki", "lahja"]) }}
 
-Joulupäivä alkoi joulupuurolla, joka on maidosta tehtyä riisipuuroa. Kuvassa näkyvässä riisipuurossa on voisilmä, sillä Noora tykkää nauttia puuronsa niin, mutta yleensä puuro syödään sokerin ja kanelin kera.　Pienen päiväkävelyn ja puuron sulattelun jälkeen oli kahvin ja herkkujen aika. Katoimme pöytään juustolajitelman, hilloa, kaksi eri kuivakakkua, pullaa, pipareita, joulutorttuja ja suklaata. Kahvin lisäksi tarjolla oli myös itsetehtyä mustikka- ja karpaloglögiä.
+Joulupäivä alkoi joulupuurolla. Kuvassa näkyvässä riisipuurossa on voisilmä, sillä Noora tykkää nauttia puuronsa niin, mutta muut nauttivat puuronsa sokerin ja kanelin kera. Pienen päiväkävelyn ja puuron sulattelun jälkeen oli kahvin ja herkkujen aika. Katoimme pöytään juustolajitelman, hilloa, kaksi eri kuivakakkua, pullaa, pipareita, joulutorttuja ja suklaata. Kahvin lisäksi tarjolla oli myös itsetehtyä mustikka- ja karpaloglögiä.
 
 {{ image_row(images=["riisipuuro", "herkkupöytä"]) }}
 
-Loppupäivä sujui loikoillessa ja herkkuja syödessä. Seuraavana aamuna oli kotiinlähdön aika. Söimme aamupalaksi vielä riisipuuroa, siivosimme jälkemme ja hyvästelimme majapaikan. Kotimatka sujui väsyneissä tunnelmissa, mutta tyytyväisenä siihen, miten mukava oli ollut.
+Loppupäivä sujui loikoillessa ja herkkuja syödessä. Seuraavana aamuna oli kotiinlähdön aika. Söimme aamupalaksi vielä riisipuuroa, siivosimme jälkemme ja hyvästelimme majapaikan. Kotimatka sujui väsyneissä tunnelmissa, mutta tyytyväisenä siihen, miten mukavaa oli ollut.
 
 {{ image_single(image="nordepyrde2") }}
