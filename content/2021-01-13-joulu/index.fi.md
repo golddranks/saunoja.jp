@@ -27,7 +27,7 @@ Ruokaa ja herkkuja oli siis yllin kyllin, kuten asiaan kuuluu, emmekä lopulta j
 
 Ruoan ja seuran lisäksi hankimme joulukuusen oikean tunnelman saamiseksi. Kiitos Ikean, saimme hankittua kuusen koristeineen kerralla ja kuljetettua sen suhteellisen helposti paikan päällekin. Viimeisenä silauksena soitimme tietysti joululauluja. 
 
-Jouluaattona olimme vuokranneet auton jotta saisimme kaikki tavarat ruokineen ja koristeineen päivineen vietyä kerralla paikan päälle. Kun kaikki olivat paikalla ja olimme asettautuneet taloksi, katoimme joulupöydän ja kävimme syömään. Tarjolla oli kinkkua, keitettyjä perunoita, porkkana- ja bataattilaatikkoa, graavilohta, rosollia, sienisalaattia, perunasalaattia, savukinkkutahnaa, erilaisia leipiä, karjalanpiirakoita ja munavoita, maustekurkkuja ja etikkapunajuuria, sekä palanpainikkeeksi viiniä ja olutta.
+Jouluaattona olimme vuokranneet auton, jotta saisimme kaikki tavarat ruokineen ja koristeineen päivineen vietyä kerralla paikan päälle. Kun kaikki olivat paikalla ja olimme asettautuneet taloksi, katoimme joulupöydän ja kävimme syömään. Tarjolla oli kinkkua, keitettyjä perunoita, porkkana- ja bataattilaatikkoa, graavilohta, rosollia, sienisalaattia, perunasalaattia, savukinkkutahnaa, erilaisia leipiä, karjalanpiirakoita ja munavoita, maustekurkkuja ja etikkapunajuuria, sekä palanpainikkeeksi viiniä ja olutta.
 
 {{ image_row(images=["joulupöytä", "joululautanen"]) }}
 
