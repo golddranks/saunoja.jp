@@ -39,6 +39,6 @@ Joulupäivä alkoi joulupuurolla. Kuvassa näkyvässä riisipuurossa on voisilm�
 
 {{ image_row(images=["riisipuuro", "herkkupöytä"]) }}
 
-Loppupäivä sujui loikoillessa ja herkkuja syödessä. Seuraavana aamuna oli kotiinlähdön aika. Söimme aamupalaksi vielä riisipuuroa, siivosimme jälkemme ja hyvästelimme majapaikan. Kotimatka sujui väsyneissä tunnelmissa, mutta tyytyväisenä siihen, miten mukavaa oli ollut.
+Loppupäivä sujui loikoillessa ja herkkuja syödessä. Seuraavana aamuna oli kotiinlähdön aika. Söimme aamupalaksi vielä riisipuuroa, siivosimme jälkemme ja hyvästelimme majapaikan. Kotimatka sujui väsyneissä tunnelmissa, mutta olimme tyytyväisiä siihen, miten mukavaa oli ollut.
 
 {{ image_single(image="nordepyrde2") }}
