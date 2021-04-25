@@ -18,7 +18,7 @@ Suunnittelimme yhdessä kavereiden kanssa joulua varten ruoat ja etsimme sopivan
 
 {{ image_single(image="jouluhuone") }}
 
-Ruokaa tuli paljon, sillä suomalainen joulu on yltäkylläisyyden aikaa ja ruokaa tulee olla tarjolla runsaasti. Suomalaiset valmistavat yleensä jouluruoat itse, mutta nekin ruoat, jotka normaalisti tulisi Suomessa ostettua valmiina oli nyt tehtävä itse, kuten vaikkapa erimerkiksi laatikot tai luumumarmeladi joulutorttuja varten. 
+Ruokaa tuli paljon, sillä onhan suomalainen joulu yltäkylläisyyden aikaa. Monet valmistavat jouluruokansa itse, mutta nekin ruoat, jotka normaalisti tulisi Suomessa ostettua valmiina oli nyt tehtävä omin voimin, kuten vaikkapa erimerkiksi laatikot tai luumumarmeladi joulutorttuja varten.
 Leipää ei onneksi tarvinnut tehdä itse, sillä tilasimme Kamakurassa sijaitsevasta [Raimugi Haususta](https://raimugihausu.stores.jp) lajitelman erilaisia suomalaisia leipiä.
 Tarjolla oli myös runsaasti suklaata, niin paikan päältä ostettua kuin Suomesta postilla tulleita tuttuja joulusuklaitakin.
 Ruokaa ja herkkuja oli siis yllin kyllin, kuten asiaan kuuluu, emmekä lopulta jaksaneet syödä kaikkea kahden päivän aikana, joten jokainen sai ruokaa vielä kotiin viemisiksikin.
