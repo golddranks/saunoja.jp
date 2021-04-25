@@ -6,7 +6,7 @@ slug = "joulu"
 author = "Pyry & Noora"
 header_image = "header"
 header_style = "background-position: 80% top;"
-title_image = "mies_sauna"
+title_image = "jouluhuone"
 +++
 Joulusta on ehtinyt kulua jo melko lailla aikaa, mutta haluaisimme esitellä miten vietimme sitä suomalaiseen tyyliin täällä Japanissa.
 

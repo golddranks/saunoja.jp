@@ -6,7 +6,7 @@ slug = "joulu"
 author = "Pyry & Noora"
 header_image = "header"
 header_style = "background-position: 80% top;"
-title_image = "mies_sauna"
+title_image = "jouluhuone"
 +++
 
 ４ヶ月以上前の話になりますが日本でフィンランド風クリスマス（フィンランド語でJoulu、ヨウルと言います）を過ごしたことについて少し紹介したいと思います。
