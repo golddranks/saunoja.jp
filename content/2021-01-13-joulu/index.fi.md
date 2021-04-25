@@ -10,8 +10,8 @@ title_image = "mies_sauna"
 +++
 Joulusta on ehtinyt kulua jo melko lailla aikaa, mutta haluaisimme esitellä miten vietimme sitä suomalaiseen tyyliin täällä Japanissa.
 
-Suunnittelimme yhdessä kavereiden kanssa joulua varten ruoat ja etsimme sopivan majoituspaikan missä mahtuisimme olemaan mukavasti kuuden hengen porukalla.
 Normaalisti Suomessa jokainen viettäisi joulua perheensä kanssa, mutta koska olimme koronan takia jumissa Japanissa, päätimme viettää joulua suomalaisten kavereiden kesken. 
+Suunnittelimme yhdessä kavereiden kanssa joulua varten ruoat ja etsimme sopivan majoituspaikan missä mahtuisimme olemaan mukavasti kuuden hengen porukalla.
 
 <!-- more -->
 
