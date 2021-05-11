@@ -21,7 +21,7 @@ Viime syksystä lähtien olemme vältelleet jatkuvasti kontakteja: emme ole käy
 
 Totta kai sopisi!
 
-Koronapandemian jatkuessakin luulen, että suomessa tilanne olisi ollut eri: suomalaisilla ei ole yksityisistä saunoista pulaa. Omakotitalossa se on vakiovaruste, ja monesta kerrostaloasunnostakin löytyy sauna. Kun asuimme vielä suomessa, asuimme halvassa opiskelija-asunnossa, missä saunaa ei ollut, mutta eipä se silti kovin etäiseltä tuntunut: joillakin kavereilla oli saunallinen asunto, ja tarvittaessa voisi mennä saunomaan omien vanhempien luokse.
+Koronapandemian jatkuessakin luulen, että Suomessa tilanne olisi ollut eri: suomalaisilla kun ei ole yksityisistä saunoista pulaa. Omakotitalossa se on vakiovaruste, ja monesta kerrostaloasunnostakin löytyy sauna. Kun asuimme vielä Suomessa, asuimme halvassa opiskelija-asunnossa, missä saunaa ei ollut, mutta eipä se silti kovin etäiseltä tuntunut: joillakin kavereilla oli saunallinen asunto, ja tarvittaessa voisi mennä saunomaan omien vanhempien luokse.
 
 Japanissa näin ei tietenkään ole: saunoja ei löydy ihan joka nurkasta. Mutta toisaalta ei käy kieltäminen, että viime aikoina Japani on myös nauttinut saunabuumista. Tämän buumin ansiosta telttasaunat ovat Japanissa yleistymään päin.
 
@@ -31,7 +31,7 @@ Aion kirjoittaa joskus toiste vielä erikseen telttasaunan hyvistä ja huonoista
 
 {{ image_single(image="sillan_alla") }}
 
-Paikkana oli Tokiosta noin tunnin matkan päässä olevan pikkukaupungin joenvarsi. Paikka oli sopivan lähellä, mutta tarpeeksi kaukana, että aluetta ympäröi vuori- ja metsämaisema Tokion asvalttiviidakon sijasta. Kantoon alueen talvet ovat leutoja verrattuna suomeen ja pohjois-Japaniin, mutta taivas oli pilvessä ja kolea tuuli vilutti hieman. Vuorilta virtaavan joen vesikin näytti kylmältä.
+Paikkana oli Tokiosta noin tunnin matkan päässä olevan pikkukaupungin joenvarsi. Paikka oli sopivan lähellä, mutta tarpeeksi kaukana, että aluetta ympäröi vuori- ja metsämaisema Tokion asvalttiviidakon sijasta. Kantoon alueen talvet ovat leutoja verrattuna Suomeen ja pohjois-Japaniin, mutta taivas oli pilvessä ja kolea tuuli vilutti hieman. Vuorilta virtaavan joen vesikin näytti kylmältä.
 
 Kuljetimme telttasaunan paikan päälle ystävämme kotoa pienellä kärryllä, ja kun lähestyimme joen rantaa, alkoi jännittää: ensimmäistä kertaa pystyttäisimme saunan itse.
 
@@ -43,7 +43,7 @@ Saatuamme telttasaunan pystyyn, tuli mieleen, että vaikka itse teltta ja kiuas 
 
 {{ image_single(image="camp") }}
 
-Vedestä ei tullut pulaa, kun leiripaikka oli joenvarressa. Saunoessa,erityisesti suomalaistyylisesti, vesi on elinehto. Eihän saunominen ole pelkässä lämpimässä tilassa istuskelua, vaan löylynheitto on erottamaton osa sitä. Tämä sai vielä miettimään sitä, että kun valitsee telttasaunomiseen sopivaa leiriytymispaikkaa, veden riittävyyttä on syytä miettiä jo kunnolla etukäteen. Tässä mielessä joenvarret nousevat erinomaisiksi vaihtoehdoiksi. (Muuten, vaikka joessa vettä olisi ollut riittämiin kastautumista ajatellen, se oli niin kylmää että jätimme suosiolla välistä.)
+Vedestä ei tullut pulaa, kun leiripaikka oli joenvarressa. Saunoessa, erityisesti suomalaistyylisesti, vesi on elinehto. Eihän saunominen ole pelkässä lämpimässä tilassa istuskelua, vaan löylynheitto on erottamaton osa sitä. Tämä sai vielä miettimään sitä, että kun valitsee telttasaunomiseen sopivaa leiriytymispaikkaa, veden riittävyyttä on syytä miettiä jo kunnolla etukäteen. Tässä mielessä joenvarret nousevat erinomaisiksi vaihtoehdoiksi. (Muuten, vaikka joessa vettä olisi ollut riittämiin kastautumista ajatellen, se oli niin kylmää että jätimme suosiolla välistä.)
 
 {{ image_row(images=["kuuppa", "loyly"]) }}
 
