@@ -11,7 +11,7 @@ title_image = "telttasauna"
 
 Kesä tekee jo kovaa vauhtia tuloaan, mutta jatketaan vielä edelliskerran teemalla, sillä aiomme palata vielä hieman muistelemaan viime talvea.
 
-Viime syksystä lähtien olemme parhaamme mukaan vältelleet ylimääräisiä ihmiskontakteja: emme ole käyneet julkisissa kylpylöissä tai saunoissa, tapahtumista puhumattakaan (marraskuun Sagan reissua lukuunottamatta). Kaipaus saunaan on ollut kova. Voitte varmaan kuvitella, kuinka ilahduimme kun eräs ystävämme laittoikin viestiä:
+Viime syksyn Sagan reissusta lähtien olemme parhaamme mukaan vältelleet ylimääräisiä ihmiskontakteja: emme ole käyneet julkisissa kylpylöissä tai saunoissa, tapahtumista puhumattakaan. Kaipaus saunaan on ollut kova. Voitte varmaan kuvitella, kuinka ilahduimme kun eräs ystävämme laittoikin viestiä:
 
 "Sopisiko pienellä porukalla saunominen meidän lähellä telttasaunassa?"
 
@@ -25,13 +25,13 @@ Suomessa tilanne olisi ollut varmasti erilainen, suomalaisilla kun ei ole yksity
 
 Japanissa sen sijaan saunoja on harvassa. Toisaalta täällä on viime aikoina ollut nähtävissä oikea saunabuumi, mikä on lisännyt paitsi ihmisten tietoisuutta saunasta, myös saanut monet saunaan hurahtaneet ostamaan oman telttasaunan.
 
-Mainitsimme aiemmin [kirjoittaessamme reissustamme Sagan saunatapahtumaan](../saga3/), että telttasaunat eivät ole Suomessa varsinaisesti yleisiä (ainakaan oman kokemuksemme perusteella), sillä rakennettuja saunoja on niin paljon, että tarvetta niille ei juuri ole. Mekään emme olleet saunoneet telttasaunassa ennen Japaniin muuttamista, ja suoraan sanoen pidimme sitä vain oikean saunan korvikkeena. Japanissa olemme kuitenkin päässeet nauttimaan telttasaunasta monenlaisissa paikoissa ja seurassa, ja löytäneet myös sen omat hyvät puolet. Saunakulttuuri yllätti suomalaisen monipuolisuudellaan!
+Mainitsimme aiemmin [kirjoittaessamme reissustamme Sagan saunatapahtumaan](../saga3/), että telttasaunat eivät ole Suomessa varsinaisesti yleisiä, sillä rakennettuja saunoja on niin paljon, että tarvetta niille ei juuri ole. Mekään emme olleet saunoneet telttasaunassa ennen Japaniin muuttamista, ja suoraan sanoen pidimme sitä vain oikean saunan korvikkeena. Japanissa olemme kuitenkin päässeet nauttimaan telttasaunasta monenlaisissa paikoissa ja seurassa, ja löytäneet myös sen omat hyvät puolet. Saunakulttuuri yllätti suomalaisen monipuolisuudellaan!
 
 Aiomme paneutua telttasaunan hyviin ja huonoihin puoliin vielä erikseen, mutta tällä kertaa tarkoituksena on raportoida tästä yhdestä joenvarren telttasaunakeikasta ystävien kanssa, joten asiaan!
 
 {{ image_single(image="sillan_alla") }}
 
-Paikkana oli Tokiosta noin tunnin matkan päässä olevan pikkukaupungin joenvarsi. Se oli sopivan lähellä, mutta tarpeeksi kaukana, että aluetta ympäröi vuori- ja metsämaisema Tokion asvalttiviidakon sijasta. Kantoon alueen talvet ovat leutoja verrattuna Suomeen ja pohjois-Japaniin, mutta joulukuun pilvinen taivas ja kolea tuuli viluttivat silti hieman. Vuorilta virtaavan joen vesikin näytti kylmältä.
+Paikkana oli Tokiosta noin tunnin matkan päässä olevan pikkukaupungin joenvarsi. Se oli sopivan lähellä, mutta tarpeeksi kaukana, että aluetta ympäröi vuori- ja metsämaisema Tokion asvalttiviidakon sijasta. Kantoon alueen talvet ovat leutoja verrattuna Suomeen ja pohjois-Japaniin, mutta pilvinen taivas ja kolea tuuli viluttivat silti hieman. Vuorilta virtaavan joen vesikin näytti kylmältä.
 
 Kuljetimme telttasaunan paikan päälle ystävämme kotoa pienellä kärryllä, ja kun lähestyimme joen rantaa, alkoi jännittää, koska meidän pitäisi pystyttää telttasauna ensimmäistä kertaa itse.
 
@@ -47,11 +47,11 @@ Vedestä ei ollut pulaa, kun leiripaikka oli joenvarressa. Saunoessa, erityisest
 
 {{ image_row(images=["kuuppa", "loyly"]) }}
 
-Löylyn heittäminen pitkästä aikaa oli ihanaa (vaikka olimme viimeksi päässeet sitä tekemään vain muutamaa viikkoa aiemmin Sagassa käydessämme)! Lisäksi päädyimme nauttimaan saunomisesta hieman erikoisella tavalla: paistoimme kiukaan luukussa makkaraa samalla kun saunoimme, ja söimme ne saunateltassa sisällä. Kylmänä päivänä kuuma makkara oli herkkua.
+Löylyn heittäminen pitkästä aikaa oli ihanaa! Lisäksi päädyimme nauttimaan saunomisesta hieman erikoisella tavalla: paistoimme kiukaan luukussa makkaraa samalla kun saunoimme, ja söimme ne saunateltassa sisällä. Kylmänä päivänä kuuma makkara oli herkkua.
 
 {{ image_row(images=["patsi", "sameshi"]) }}
 
-Kuvassa näkyy käyttämämme polttoainekalikka, joka oli tehty puruista. Se oli hauska keksintö, ja sen ominaisuuksiin kuului tasainen ja rauhallinen palotahti. Ehdimme ajatella, että siinäpä hyvä keksintö, kun tulta ei tarvitse sitten huoltaa niin usein. Ikäväksemme jouduimme toteamaan, etteivät ne riittäneet pitämään saunaa tarpeeksi kuumana, kun käytössä oli pieni kiuas ja telttasauna, josta lämpö väistämättä karkaa helposti. Tekisi mieli kokeilla, toimisiko hitaasti palava kalikka paremmin kesäkuumalla, mutta talven kylmyydessä jäimme kaipaamaan hieman korkeammalla lämmöllä palavaa polttoainetta.
+Kuvassa näkyy käyttämämme polttoainekalikka, joka oli tehty viljan puimajätteestä. Se oli hauska keksintö, ja sen ominaisuuksiin kuului tasainen ja rauhallinen palotahti. Ehdimme ajatella, että siinäpä hyvä keksintö, kun tulta ei tarvitse sitten huoltaa niin usein. Ikäväksemme jouduimme toteamaan, etteivät ne riittäneet pitämään saunaa tarpeeksi kuumana, kun käytössä oli pieni kiuas ja telttasauna, josta lämpö väistämättä karkaa helposti. Tekisi mieli kokeilla, toimisiko hitaasti palava kalikka paremmin kesäkuumalla, mutta talven kylmyydessä jäimme kaipaamaan hieman korkeammalla lämmöllä palavaa polttoainetta.
 
 {{ image_single(image="fuel") }}
 
