@@ -8,12 +8,10 @@
 {% set image = relpath | concat(with=page.extra.title_image ~ ".jpg") | join(sep="/") %}
 
 {% if lang == "ja" %}
-<meta name="twitter:title" content="{{ config.extra.site_title }}【{{ page.title }}】"/>
 <meta property="og:title" content="{{ config.extra.site_title }}【{{ page.title }}】"/>
 <title>{{ config.extra.site_title }}【{{ page.title }}】</title>
 {% set separator = "。" %}
 {% else %}
-<meta name="twitter:title" content="{{ config.extra.site_title }} {{ page.title }}"/>
 <meta property="og:title" content="{{ config.extra.site_title }} {{ page.title }}"/>
 <title>{{ config.extra.site_title }} {{ page.title }}</title>
 {% set separator = ". " %}
@@ -22,14 +20,11 @@
 {% set page_description = page.summary | striptags | replace(from="
 ", to=" ") %}
 {% set description = site_description ~ separator ~ page_description %}
-<meta name="twitter:description" content="{{ description }}"/>
 <meta property="og:description" content="{{ description }}"/>
 <meta property="og:type" content="article"/>
 <meta property="og:site_name" content="{{ config.extra.site_title }}"/>
 <meta property="og:url" content="{{ current_url | safe }}"/>
 <meta property="og:image" content="{{ resize_image(path=image, width=1200, op='fit_width') | safe }}"/>
-<meta name="twitter:card" content="summary_large_image"/>
-<meta name="twitter:image" content="{{ resize_image(path=image, width=1200, op='fit_width') | safe }}"/>
 {% endblock %}
 
 {% block content %}
