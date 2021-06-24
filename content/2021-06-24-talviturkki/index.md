@@ -5,9 +5,9 @@ draft = true
 
 [extra]
 author = "Pyry & Noora"
-header_image = "sauna_sillan_alla6"
+header_image = "sauna_sillan_alla"
 header_style = "background-position: 30% top;"
-title_image = "telttasauna4"
+title_image = "telttasauna"
 +++
 
 a
