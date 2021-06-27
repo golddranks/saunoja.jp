@@ -5,11 +5,11 @@ slug = "talviturkki"
 [extra]
 author = "Noora & Pyry"
 header_image = "sauna_sillan_alla"
-header_style = "background-position: 80% top;"
+header_style = "background-position: 8n0% top;"
 title_image = "telttasauna"
 +++
 
-Hei taas! Edellisestä telttasaunaepisodistamme on reaaliajassa kulunut jo monta vuodenaikaa, joten skippaamme loppukevääseen. Aloimme tuumimaan, että lämpimämmillä ilmoilla uusi kokeilu telttasaunomisesta olisi paikallaan, joten kutsuimme itsemme ystäviemme luokse löylyttelemään! Nyt seuraa siis eräänlainen jatkoepisodi edellisestä telttasaunakokemuksestamme.
+Hei taas! Edellisestä telttasaunaepisodistamme on reaaliajassa kulunut jo monta vuodenaikaa, joten skippaamme loppukevääseen. Aloimme tuumimaan, että lämpimämmillä ilmoilla uusi kokeilu telttasaunomisesta olisi paikallaan, joten kutsuimme itsemme ystäviemme luokse löylyttelemään! Nyt seuraa siis jatkostoori telttasaunakokemuksesellemme!
 
 <!-- more -->
 
@@ -21,7 +21,7 @@ Olimme valmistautuneet tekemällä myös hieman hankintoja: uudet kylpytakit! Fr
 
 Heitimme talviturkit vuorilta virtaavassa jokivedessä! Kuten arvata saattaa, se oli melko vilpoista. Japanissa suomalaistyylisen saunonnan suosittu oheisharrastus on *mizuburo*, kylmävesikylvyt. Tällä imitoidaan tietysti Suomessa tapahtuvaa järveen pulahtamista.
 
-Maiden kastautumiskulttuureissa on kuitenkin selkeä ero: Suomessa järvessä voidaan kastautumisen lisäksi uida verkkainen lenkki, ja lapset saattavat harrastaa vesileikkeja. Tällöin mitä lämpimämpää vesi on, sitä miellyttävämpi kokemuksesta tulee – Suomessa järvivesi kun ei lämpene tunkkaisen haaleaksi asti. (Mitä Japanissa saattaa käydä!) Toisena ääripäänä onkin sitten avantouinti: veden on tarkoituskin olla jääkylmää ja sinne ei jäädä viihtymään pitkiksi ajoiksi – lisäksi voinee sanoa että avantouinti, vaikka Suomessa suosittua toki onkin, ei ole samalla lailla koko kansan harrastus kuin kesällä järvessä uiminen.
+Maiden kastautumiskulttuureissa on kuitenkin selkeä ero: Suomessa järvessä voidaan kastautumisen lisäksi uida verkkainen lenkki, ja lapset saattavat harrastaa vesileikkejä. Tällöin mitä lämpimämpää vesi on, sitä miellyttävämpi kokemuksesta tulee – Suomessa järvivesi kun ei lämpene tunkkaisen haaleaksi asti. (Mitä Japanissa saattaa käydä!) Toisena ääripäänä onkin sitten avantouinti: veden on tarkoituskin olla jääkylmää ja sinne ei jäädä viihtymään pitkiksi ajoiksi – lisäksi voinee sanoa että avantouinti, vaikka Suomessa suosittua toki onkin, ei ole samalla lailla koko kansan harrastus kuin kesällä järvessä uiminen.
 
 Japanissa saunomisen yhteydessä tapahtuva kastautuminen on ikään kuin välimuoto näistä kahdesta: uimista ja vesileikkejä ei harrasteta, vaan tarkoituksena on vain kastautua istualtaan kylmään veteen ja viilentyä hetki. Harvemmin vesi on kuitenkaan avantolämpöistä, vaan jonkinlainen väliaste avannosta ja suomen järvilämpötiloista: 15 °C on yleinen lämpötila.
 
