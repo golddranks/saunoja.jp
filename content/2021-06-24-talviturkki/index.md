@@ -1,12 +1,12 @@
 +++
-title = "初水風呂”冬毛を捨てました！”"
+title = "2021年の初水風呂！"
 slug = "talviturkki"
 
 [extra]
 author = "Pyry & Noora"
-header_image = "sauna_sillan_alla"
+header_image = "jokitelttanoora"
 header_style = "background-position: 80% top;"
-title_image = "telttasauna"
+title_image = "jokitelttanoora"
 +++
 
 ヤッホー！この前書いたテントサウナを初めて張ったエピソードから、もう時が経てそろそろ梅雨に入りそうな季節が巡ってきていました。過ごしやすい気温でテントサウナにまた入ってみたいという気持ちになって、テントサウナを持っている友達にまた誘っていただきました！以下、テントサウナのリベンジ編を報告させていただきます！
