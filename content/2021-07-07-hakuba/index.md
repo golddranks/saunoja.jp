@@ -1,6 +1,6 @@
 +++
 title = "フィンランド人だけど、テントサウナは張ったことがない？！"
-slug = "telttasauna 2"
+slug = "hakuba"
 draft = true
 
 [extra]

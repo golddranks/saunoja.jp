@@ -1,6 +1,6 @@
 +++
 title = "Jylhä vuorisauna"
-slug = "tabisauna"
+slug = "hakuba"
 draft = true
 
 [extra]
