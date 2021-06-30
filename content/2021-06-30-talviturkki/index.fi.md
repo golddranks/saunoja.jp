@@ -35,9 +35,9 @@ Nyt loppukeväästä ilma oli oikein mukava; vilu ei päässyt yllättämään, 
 
 Heitimme talviturkit vuorilta virtaavassa jokivedessä! Kuten arvata saattaa, se oli melko vilpoista. Japanissa suomalaistyylisen saunonnan suosittu oheisharrastus on *mizuburo*, kylmävesikylvyt. Tällä imitoidaan tietysti Suomessa tapahtuvaa järveen pulahtamista.
 
-Maiden kastautumiskulttuureissa on kuitenkin selkeä ero: Suomessa järvessä voidaan kastautumisen lisäksi uida verkkainen lenkki, ja lapset saattavat harrastaa vesileikkejä. Tällöin mitä lämpimämpää vesi on, sitä miellyttävämpi kokemuksesta tulee – Suomessa järvivesi kun ei lämpene tunkkaisen haaleaksi asti. (Mitä Japanissa saattaa käydä!) Toisena ääripäänä onkin sitten avantouinti: veden on tarkoituskin olla jääkylmää ja sinne ei jäädä viihtymään pitkiksi ajoiksi – lisäksi voinee sanoa että avantouinti, vaikka Suomessa suosittua toki onkin, ei ole samalla lailla koko kansan harrastus kuin kesällä järvessä uiminen.
+Maiden kastautumiskulttuureissa on kuitenkin selkeä ero: Suomessa järvessä voidaan kastautumisen lisäksi uida verkkainen lenkki, ja lapset saattavat harrastaa vesileikkejä. Tällöin mitä lämpimämpää vesi on, sitä miellyttävämpi kokemuksesta tulee – Suomessa järvivesi kun ei lämpene tunkkaisen haaleaksi asti (mitä Japanissa saattaa käydä!). Toisena ääripäänä onkin sitten avantouinti: veden on tarkoituskin olla jääkylmää ja sinne ei jäädä viihtymään pitkiksi ajoiksi – lisäksi voinee sanoa että avantouinti, vaikka Suomessa suosittua toki onkin, ei ole samalla lailla koko kansan harrastus kuin kesällä järvessä uiminen. Itse asiassa meistä kumpikaan ei ole vielä käynyt avannossa.
 
-{{ video_single(video="pierula", caption="Tässä havainnollistava esimerkki suomalaisesta kastautumisesta kesältä 2019!") }}
+{{ video_single(video="pierula", caption="Pyryn tyylinäyte suomalaisesta kastautumisesta kesältä 2019!") }}
 
 Japanissa saunomisen yhteydessä tapahtuva kastautuminen on ikään kuin välimuoto näistä kahdesta: uimista ja vesileikkejä ei harrasteta, vaan tarkoituksena on vain kastautua istualtaan kylmään veteen ja viilentyä hetki. Harvemmin vesi on kuitenkaan avantolämpöistä, vaan jonkinlainen väliaste avannosta ja suomen järvilämpötiloista: 15 °C on yleinen lämpötila.
 
@@ -47,4 +47,4 @@ Olut ja makkara olivat kuin piste i:n päälle. Sinappiakin oli niin suomalaista
 
 {{ image_single(image="maisema") }}
 
-Kokonaisuudessaan toinen itse pystytetty telttasaunamme oli monella tapaa parannus ensimmäiseen kertaan! Tämänhän voisi ottaa tavaksi.
+Kokonaisuudessaan toinen itse pystyttämämme telttasauna oli monella tapaa parannus ensimmäiseen kertaan! Tämänhän voisi ottaa tavaksi.
