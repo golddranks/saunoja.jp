@@ -1,0 +1,11 @@
+{% set vid_path = video ~ ".mp4" %}
+<figure>
+<div class="imgrow">
+    <div>
+        <video src="{{ vid_path | safe }}" loop autoplay controls preload></video>
+    </div>
+</div>
+{% if caption %}
+<figcaption>{{ caption }}</figcaption>
+{% endif %}
+</figure>
