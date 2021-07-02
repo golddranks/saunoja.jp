@@ -60,11 +60,10 @@ body { margin: 0 }
 
 {% if page.extra.header_image %}
 {% set header_image_path = relpath | concat(with=extra.header_image ~ ".jpg") | join(sep="/") %}
-{% set header_image_dataurl = load_data(path = content_relpath | concat(with=extra.header_image ~ ".dataurl") | join(sep="/")) | trim %}
 {% else %}
 {% set header_image_path = "vene.jpg" %}
-{% set header_image_dataurl = "vene.jpg" %}
 {% endif%}
+{% set header_image_dataurl = load_data(path = content_relpath | concat(with="header.dataurl") | join(sep="/")) %}
 {% set page = page | default(value=section) %}
 <body class="lang-{{lang}}">
   <header style="background-image: url({{
