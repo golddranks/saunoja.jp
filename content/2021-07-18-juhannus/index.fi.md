@@ -1,6 +1,7 @@
 +++
 title = "Juhannus Yamanashissa"
 slug = "juhannus"
+draft = true
 
 [extra]
 author = "Pyry & Noora"
