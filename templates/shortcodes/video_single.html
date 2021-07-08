@@ -6,6 +6,6 @@
     </div>
 </div>
 {% if caption %}
-<figcaption>{{ caption }}</figcaption>
+<figcaption>{{ caption | markdown(inline=true) | safe }}</figcaption>
 {% endif %}
 </figure>
