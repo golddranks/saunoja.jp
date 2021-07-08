@@ -1,7 +1,6 @@
 +++
 title = "本格的なフィンランド夏至in山梨"
 slug = "juhannus"
-draft = true
 
 [extra]
 author = "Pyry & Noora"
