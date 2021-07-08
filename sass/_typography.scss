@@ -70,12 +70,39 @@ footer {
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: 800;
-  letter-spacing: 4px;
   text-transform: uppercase;
+  letter-spacing: 4px;
   font-family: "Raleway", "Hiragino Sans", Helvetica, sans-serif;
   text-justify: distribute;
   hyphens: auto;
 }
+
+#main {
+  h1 {
+    font-size: 1.5em;
+  }
+
+  h2 {
+    font-size: 1.3em;
+  }
+
+  h3 {
+    font-size: 1.1em;
+  }
+
+  h4, h5, h6 {
+    font-size: 1.0em;
+  }
+}
+
+.lang-ja {
+  #main {
+    h1, h2, h3, h4, h5, h6 {
+      text-transform: none;
+    }
+  }
+}
+
 
 #main {
   color: $text-color;
@@ -84,7 +111,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 2em;
   h1, h2, h3, h4, h5, h6 {
     color: $heading-text-color;
-    margin: 0 0 1em 0;
+    margin: 1em 0 1em 0;
   }
   p {
     a {

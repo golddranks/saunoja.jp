@@ -33,7 +33,7 @@
 {% endblock %}
 
 {% block content %}
-<h2>{{ page.title | safe }}</h2>
+<h1>{{ page.title | safe }}</h1>
 {{ macros::post_info(page=page) }}
 
 {{ page.content | safe }}

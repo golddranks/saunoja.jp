@@ -17,7 +17,7 @@
 {% block content %}
 {{ section.content | safe }}
 {% for page in paginator.pages %}
-<h2><a href="{{ page.path | safe }}">{{ page.title | safe }}</a></h2>
+<h1><a href="{{ page.path | safe }}">{{ page.title | safe }}</a></h1>
 {{ macros::post_info(page=page) }}
 {% if page.extra.title_image %}
 {% set relative_path = page.relative_path | default(value=section.relative_path) %}
