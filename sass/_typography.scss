@@ -113,7 +113,7 @@ h1, h2, h3, h4, h5, h6 {
     color: $heading-text-color;
     margin: 1em 0 1em 0;
   }
-  p {
+  p, figure {
     a {
       color: $link-color;
       text-decoration: none;
@@ -124,6 +124,7 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+// For the saunoja header and the headings not to get stylized as links
 a {
   color: inherit;
   text-decoration: none;

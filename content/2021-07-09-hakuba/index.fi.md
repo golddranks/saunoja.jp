@@ -59,7 +59,7 @@ Sauna oli selkeästi ohjattu "elämys": Bun hoiti löylynheittäjän, vihtojan j
 
 Paikalla oli toki myös paljon saunoja, joissa saimme nauttia löylyn heittämisestä itse; japaniksi tämä tunnetaan nimellä *self rouryu*, siis itsepalvelulöyly. On kuvaavaa, että löylymestarin läsnäolo on sen verran oletusarvoinen asia, että itsepalvelulöylylle on syntynyt erillinen terminsä.
 
-{{ image_single(image="löylykaari", caption="Inkan tyylinäyte suomalaisesta löylynheitosta. Japanilaiset tapaavat kaataa veden kiukaalle hitaasti ja huolellisesti.") }}
+{{ image_single(image="loylykaari", caption="Inkan tyylinäyte suomalaisesta löylynheitosta. Japanilaiset tapaavat kaataa veden kiukaalle hitaasti ja huolellisesti.") }}
 
 Toinen hauska erikoisuus oli toisen löylymestarin, Amiton tuottama "bilesauna". Amito huudatti saunassa tanssimusiikkia, ja saunasta kaikuivat kiljahdukset ja villin vihtomisen ääni. Löylyjen loputtua saunojat ryntäsivät kylmävesialtaalle, ja tapahtuipa siinä jonkinlaista vesisodan poikastakin – vaikka juuri [pääsimme sanomasta, että Japanilaiset eivät *mizuburon* yhteydessä vesileikkejä harrasta](@/2021-06-30-talviturkki/index.fi.md). Pyryllä oli poistettu joitakin päiviä aiemmin viisaudenhammas, ja poski oli vielä turvoksissa, joten emme tohtineet lähteä itse riehumaan bilesaunaan, mutta sen sivusta seuraaminen oli hauskaa.
 
