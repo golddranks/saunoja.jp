@@ -5,8 +5,11 @@
 
 {% set relative_path = page.relative_path | default(value=section.relative_path) %}
 {% set relpath = relative_path | split(pat="/") | slice(end=-1) %}
-{% set image = relpath | concat(with=page.extra.title_image ~ ".jpg") | join(sep="/") %}
-
+{% if page.extra.title_image %}
+    {% set image = relpath | concat(with=page.extra.title_image ~ ".jpg") | join(sep="/") %}
+{% else %}
+    {% set image = 'card_vene.jpg' %}
+{% endif %}
 {% if lang == "ja" %}
 <meta property="og:title" content="{{ config.extra.site_title }}【{{ page.title }}】"/>
 <title>{{ config.extra.site_title }}【{{ page.title }}】</title>
@@ -30,7 +33,7 @@
 {% endblock %}
 
 {% block content %}
-<h2>{{ page.title | safe }}</h2>
+<h1>{{ page.title | safe }}</h1>
 {{ macros::post_info(page=page) }}
 
 {{ page.content | safe }}

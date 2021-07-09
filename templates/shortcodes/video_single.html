@@ -2,10 +2,10 @@
 <figure>
 <div class="imgrow">
     <div>
-        <video src="{{ vid_path | safe }}" loop autoplay controls preload></video>
+        <video src="{{ vid_path | safe }}" loop autoplay controls preload muted></video>
     </div>
 </div>
 {% if caption %}
-<figcaption>{{ caption }}</figcaption>
+<figcaption>{{ caption | markdown(inline=true) | safe }}</figcaption>
 {% endif %}
 </figure>

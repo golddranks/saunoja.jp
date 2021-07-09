@@ -3,7 +3,6 @@ p {
 }
 
 .imgrow {
-  max-height: 600px;
   max-width: 100%;
   display: flex;
   justify-content: space-between;
@@ -19,13 +18,20 @@ p {
   }
 }
 
-:not(figure)+figure {
+figure {
   margin-top: 2em;
 }
 
+// ei marginaalia kuvien väliin
+figure+figure{
+  margin-top: 0;
+}
+
+// muu elementti jonka yllä on kuva
 figure+:not(figure) {
   margin-top: 2em;
 }
+
 
 figcaption {
   text-align: center;
