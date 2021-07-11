@@ -82,7 +82,7 @@ Suomalaiseen saunaan kuuluvat tietysti myös kunnon lauteet, ei tuoleja, mitä v
 
 Kuitenkin erityisesti juhannussaunaa ajatellen jotain jää puuttumaan. Kyse on kiukaasta. Vuokramökin sähkökiuas on toki kätevä ja turvallinen, mutta kun ajattelee suomalaista mökkisaunaa järven rannassa, niin tulen sytyttäminen, klapien ja savun aromi ja kiukaan sisästä kantautuva liekkien humina tuovat kaikki oman tärkeän lisänsä saunomiseen. Sanoopa moni saunaukkokin että kiireetön klapien hakkuu sen kummempia ajattelematta on myös osa saunan nautintoa. Loppukaneettina siis: puusauna olisi ollut se niin sanottu piste iin päälle juhannuksen vietossamme.
 
-{{ video_single(video="loyly", caption="バシャ〜") }}
+{{ video_single(video="loyly", caption="Löylyä lissää!") }}
 
 Nautittuamme löylyttelystä kylliksemme, vilvoittelimme terassilla olutta siemaillen ja raikasta ulkoilmaa hengittäen . *Totonotta*, niinkuin japanilaiset saunojat kuvaavat tätä rentoa olotilaa.
 
