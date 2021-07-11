@@ -10,9 +10,9 @@ title_image = "mokki"
 thin_header_style = "text-shadow: 1px 1px 4px rgb(0, 55, 77), 0px 0px 5px rgb(0, 0, 0);"
 +++
 
-Mitkä ovat vuoden tärkeimmät juhlapyhät? Japanissa ne lienevät [uusi vuosi](https://en.wikipedia.org/wiki/Japanese_New_Year) ja [o-bon](https://en.wikipedia.org/wiki/Bon_Festival), kun taas Suomessa [joulu](@/2021-04-25-joulu/index.fi.md) ja juhannus. Juhannuksesta tekee tietysti erityisen kesän juhliminen ja yötön yö.
+Mitkä ovat vuoden tärkeimmät juhlapyhät? Japanissa ne lienevät [uusi vuosi](https://en.wikipedia.org/wiki/Japanese_New_Year) ja [o-bon](https://en.wikipedia.org/wiki/Bon_Festival), kun taas Suomessa ne ovat [joulu](@/2021-04-25-joulu/index.fi.md) ja juhannus. Juhannuksesta tekee tietysti erityisen kesän juhliminen ja yötön yö.
 
-Juhannuksen juhlintaan kuuluu järvenrannassa saunominen ja hyvä ruoka. Kesälomalle lähtö Suomeen asti jäi meiltä kuitenkin pandemian takia sivu suun tältä vuodelta. Siksipä päätimme viettää suomalaista juhannusta Japanissa! Alla kerromme juhannuksenvietostamme täällä niin paikan, ruoan kuin saunomisenkin osalta.
+Juhannuksen juhlintaan kuuluu yleensä mökillä järvenrannassa saunominen ja hyvä ruoka. Koronan takia kesäloma Suomessa ei ollut mahdollinen, joten päätimme viettää suomalaista juhannusta täällä Japanissa! Alla kerromme juhannuksenvietostamme täällä niin paikan, ruoan kuin saunomisenkin osalta.
 
 <!-- more -->
 
@@ -20,25 +20,25 @@ Juhannuksen juhlintaan kuuluu järvenrannassa saunominen ja hyvä ruoka. Kesälo
 
 ## Paikka
 
-Lähdimme etsimään suomalaisen oloista paikkaa, ja satuimme löytämään aivan upean vuokramökin. Japanissa vuokramökkejä on kyllä yleisesti tarjolla, mutta suomalaistyylisiä ne eivät välttämättä ole – suomalainen mökkihän ei useinkaan ole mikään luksushuvila, vaan iso osa mökkeilyn viehätyksestä on yksinkertaisempaan elämäntyyliin mukautumisessa. Toki makunsa kullakin!
+Lähdimme etsimään suomalaisen oloista paikkaa, ja satuimme löytämään aivan upean vuokramökin. Japanissa vuokrattavia taloja on kyllä yleisesti tarjolla, mutta suomalaistyylisiä ne eivät välttämättä ole – suomalainen mökkihän ei useinkaan ole mikään luksushuvila, vaan iso osa mökkeilyn viehätyksestä on yksinkertaisempaan elämäntyyliin mukautumisessa. Toki makunsa kullakin!
 
-{{ image_single(image="jarvi", caption="Yamanaka-järvi. Ranta oli hieman liian kaukana suoraan saunasta kastautumiseen, mutta ei kuitenkaan viiden minuutin kävelymatkaa kauempana.") }}
+{{ image_single(image="jarvi", caption="Yamanaka-järvi. Noin viiden minuutin kävelymatkan päässä oli järvi, jossa ei kuitenkaan voinut uida.") }}
 
-Suomessa mökkeily kuuluu niin juhannuksen viettoon niin vahvasti, että haaveilimme juuri luonnon keskellä, järven rannalla sijaitsevasta saunalla varustetusta mökistä. Onneksemme löysimme juuri sellaisen Yamanashin läänin Yamanaka-järven rannalta. Mökki oli niin aidon oloinen, että se olisi voinut olla suomalainen – ja itse asiassa se olikin! Mökki oli nimittäin suomalaisen valmistajan rakentama!
+Suomessa mökkeily kuuluu juhannuksen viettoon niin vahvasti, että haaveilimmekin juuri luonnon keskellä, järven rannalla sijaitsevasta saunalla varustetusta mökistä. Onneksemme löysimme juuri sellaisen Yamanashin läänin Yamanaka-järven rannalta. Mökki oli kuin suoraan Suomesta tuotu, eikä ihme: se on suomalaisen Honka-yrityksen rakentama.
 
 {{ image_row(images=["mokkipiha1", "mokkipiha2"]) }}
 
-Vuokratoimintaa pyöritti hirsimökeistään tuttu Honkarakenne! 
+Vuokratoimintaa pyöritti hirsitaloistaan tuttu Honka! 
 
 {{ image_row(images=["mokkisisa1", "mokkisisa2"]) }}
 
 {{ image_row(images=["mokkisisa3", "mokkisisa4"]) }}
 
-Suomalainen sisälle asti. Puurakenne ja hirsiseinät tuovat erityisen, nostalgisen tunnelmansa. Tunnelmaa luomassa olivat myös seinille liimatut monenkieliset Suomen-matkoja mainostavat julisteet vuosikymmenten takaa. Mökki oli todella tilava: sänkytilaa riitti kuudelle hengelle, ja saimme pyydettyä isännöitsijältä lisäpatjan seitsemännelle.
+Suomalaisen näköinen niin ulkoa kuin sisältäkin. Puiset rakenteet ja hirsiseinät loivat ihanan kotoisan tunnelman. Suomalaista henkeä luomassa olivat myös seiniä koristavat retrot, monikieliset Suomi-matkailujulisteet. Sisältä mökki oli todella tilava: sänkyjä oli kuudelle hengelle, ja lisämaksusta saimme ekstrapatjan seitsämännelle majoittujalle.
 
 {{ image_single(image="fujisan", caption="Fuji-vuori!") }}
 
-Tietysti toisin kuin laakeassa Suomessa, Yamanashin lähiseuduilla oli vuoristoista. Noora ja osa ystävistämme lähtivät kiipeilyretkellekin. Fuji-vuorikin näkyi hyvällä säällä. Mutta toki kuten juhannuksena voisi odottaa, ilma oli aika lailla pilvinen. Japanin sadekausi ei ollut vielä hellittänyt otettaan, mutta epävakaa sääkin tuntui autenttiselta juhannuskokemukselta.
+Tietysti toisin kuin laakeassa Suomessa, Yamanashi on vuoristoista seutua. Noora ja pari muuta kaveria kävivät jopa kiipeämässä parille läheiselle vuorelle. Lähellä sijaitseva Fuji-vuorikin näyttäytyi muutamaan otteeseen kun sää kirkastui. Mutta toki kuten juhannukseen kuuluu, ilma oli enimmäkseen pilvinen. Japanin sadekausi ei ollut vielä hellittänyt otettaan, mutta epävakaa sää vain loi aitoa juhannuksen tuntua.
 
 Jos etsimällä etsii eroja suomalaisesta juhannuksen ilmapiiristä, niin Japanissa on kesälläkin paljon pimeämmät yöt kuin Suomessa. Pimeys sai illat tuntumaan enemmänkin elokuun öiden mökkeilyltä.
 
@@ -52,19 +52,19 @@ Vihdoin hiukopalaa! Juhannukseen tietysti kuuluu uudet perunat ja silli. Noora e
 
 Suomalaiseen tyyliin teimme myös uuniherkkuja. Kesä on raparperien aikaa, joten Noora pyöräytti raparperipiirakan!
 
-{{ image_row(images=["raparperipiirakka1", "raparperipiirakka2"], caption="Jäätelön kanssa se on vielä parempaa!") }}
+{{ image_row(images=["raparperipiirakka1", "raparperipiirakka2"], caption="Erittäin hyvää vaniljajäätelön kanssa!") }}
 
 Lisäksi tarjolla oli itse tehtyjä karjalanpiirakoita, sekä tietysti munavoita.
 
 {{ image_row(images=["karjalanpiirakka1", "karjalanpiirakka2"]) }}
 
-Sitten juomapuoli. Juhannuksena tunnetusti viina virtaa, emmekä tehneet poikkeusta. Nautimme oluita ja japanissa suosittuja lemon sour -drinkkejä, jotka muistuttavat hieman lonkeroa, joskaan ne eivät ole ginipohjaisia. Suomalaistyyliseen juhannusjuomavalikoimaan toimme lisämaustetta siemailemalla porukalla sake-maistelusettiä.
+Sitten juomapuoli. Juhannuksena kuuluu olla monipuolisesti juotavaa, emmekä me tehneet siinä poikkeusta. Nautimme mm. erilaisia oluita ja Japanissa suosittuja lemon sour -juomia, jotka muistuttavat hieman lonkeroa, joskaan ne eivät ole ginipohjaisia. Suomalaistyyliseen juhannusjuomavalikoimaan toimme lisämaustetta siemailemalla porukalla sake-maistelusettiä.
 
-{{ image_row(images=["sake", "drinkit"], caption="Raparpericocktail!") }}
+{{ image_row(images=["sake", "drinkit"], caption="Sakepulloja ja ginipohjaisia raparperidrinkkejä!") }}
 
 ## Sauna
 
-Saunominen lienee tärkein juhannusperinne. Kuten yllä kirjoitimme, mökki oli saunalla varustettu. Sauna päätyi loppujen lopuksi tärkeäksi valintakriteeriksi puntaroidessamme vuokramökkivaihtoehtojen välillä. Kaikilla meistä oli kulunut jo puolitoista vuotta siitä, kun olimme päässeet viimeksi autenttiseen suomalaiseen saunaan, joten oli hienoa että löysimme paikan, jonka saunaan olimme aidosti tyytyväisiä.
+Juhannuksen tärkein perinne on varmaan saunominen. Kuten yllä kirjoitimme, vuokramökkiimme kuului sauna. Sauna oli loppujen lopuksi ratkaiseva valintakriteeri puntaroidessamme majoitusvaihtoehtojen välillä. Kaikilla meistä oli kulunut jo puolitoista vuotta siitä, kun olimme päässeet viimeksi autenttiseen suomalaiseen saunaan, joten oli hienoa että löysimme paikan, jonka saunaan olimme aidosti tyytyväisiä.
 
 {{ image_row(images=["saunaovi", "sauna"]) }}
 
@@ -74,16 +74,16 @@ Pyry innostui pohtimaan, mikä tästä saunasta sitten teki niin autenttisen. Ai
 
 {{ image_single(image="saunatower") }}
 
-Seuraavaksi saunahuoneen suunnittelu. Suomalainen sauna on korkea, tornimallinen. Saunojat istuvat korkealla, pää melkein kiinni katossa, ja varpaatkin kiukaan yläosan tasolla. Jos näin ei olisi, löyly jäisi laihaksi. Toisin kuin saksalaisessa *aufguss*-saunomisessa, suomalaisessa saunassa ei ole tapana eikä tarpeen leyhytellä pyyhettä jotta saunojat pääsisivät nauttimaan lämpimästä ilmasta – suomalainen sauna hoitaa ilman kierrättämisen itsestään: kuuma höyry nousee kiukaasta, osuu kattoon ja hajoaa ympäri saunaa, kierrättäen kuumaa ilmaa saunan yläosassa.
+Sitten saunahuoneen rakenne. Suomalainen sauna on korkeahko, tornimallinen. Saunojat istuvat korkealla, pää melkein kiinni katossa, ja varpaatkin kiukaan yläosan tasolla. Jos näin ei olisi, löyly jäisi laihaksi. Toisin kuin saksalaisessa *aufguss*-saunomisessa, suomalaisessa saunassa ei ole tapana eikä tarpeen leyhytellä pyyhettä jotta saunojat pääsisivät nauttimaan lämpimästä ilmasta – suomalainen sauna hoitaa ilman kierrättämisen itsestään: kuuma höyry nousee kiukaasta, osuu kattoon ja hajoaa ympäri saunaa, kierrättäen kuumaa ilmaa saunan yläosassa.
 
 Sitten tietysti kunnon lauteet, ei mitään tuoleja. Peruste löytyy alta kuvasta.
 
 {{ image_single(image="saunabench", caption="Porukalla saunominen on toki hauskaa, mutta yksin saunoessa voi tehdä näin.") }}
 
-Kuitenkin erityisesti juhannussaunaa ajatellen jotain jää puuttumaan. Kyse on kiukaasta. Vuokramökin sähkökiuas on toki kätevä, mutta kun ajattelee suomalaista mökkisaunaa järven rannassa, tulen sytyttäminen, klapien ja savun aromi ja kiukaan sisästä kantautuva liekkien ääni tuovat oman tärkeän lisänsä saunomiseen. Sanoopa moni saunaukko että kiireetön klapien hakkuu sen kummempia ajattelematta on myös osa saunan nautintoa. Loppukaneettina siis: puusauna olisi sopinut juhannustunnelmaan vielä paremmin.
+Kuitenkin erityisesti juhannussaunaa ajatellen jotain jää puuttumaan. Kyse on kiukaasta. Vuokramökin sähkökiuas on toki kätevä ja turvallinen, mutta kun ajattelee suomalaista mökkisaunaa järven rannassa, niin tulen sytyttäminen, klapien ja savun aromi ja kiukaan sisästä kantautuva liekkien humina tuovat kaikki oman tärkeän lisänsä saunomiseen. Sanoopa moni saunaukkokin että kiireetön klapien hakkuu sen kummempia ajattelematta on myös osa saunan nautintoa. Loppukaneettina siis: puusauna olisi ollut se niin sanottu piste iin päälle juhannuksen vietossamme.
 
 {{ video_single(video="loyly", caption="バシャ〜") }}
 
-Nauttuamme löylyttelystä kylliksemme, viilennyimme terassilla siemaillen olutta ja hengittäen raitista ulkoilmaa. *Totonotta*, niinkuin japanilaiset saunojat kuvaavat tätä rentoa olotilaa.
+Nautittuamme löylyttelystä kylliksemme, vilvoittelimme terassilla olutta siemaillen ja raikasta ulkoilmaa hengittäen . *Totonotta*, niinkuin japanilaiset saunojat kuvaavat tätä rentoa olotilaa.
 
 Siinäpä se. Juhannus, joka olisi voinut olla suomalainen, mutta tapahtuikin Japanin Yamanashin läänin Yamanaka-järven rannalla. Miltä kuulosti? Me ainakin nautimme niin ilmapiiristä, ruoasta kuin saunastakin täysin siemauksin!
