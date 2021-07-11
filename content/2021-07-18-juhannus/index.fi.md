@@ -70,15 +70,15 @@ Juhannuksen tärkein perinne on varmaan saunominen. Kuten yllä kirjoitimme, vuo
 
 Honka toimittaa! Sauna oli niin suomalainen kuin voisi olla. Kiuas ja varusteetkin olivat Suomen suosituimman saunavalmistajan, Harvian tuotteita.
 
-Pyry innostui pohtimaan, mikä tästä saunasta sitten teki niin autenttisen. Aito tunnelma alkaa jo ensivaikutelmasta: puurakenteet tuoksuvat, ja heijastavat hämärässä valoa tavalla, joka tuntuu kovin nostalgiselta. Saunasta nautitaan kaikilla aisteilla, joten tuoksut, äänet ja ulkonäkö ovat tärkeitä.
+Pyry innostui pohtimaan, mikä tästä saunasta sitten teki niin autenttisen. Aito tunnelma alkaa jo ensivaikutelmasta: puurakenteet tuoksuvat, ja heijastavat hämärässä valoa tavalla, joka tuntuu kovin kotoisalta. Saunasta nautitaan kaikilla aisteilla, joten tuoksut, äänet ja ulkonäkö ovat tärkeitä.
 
 {{ image_single(image="saunatower") }}
 
 Sitten saunahuoneen rakenne. Suomalainen sauna on korkeahko, tornimallinen. Saunojat istuvat korkealla, pää melkein kiinni katossa, ja varpaatkin kiukaan yläosan tasolla. Jos näin ei olisi, löyly jäisi laihaksi. Toisin kuin saksalaisessa *aufguss*-saunomisessa, suomalaisessa saunassa ei ole tapana eikä tarpeen leyhytellä pyyhettä jotta saunojat pääsisivät nauttimaan lämpimästä ilmasta – suomalainen sauna hoitaa ilman kierrättämisen itsestään: kuuma höyry nousee kiukaasta, osuu kattoon ja hajoaa ympäri saunaa, kierrättäen kuumaa ilmaa saunan yläosassa.
 
-Sitten tietysti kunnon lauteet, ei mitään tuoleja. Peruste löytyy alta kuvasta.
+Suomalaiseen saunaan kuuluvat tietysti myös kunnon lauteet, ei tuoleja, mitä varsinkin telttasaunoissa usein on. Syy lauteiden hienoudelle löytyy alla olevasta kuvasta.
 
-{{ image_single(image="saunabench", caption="Porukalla saunominen on toki hauskaa, mutta yksin saunoessa voi tehdä näin.") }}
+{{ image_single(image="saunabench", caption="Porukalla saunominen on toki hauskaa, mutta yksin saunoessa voi lauteilla rötvätä vapaasti.") }}
 
 Kuitenkin erityisesti juhannussaunaa ajatellen jotain jää puuttumaan. Kyse on kiukaasta. Vuokramökin sähkökiuas on toki kätevä ja turvallinen, mutta kun ajattelee suomalaista mökkisaunaa järven rannassa, niin tulen sytyttäminen, klapien ja savun aromi ja kiukaan sisästä kantautuva liekkien humina tuovat kaikki oman tärkeän lisänsä saunomiseen. Sanoopa moni saunaukkokin että kiireetön klapien hakkuu sen kummempia ajattelematta on myös osa saunan nautintoa. Loppukaneettina siis: puusauna olisi ollut se niin sanottu piste iin päälle juhannuksen vietossamme.
 
