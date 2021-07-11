@@ -84,6 +84,6 @@ Kuitenkin erityisesti juhannussaunaa ajatellen jotain jää puuttumaan. Kyse on 
 
 {{ video_single(video="loyly", caption="Löylyä lissää!") }}
 
-Nautittuamme löylyttelystä kylliksemme, vilvoittelimme terassilla olutta siemaillen ja raikasta ulkoilmaa hengittäen . *Totonotta*, niinkuin japanilaiset saunojat kuvaavat tätä rentoa olotilaa.
+Nautittuamme löylyttelystä kylliksemme, vilvoittelimme terassilla olutta siemaillen ja raikasta ulkoilmaa hengittäen. *Totonotta*, niinkuin japanilaiset saunojat kuvaavat tätä rentoa olotilaa.
 
 Siinäpä se. Juhannus, joka olisi voinut olla suomalainen, mutta tapahtuikin Japanin Yamanashin läänin Yamanaka-järven rannalla. Miltä kuulosti? Me ainakin nautimme niin ilmapiiristä, ruoasta kuin saunastakin täysin siemauksin!
