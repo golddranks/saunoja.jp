@@ -1,5 +1,5 @@
 +++
-title = "大分県豊後大野市がサウナの街に"
+title = "Ooitan läänin Bungo-Oono julistautui saunakaupungiksi!"
 slug = "bungo-oono"
 
 [extra]
@@ -10,20 +10,23 @@ header_style = "background-position: 30% top; text-shadow: 2px 5px 5px rgb(0, 0,
 thin_header_style = "text-shadow: 1px 1px 4px rgb(0, 55, 77), 0px 0px 5px rgb(0, 0, 0);"
 +++
 
-先日人生初めて大分県に行ってきました。 別府などを始め 温泉で有名な 大分県。 まさかこの大分県にすごいサウナがあるなんて？ 実は大分県に は温泉が出ない地域があるらしいです。 今回この豊後大野市という町のサウナイベントに 行ってきた話を報告したいと思います。
-
-本来7月19日に豊後大野のロッジという キャンプ場 でサウナ万博というイベントが開催される予定でした。 実はこのイベントでサウナ関係のトークショーも 開かれる ということでさうの家のプルがゲストとして誘われていました。
-
-サウナについて熱く語るっていうのがすごくやりがいのあることだと感じていて、 もちろんイベントに喜んで参加したかったです。
-
-あいにくイベントの前の日に大雨が降り、 川沿いのイベントが川の増水によりどうしようもなく中止になってしまいました。 様々なテントサウナに入りながら、 整って サウナ関係のプログラムを楽しむというイベント の予定 だったのに 残念だなと思いました。
-
-イベントがキャンセルされた時はもう、 大分県に 足を運んでいて とにかく スタッフさんに会いにでも 会場まで行きました。
-
-とにかく行って良かったと思います。 イベントやトークショーが開催されなくても、 サウナに熱心なスタッフさんを通して 豊後大野市の サウナ情報をとても優しく 紹介 してもらえて、 サウナ家の読者様に ご共有したいと思います。
-
-まず一つ言いたいのは 豊後大野には素晴らしいサウナがあることです。 これは感激するポイントです。 私が経験した豊後大野はとにかく
+Kävin viime viikonloppuna ensimmäistä kertaa Ooitan läänissä. Lääni on tunnettu lukuisista kuumista lähteistään, ja esimerkiksi kylpyläkaupunki Beppu sijaitsee siellä. Mutta tämä juttupa ei ole kuumista lähteistä, vaan saunomisesta: Ooitan läänissä on nimittäin Bungo-Oonon kaupunki, jossa kuumia lähteitä ei ole lainkaan. Sen sijaan löysin sieltä upeita saunoja, joten Pyry raportoi nyt Saunojan lukijoille niistä!
 
 <!-- more -->
 
-draft
+[Lodge Kiyokawan](https://lodge-kiyokawa.jp) leirintäalueella oli tarkoitus järjestää Sauna Expo -niminen yleisötapahtuma 18.7. Tapahtumassa piti olla myös keskustelutilaisuus, jonne minut oli kutsuttu vieraaksi puhumaan saunasta.
+
+Otin toki kutsun iloisena vastaan; tuollaiseen keskustelutilaisuuteen osallistuminenhan on hieno tapa osallistua saunakulttuurin edistämiseen Japanissa.
+
+Ikävä kyllä juuri tapahtumaa edeltävänä päinä satoi kaatamalla. Vuoristojoen kyljessä pidettävä tapahtuma jouduttiin perumaan joen tulvimisen takia. Voi harmi! Olin odottanut tapahtumaa innolla; se vaikutti rennolta hengailutapahtumalta, jossa voisi käydä välillä saunassa ja sitten seurata sauna-aiheista ohjelmaa tutustuen muihin saunojiin.
+
+Olin jo matkustanut Ooitan lääniin siinä vaiheessa kun tapahtuma peruttiin, joten päätin kuitenkin suunnata perille tapahtumapaikalle tapaamaan tapahtuman henkilökuntaa.
+
+Hyvä että menin! Vaikka itse tapahtuma ja keskustelutilaisuus oltiinkin peruttu, saunasta innoissaan oleva henkilökunta esitteli minulle Bungo-Oonon saunoja ja ne osoittautuivatkin upeiksi. Nyt sitten vuorostani esittelen ne Saunojan lukijakunnalle!
+
+Bungo-Oono on käyttänyt mainossloganinaan melkolailla itseironista fraasia "kaupunki josta puuttuvat kuumat lähteet", mutta nyt kaupunki aikoo valjastaa saunan matkailunedistämisen moottoriksi. Kaupunki on perustanut [*Ii sauna kenkyuujo*](https://iisaunalab.com) (= "mainioiden saunojen tutkimuskeskus") -nimisen yhdistyksen edistämään Bungo-Oonolaista saunakulttuuria.
+
+*Ii sauna kenkyuujon* sivuilla esitellään viisi eri paikallista julkista saunaa. Kävin näistä itse kolmessa. Suomalaisena erityisesti saunamökit *Tuuli Tuuli* ja *REBUILD SAUNA* lämmittivät sydäntä. Aion esitellä nämä kaksi saunaa vielä erikseen tulevissa artikkeleissa!
+
+18.7. suunnitellussa Sauna Expossa oli tarkoitus myös julistaa Bungo-Oono "saunakaupungiksi. Vaikka tapahtuma peruuntuikin, julistusseremonia itsessään pidettiin kaupungin pormestarin johdolla, tapahtuman henkilökunnan todistaessa. Bungo-Oono on nyt sitten virallisesti saunakaupunki. Tapahtuman järjestäjä toivoi myös, että kääntäisin julistuksen suomeksi ja esittelisin sen tässä blogissa. No, saamansa pitää!
+
