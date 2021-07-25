@@ -15,13 +15,15 @@ build_search_index = false
 
 ignored_content = ["*.dataurl", "*.jpg"]
 
-languages = [
-    {code = "fi"},
-]
+[languages.fi]
+code = "fi"
+
+[languages.ja]
+code = "ja"
 
 generate_feed = true
 
-[translations.fi]
+[languages.fi.translations]
 catchcopy = "Suomipariskunta blogaa saunasta"
 author = "Kirjoittaja"
 read_more = "(Lue lisää)"
@@ -32,7 +34,7 @@ later = "Myöhempi kirjoitus: "
 open-quote = '"'
 close-quote = '"'
 
-[translations.ja]
+[languages.ja.translations]
 catchcopy = "フィンランド夫婦は<br>サウナからお届けします"
 author = "著者"
 read_more = "（続きを読む）"

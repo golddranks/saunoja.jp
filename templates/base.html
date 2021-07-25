@@ -66,8 +66,9 @@ body { margin: 0 }
 {% set header_image_dataurl = load_data(path = content_relpath | concat(with="header.dataurl") | join(sep="/")) %}
 {% set page = page | default(value=section) %}
 <body class="lang-{{lang}}">
+  {% set img = resize_image(path=header_image_path, width=1000, op='fit_width') %}
   <header style="background-image: url({{
-      resize_image(path=header_image_path, width=1000, op='fit_width') | replace(from=config.base_url, to='') | safe
+    img.url | replace(from=config.base_url, to='') | safe
   }}), url({{ header_image_dataurl | safe }});{{ extra.header_style | default(value='') | safe }}">
     <h1 id="saunoja-logo">
       <a href="{{ root }}">
