@@ -1,18 +1,19 @@
 <figure>
-<div class="imgrow">
-    {% for image in images -%}
-    {% set relpath = page.relative_path | split(pat="/") | slice(end=-1) | join(sep="/") %}
-    {% set img_path = relpath ~ "/" ~ image ~ ".jpg" %}
-    <div>
-        {% set big_img = resize_image(path=img_path, width=2000, height=2000, op='fill') %}
-        {% set thumbnail_img = resize_image(path=img_path, width=600, height=600, op='fill') %}
-        <a href="{{ big_img.url | replace(from=config.base_url, to='') | safe }}">
-            <img src="{{ thumbnail_img.url | replace(from=config.base_url, to='') | safe }}">
-        </a>
+    <div class="imgrow">
+        {% for image in images -%}
+        {% set relpath = page.relative_path | split(pat="/") | slice(end=-1) | join(sep="/") %}
+        {% set img_path = relpath ~ "/" ~ image ~ ".jpg" %}
+        {% if image == "placeholder" %}{% set img_path = "/placeholder.jpg" %}{% endif %}
+        <div>
+            {% set big_img = resize_image(path=img_path, width=2000, height=2000, op='fill') %}
+            {% set thumbnail_img = resize_image(path=img_path, width=600, height=600, op='fill') %}
+            <a href="{{ big_img.url | replace(from=config.base_url, to='') | safe }}">
+                <img src="{{ thumbnail_img.url | replace(from=config.base_url, to='') | safe }}">
+            </a>
+        </div>
+        {%- endfor %}
     </div>
-    {%- endfor %}
-</div>
-{% if caption %}
-<figcaption>{{ caption | markdown(inline=true) | safe }}</figcaption>
-{% endif %}
+    {% if caption %}
+    <figcaption>{{ caption | markdown(inline=true) | safe }}</figcaption>
+    {% endif %}
 </figure>

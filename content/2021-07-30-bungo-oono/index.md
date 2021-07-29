@@ -61,4 +61,4 @@ title_image = "lepotuoli"
 
 　豊後大野市長　川野文敏　Bungo-Oonon pormestari Kawano Fumitoshi
 
-{{ image_single(image="placeholder", caption="サウナ万博の主催者の髙橋ケンさんが豊後大野市の川野市長とご一緒に宣言書を持っています。") }}
+{{ image_single(image="sengen", caption="サウナ万博の主催者の髙橋ケンさんが豊後大野市の川野市長とご一緒に宣言書を持っています。") }}

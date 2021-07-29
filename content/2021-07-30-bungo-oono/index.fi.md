@@ -9,7 +9,7 @@ header_style = "background-position: 40% top; text-shadow: 2px 2px 2px rgb(100, 
 title_image = "lepotuoli"
 +++
 
-Kävin viime viikonloppuna ensimmäistä kertaa Kyuushuun saaren Ooitan läänissä. Lääni on tunnettu lukuisista kuumista lähteistään, ja esimerkiksi kylpyläkaupunki Beppu sijaitsee siellä. Mutta tämä juttupa ei ole kuumista lähteistä, vaan saunomisesta: Ooitan läänissä on nimittäin Bungo-Oonon kaupunki, jossa kuumia lähteitä ei ole lainkaan. Sen sijaan löysin sieltä upeita saunoja, joten raportoin niistä nyt Saunojan lukijoille!
+Kävin pari viikkoa sitten ensimmäistä kertaa Kyuushuun saaren Ooitan läänissä. Lääni on tunnettu lukuisista kuumista lähteistään, ja esimerkiksi kylpyläkaupunki Beppu sijaitsee siellä. Mutta tämä juttupa ei ole kuumista lähteistä, vaan saunomisesta: Ooitan läänissä on nimittäin Bungo-Oonon kaupunki, jossa kuumia lähteitä ei ole lainkaan. Sen sijaan löysin sieltä upeita saunoja, joten raportoin niistä nyt Saunojan lukijoille!
 
 <!-- more -->
 
@@ -61,4 +61,4 @@ Bungo-Oono on käyttänyt mainossloganinaan melkolailla itseironista fraasia "ka
 
 　豊後大野市長　川野文敏　Bungo-Oonon pormestari Kawano Fumitoshi
 
-{{ image_single(image="placeholder", caption="*Sauna Expon* pääjärjestäjä *Takahashi Ken* esittelee julistusta yhdessä Bungo-Oonon pormestari *Kawanon* kanssa.") }}
+{{ image_single(image="sengen", caption="*Sauna Expon* pääjärjestäjä *Takahashi Ken* esittelee julistusta yhdessä Bungo-Oonon pormestari *Kawanon* kanssa.") }}
