@@ -27,9 +27,10 @@
 <meta property="og:type" content="article"/>
 <meta property="og:site_name" content="{{ config.extra.site_title }}"/>
 <meta property="og:url" content="{{ current_url | safe }}"/>
-<meta property="og:image" content="{{ resize_image(path=image, width=1200, op='fit_width') | safe }}"/>
+{% set img = resize_image(path=image, width=1200, op='fit_width') %}
+<meta property="og:image" content="{{ img.url | safe }}"/>
 <meta name="twitter:card" content="summary_large_image"/>
-<meta name="twitter:image" content="{{ resize_image(path=image, width=1200, op='fit_width') | safe }}"/>
+<meta name="twitter:image" content="{{ img.url | safe }}"/>
 {% endblock %}
 
 {% block content %}

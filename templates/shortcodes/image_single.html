@@ -1,12 +1,17 @@
-{% set relpath = page.relative_path | split(pat="/") | slice(end=-1) | join(sep="/") %}
-{% set img_path = relpath ~ "/" ~ image ~ ".jpg" %}
 <figure>
-<div class="imgrow">
-    <div>
-        <img src="{{ resize_image(path=img_path, width=1600, op='fit_width') | replace(from=config.base_url, to='') | safe }}">
+    <div class="imgrow">
+        {% set relpath = page.relative_path | split(pat="/") | slice(end=-1) | join(sep="/") %}
+        {% set img_path = relpath ~ "/" ~ image ~ ".jpg" %}
+        {% if image == "placeholder" %}{% set img_path = "/placeholder.jpg" %}{% endif %}
+        <div>
+            {% set big_img = resize_image(path=img_path, width=2000, op='fit_width') %}
+            {% set img = resize_image(path=img_path, width=1600, op='fit_width') %}
+            <a href="{{ big_img.url | replace(from=config.base_url, to='') | safe }}">
+                <img src="{{ img.url | replace(from=config.base_url, to='') | safe }}">
+            </a>
+        </div>
     </div>
-</div>
-{% if caption %}
-<figcaption>{{ caption | markdown(inline=true) | safe }}</figcaption>
-{% endif %}
+    {% if caption %}
+    <figcaption>{{ caption | markdown(inline=true) | safe }}</figcaption>
+    {% endif %}
 </figure>

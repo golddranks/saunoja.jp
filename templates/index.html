@@ -7,7 +7,8 @@
 <meta property="og:type" content="website"/>
 <meta property="og:site_name" content="{{ config.extra.site_title }}"/>
 <meta property="og:url" content="{{ trans(key='site-url', lang=lang) | safe  }}"/>
-<meta property="og:image" content="{{ resize_image(path='card_vene.jpg', width=1200, op='fit_width') | safe }}"/>
+{% set vene_img = resize_image(path='card_vene.jpg', width=1200, op='fit_width') %}
+<meta property="og:image" content="{{ vene_img.url | safe }}"/>
 <meta property="og:image:width" content="1200"/>
 <meta property="og:image:height" content="600"/>
 <meta name="twitter:card" content="summary_large_image"/>
@@ -27,7 +28,8 @@
   <div class="imgrow">
     <div>
       <a href="{{ page.path | safe }}">
-      <img src="{{ resize_image(path=image, width=1600, op='fit_width') | replace(from=config.base_url, to='') | safe }}">
+        {% set title_img = resize_image(path=image, width=1600, op='fit_width') %}
+      <img src="{{ title_img.url | replace(from=config.base_url, to='') | safe }}">
       </a>
     </div>
   </div>
