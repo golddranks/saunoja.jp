@@ -22,11 +22,11 @@ Web: <https://www.noorakirsikka.fi>
 - Vaihto-opiskelijana 2015-2016 Kyoto University of the Artsissa
 - Japanin kielen suhteen itseoppinut
 - Töissä graafisena suunnittelijana japanilaisessa yrityksessä
-- Lempparijutut Suomesta mm.
+- Lempparijuttuja Suomesta mm.
   - Sauna
   - Ruoat ja leivonnaiset; leipoo nykyään itse ruisleipää
   - Järvet
-- Lempparijutut Japanista mm.
+- Lempparijuttuja Japanista mm.
   - *Onsen*
   - Vuoret
   - Ruoka
