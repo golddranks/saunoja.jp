@@ -48,6 +48,8 @@ footer {
   text-align: right;
   max-width: $main-max-width;
   padding: 1em 3em 3em 3em;
+  display: flex;
+  justify-content: flex-end;
   >* {
     padding: 0 2em;
   }
@@ -80,6 +82,20 @@ footer {
       }
     }
   }
+  #topbar {
+    margin-left: 0;
+    padding-left: 6vw;
+    padding-right: 6vw;
+    >* {
+      padding: 0 4vw;
+    }
+    >*:last-child {
+      padding-right: 0;
+    }
+    >*:first-child {
+      padding-left: 0;
+    }
+  }
   #main {
     margin-left: 0;
     padding: 6vw;
@@ -95,6 +111,13 @@ footer {
 @media (max-width: $min-width) {
   header {
     padding: 2em #{4vw/100vw * $min-width};
+  }
+  #topbar {
+    padding-left: #{6vw/100vw * $min-width};
+    padding-right: #{6vw/100vw * $min-width};
+    >* {
+      padding: 0 #{4vw/100vw * $min-width};
+    }
   }
   #main {
     padding: #{6vw/100vw * $min-width};

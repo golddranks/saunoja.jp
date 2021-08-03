@@ -4,13 +4,13 @@
 {% if image == "placeholder" %}{% set img_path = "/placeholder.jpg" %}{% endif %}
 {% set img = resize_image(path=img_path, width=600, op='fit_width') %}
 <div class="slide">
-<div>
-<img src="{{ img.url | replace(from=config.base_url, to='') | safe }}">
-{% if links %}
-{{ links | markdown | safe }}
-{% endif %}
+<div class="slide-main">
+    {{ body | markdown | safe }}
 </div>
 <aside>
-{{ body | markdown | safe }}
+    <img src="{{ img.url | replace(from=config.base_url, to='') | safe }}">
+    {% if links %}
+    {{ links | markdown | safe }}
+    {% endif %}
 </aside>
 </div>
