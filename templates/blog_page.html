@@ -1,0 +1,18 @@
+{% extends "page_with_title.html" %}
+
+{% block metatags %}
+{{ super() }}
+{% set page_description = page.summary | striptags | replace(from="
+", to=" ") %}
+{% set description = site_description ~ separator ~ page_description %}
+<meta property="og:description" content="{{ description }}"/>
+{% endblock metatags%}
+
+{% block article %}
+{{ macros::post_info(page=page) }}
+
+{{ page.content | safe }}
+
+{{ macros::before_after_blog(page=page)}}
+
+{% endblock article %}

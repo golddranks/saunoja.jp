@@ -1,0 +1,18 @@
+
+{% set relpath = page.relative_path | split(pat="/") | slice(end=-1) | join(sep="/") %}
+{% set img_path = relpath ~ "/" ~ image ~ ".jpg" %}
+{% if image == "placeholder" %}{% set img_path = "/placeholder.jpg" %}{% endif %}
+{% set img = resize_image(path=img_path, width=600, op='fit_width') %}
+<div class="slide">
+<div>
+<img src="{{ img.url | replace(from=config.base_url, to='') | safe }}">
+{% if links %}
+<p>
+{{ links | markdown | safe }}
+</p>
+{% endif %}
+</div>
+<aside>
+{{ body | markdown | safe }}
+</aside>
+</div>

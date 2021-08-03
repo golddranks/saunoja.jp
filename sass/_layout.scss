@@ -42,14 +42,20 @@ footer {
   }
 }
 
-#lang-select {
+#topbar {
   box-sizing: border-box;
   margin-left: $header-ratio;
   text-align: right;
   max-width: $main-max-width;
   padding: 1em 3em 3em 3em;
-  span {
-    vertical-align: top;
+  >* {
+    padding: 0 2em;
+  }
+  >*:not(:last-child) {
+    border-right: 1px solid $text-accent-color;
+  }
+  #lang-select>svg {
+    vertical-align: -15%;
   }
 }
 

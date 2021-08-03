@@ -80,16 +80,20 @@ body { margin: 0 }
     </div>
     </a>
   </header>
-  <nav id="lang-select">
+  <nav id="topbar">
   {% if lang == "fi" %}
-    <a href="{{ page.path | trim_start_matches(pat='/fi') }}">
+    <a href="{{ root }}">Etusivu</a>
+    <a href="/fi/profile">Kirjoittajista</a>
+    <a href="{{ page.path | trim_start_matches(pat='/fi') | safe }}" id="lang-select">
       <svg xmlns="http://www.w3.org/2000/svg" width="1.2em" height="1.3em">
         <rect stroke="#666" stroke-width="0.07em" fill="#fff" width="1.05em" height="0.9em" x="0.1em" y="0.3em"/>
         <circle fill="#bc002d" cx="0.62em" cy="0.75em" r="0.25em"/>
       </svg> <span>日本語で読む</span>
     </a>
     {% else %}
-    <a href="/fi{{ page.path }}">
+    <a href="{{ root }}">記事一蘭</a>
+    <a href="/profile">筆者プロフィール</a>
+    <a href="/fi{{ page.path | safe }}" id="lang-select">
       <svg xmlns="http://www.w3.org/2000/svg" width="1.2em" height="1.3em">
         <rect stroke="#666" stroke-width="0.07em" fill="#fff" width="1.05em" height="0.9em" x="0.1em" y="0.3em"/>
         <rect fill="#049"  width="0.2em" height="0.9em" x="0.4em" y="0.3em" />
@@ -99,7 +103,7 @@ body { margin: 0 }
     {% endif %}
   </nav>
   <article id="main">
-    {% block content %} {% endblock %}
+    {% block pagecontent %} {% endblock pagecontent %}
   </article>
   <footer>
     <div id="copyright">© Pyry & Noora Kontio</div>

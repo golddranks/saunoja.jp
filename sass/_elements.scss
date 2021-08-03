@@ -82,3 +82,31 @@ blockquote {
 .later-page {
   text-align: right;
 }
+
+.slide {
+  display: grid;
+  grid-template-columns: 40% 60%;
+  img {
+    width: 100%;
+    padding-bottom: 1em;
+  }
+  aside {
+    padding-left: 1em;
+  }
+  ul {
+    padding-left: 1em;
+    line-height: 1.5em;
+    ul {
+      padding-left: 0.5em;
+      list-style-type: "・ ";
+    }
+  }
+}
+
+.lang-ja .slide ul {
+  line-height: 1.6em;
+  ul {
+    padding-left: 0.9em;
+    list-style-type: "・";
+  }
+}
