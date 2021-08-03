@@ -62,3 +62,5 @@ GitHub: <https://github.com/golddranks>
   - Kaikenlaista uuden mielenkiintoisen opiskelua ja oppimista
   - Jotain luovaa (musiikin/pelien teko), mutta aika ei tahdo riittää
 {% end %}
+
+{{ image_single(image="nordepyrde", class="hidewide") }}

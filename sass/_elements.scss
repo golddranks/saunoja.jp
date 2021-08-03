@@ -84,17 +84,23 @@ blockquote {
 }
 
 .slide {
-  display: grid;
-  grid-template-columns: 40% 60%;
+  width: 100%;
+  display: flex;
+  flex-direction: row-reverse;
   img {
     width: 100%;
     padding-bottom: 1em;
   }
+  .slide-main {
+    flex: 0 0 60%;
+  }
   aside {
+    flex: 0 0 40%;
     padding-left: 1em;
   }
   ul {
-    padding-left: 1em;
+    list-style-position: inside;
+    padding-left: 0.8em;
     line-height: 1.5em;
     ul {
       padding-left: 0.5em;
@@ -108,5 +114,25 @@ blockquote {
   ul {
     padding-left: 0.9em;
     list-style-type: "・";
+  }
+}
+
+.hidewide {
+  display: none;
+}
+
+@media (max-width: $smallest-tablet-width) {
+  .hidewide {
+    display: initial;
+  }
+  
+  .slide {
+    display: block;
+    img {
+      display: none;
+    }
+    ul {
+      padding-left: 0.5em;
+    }
   }
 }

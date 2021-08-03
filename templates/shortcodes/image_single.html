@@ -1,4 +1,4 @@
-<figure>
+<figure class="{{ class | default(value="") }}">
     <div class="imgrow">
         {% set relpath = page.relative_path | split(pat="/") | slice(end=-1) | join(sep="/") %}
         {% set img_path = relpath ~ "/" ~ image ~ ".jpg" %}
