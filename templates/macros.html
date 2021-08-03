@@ -4,3 +4,19 @@
         <span class="post-author">{{ trans(key="author", lang=lang) }}: {{ page.extra.author | default(value=config.extra.author) | safe }}</span>
     </p>
 {% endmacro post_info %}
+
+
+{% macro before_after_blog(page) %}
+{% if page.earlier and page.earlier.slug != "profile" %}
+<p class="earlier-page">
+<a href="{{ page.earlier.path | safe }}">← {{ trans(key="earlier", lang=lang) | safe }}
+    {{ trans(key="open-quote", lang=lang) | safe }}{{ page.earlier.title | safe }}{{ trans(key="close-quote", lang=lang) | safe}}</a>
+</p>
+{% endif %}
+{% if page.later %}
+<p class="later-page">
+<a href="{{ page.later.path | safe }}">{{ trans(key="later", lang=lang) | safe }}
+    {{ trans(key="open-quote", lang=lang) | safe }}{{ page.later.title | safe }}{{ trans(key="close-quote", lang=lang) | safe}} →</a>
+</p>
+{% endif %}
+{% endmacro before_after_blog%}

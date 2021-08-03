@@ -2,6 +2,7 @@
 {% import "macros.html" as macros %}
 
 {% block metatags %}
+{{ super() }}
 <meta property="og:title" content="{{ config.extra.site_title }}"/>
 <meta property="og:description" content="{{ trans(key='site-description', lang=lang) | safe }}"/>
 <meta property="og:type" content="website"/>
@@ -15,9 +16,10 @@
 <title>{{ config.extra.site_title }}</title>
 {% endblock %}
 
-{% block content %}
+{% block pagecontent %}
 {{ section.content | safe }}
 {% for page in paginator.pages %}
+{% if page.slug != "profile" %}
 <h1><a href="{{ page.path | safe }}">{{ page.title | safe }}</a></h1>
 {{ macros::post_info(page=page) }}
 {% if page.extra.title_image %}
@@ -38,5 +40,6 @@
 {{ page.summary | safe }}
 <p><a href="{{ page.path | safe }}">{{ trans(key="read_more", lang=lang) | safe }}</a></p>
 <hr>
+{% endif %}
 {% endfor %}
-{% endblock content %}
+{% endblock pagecontent %}
