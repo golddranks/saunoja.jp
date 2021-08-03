@@ -7,9 +7,7 @@
 <div>
 <img src="{{ img.url | replace(from=config.base_url, to='') | safe }}">
 {% if links %}
-<p>
 {{ links | markdown | safe }}
-</p>
 {% endif %}
 </div>
 <aside>
