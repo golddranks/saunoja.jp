@@ -30,7 +30,7 @@ Web: <https://www.noorakirsikka.fi>
   - *Onsen*
   - Vuoret
   - Ruoka
-  - *Nihon-shu* (= *Sake*)
+  - *Nihon-shu* (= *sake*)
   - Anime, manga, musiikki
 {% end %}
 
