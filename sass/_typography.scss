@@ -113,7 +113,7 @@ h1, h2, h3, h4, h5, h6 {
     color: $heading-text-color;
     margin: 1.1em 0 0.8em 0;
   }
-  p, figure {
+  p, figure, ul {
     a {
       color: $link-color;
       text-decoration: none;
