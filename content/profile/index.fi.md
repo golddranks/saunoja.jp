@@ -59,6 +59,7 @@ GitHub: <https://github.com/golddranks>
   - Koodausta (erityisesti Rust-kielellä) ja muuta teknistä askartelua
   - Kuntoilua
   - Animea & mangaa
+  - [Desucon](https://desucon.fi)-animetapahtuman kunniavierasjuttujen järkkäämistä ja tulkkaamista
   - Kaikenlaista uuden mielenkiintoisen opiskelua ja oppimista
   - Jotain luovaa (musiikin/pelien teko), mutta aika ei tahdo riittää
 {% end %}
