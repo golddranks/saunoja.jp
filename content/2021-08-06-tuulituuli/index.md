@@ -1,7 +1,6 @@
 +++
 title = "豊後大野のいいサウナ・少し粗いのが魅力な「Tuuli Tuuli」"
 slug = "tuulituuli"
-draft = true
 
 [extra]
 author = "Pyry"
