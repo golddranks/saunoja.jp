@@ -1,7 +1,6 @@
 +++
 title = "Bungo-Oonon mainiot saunat: karhean viehättävä Tuuli Tuuli"
 slug = "tuulituuli"
-draft = true
 
 [extra]
 author = "Pyry"
