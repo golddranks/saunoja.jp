@@ -9,7 +9,7 @@
 {% endblock metatags%}
 
 {% block article %}
-{{ macros::post_info(page=page) }}
+{{ macros::post_info(page=page, nav=true) }}
 
 {{ page.content | safe }}
 
