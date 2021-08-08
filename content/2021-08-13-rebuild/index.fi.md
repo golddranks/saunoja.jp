@@ -30,7 +30,7 @@ Ulkoa päin tarkasteltuna saunan erikoisuutena oli sen vieressä oleva uima-alla
 
 {{ image_single(image="allas") }}
 
-Saunaan mentiin sisälle matalasta ovesta. Kun saunatupaan päästiin mukavan hämärässä valaistuksessa odottivat kiuas ja lauteet. Lauteet olivat korkealla ja kiuas oli iso. Saunassa oli käytetty eri suuntiin kulkevia puunsyitä taidokkaasti, ja seinille oli luotu hyvällä maulla niistä koostuvia tekstuureja. Saunarakennus vaikutti rakkaudella rakennetulta.
+Saunaan mentiin sisälle matalasta ovesta. Kun saunatupaan päästiin mukavan hämärässä valaistuksessa odottivat kiuas ja lauteet. Lauteet olivat korkealla ja kiuas oli iso. Saunassa oli käytetty eri suuntiin kulkevia puunsyitä taidokkaasti, ja seinille oli luotu hyvällä maulla niistä koostuvia tekstuureja. Saunamökki vaikutti rakkaudella rakennetulta.
 
 {{ image_single(image="sauna") }}
 
