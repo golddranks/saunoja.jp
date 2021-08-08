@@ -1,12 +1,11 @@
 +++
 title = "Sauna UNESCOn kulttuuriperintökohteeksi!"
-slug = "unesco"
 
 [extra]
 author = "Pyry"
-header_image = "jarvi"
-header_style = "background-position: 80% top;"
-title_image = "sauna"
+sidebar_image = "jarvi"
+sidebar_style = "background-position: 80% top;"
+summary_image = "sauna"
 +++
 
 Hienoja uutisia! Suomalainen sauna on valittu UNESCOn aineettoman kulttuuriperinnön luetteloon. Kyseessä on ensimmäinen suomalainen kulttuuriperintökohde listalla. Esimerkiksi Japani on aiemmin saanut listalle montakin kohdetta, kuuluisimpana kenties japanilaisen ruokakulttuurin (和食, *wa-shoku*).

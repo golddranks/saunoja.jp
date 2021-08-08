@@ -1,14 +1,12 @@
 +++
 title = "Extreme-sauna Alpeilla"
-slug = "hakuba"
 
 [extra]
-author = "Pyry & Noora"
-header_image = "vuorisauna"
-#header_style = "background-position: 45% top;"
-header_style = "background-position: 45% top; text-shadow: 1px 1px 4px rgb(0, 55, 77);"
-title_image = "alpit_wide"
-thin_header_style = "text-shadow: 1px 1px 4px rgb(0, 55, 77), 0px 0px 5px rgb(0, 0, 0);"
+sidebar_image = "vuorisauna"
+#sidebar_style = "background-position: 45% top;"
+sidebar_style = "background-position: 45% top; text-shadow: 1px 1px 4px rgb(0, 55, 77);"
+summary_image = "alpit_wide"
+thin_sidebar_style = "text-shadow: 1px 1px 4px rgb(0, 55, 77), 0px 0px 5px rgb(0, 0, 0);"
 +++
 
 Ystävämme Inka kutsui meidät mielenkiintoiseen saunatapahtumaan: [Tabisauna](https://tabisauna.jp) -nimellä saunatapahtumia järjestävän pariskunnan *Rion* ja *Miyukin* tuottama [Extreme Sauna Event in Hakuba](https://tabisauna.jp/hakuba-sauna-2021/), Naganon läänissä Japanin pohjois-Alpeilla. (Kyllä, Japanissakin on [Alppeina](https://fi.wikipedia.org/wiki/Japanin_Alpit) tunnettu vuoristo.) Ajatus huikeiden vuoristomaisemien ja saunomisen yhdistelmästä sai meidät oitis kiinnostumaan, joten lähdimme matkaan. Nyt seuraa siis pitkästä aikaa raportti saunatapahtumasta!

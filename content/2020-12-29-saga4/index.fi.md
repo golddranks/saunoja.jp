@@ -1,11 +1,10 @@
 +++
 title = "Mifuneyamalla piilee uskomaton sauna?!"
-slug = "saga4"
 
 [extra]
-header_image = "pimeys"
-header_style = "background-position: 80% top;"
-title_image = "mies_sauna"
+sidebar_image = "pimeys"
+sidebar_style = "background-position: 80% top;"
+summary_image = "mies_sauna"
 +++
 
 Heippa taas! Nyt kun saunatapahtuman [raportointi](@/2020-12-14-saga3/index.fi.md)

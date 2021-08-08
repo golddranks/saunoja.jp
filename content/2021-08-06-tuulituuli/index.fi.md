@@ -1,12 +1,11 @@
 +++
 title = "Bungo-Oonon mainiot saunat: karhean viehättävä Tuuli Tuuli"
-slug = "tuulituuli"
 
 [extra]
 author = "Pyry"
-header_image = "tuulipimea"
-header_style = "background-position: 30% top;"
-title_image = "tuuli"
+sidebar_image = "tuulipimea"
+sidebar_style = "background-position: 30% top;"
+summary_image = "tuuli"
 +++
 
 Kerroin [edellisessä kirjoituksessani](@/2021-07-30-bungo-oono/index.fi.md) käyneeni Ooitan läänin Bungo-Oonon kaupungissa ja löytäneeni sieltä upeita saunoja. Tällä kertaa esittelen niistä yhden, joka oli erityisesti mieleeni. Kyseessä ei ollut minkään kylpylän yhteydessä ollut sauna, vaan *Café Param* -nimisen kahvila-ravintola-majatalon pihalla seissyt tönö! Saunan nimi oli suomalaisinspiroitunut *Tuuli Tuuli*.

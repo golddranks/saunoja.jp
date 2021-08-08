@@ -1,14 +1,12 @@
 +++
 title = "北アルプスのエクストリームサウナ"
-slug = "hakuba"
 
 [extra]
-author = "Pyry & Noora"
-header_image = "vuorisauna"
-#header_style = "background-position: 45% top;"
-header_style = "background-position: 45% top; text-shadow: 1px 1px 4px rgb(0, 55, 77);"
-title_image = "alpit_wide"
-thin_header_style = "text-shadow: 1px 1px 4px rgb(0, 55, 77), 0px 0px 5px rgb(0, 0, 0);"
+sidebar_image = "vuorisauna"
+#sidebar_style = "background-position: 45% top;"
+sidebar_style = "background-position: 45% top; text-shadow: 1px 1px 4px rgb(0, 55, 77);"
+summary_image = "alpit_wide"
+thin_sidebar_style = "text-shadow: 1px 1px 4px rgb(0, 55, 77), 0px 0px 5px rgb(0, 0, 0);"
 +++
 
 友達のインカちゃんからわりかし面白そうなサウナイベントへのお誘いをもらいました。「[TABISAUNA](https://tabisauna.jp) 」というタイトルで、りおさん、みゆきさんというカップルがサウナイベントをプロデュースしているようです！今回は長野の北アルプスがそびえる白馬で、[エクストリームサウナイベントin白馬](https://tabisauna.jp/hakuba-sauna-2021/)というイベントを開催されました。日本を代表する山脈の絶景を見ながらサウナに入れるなんて？いや、それは行くでしょう！なんてことで、久しぶりにサウナイベントの報告になります！

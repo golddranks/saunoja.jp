@@ -1,11 +1,10 @@
 +++
 title = "佐賀県武雄市でサウナに入ってきました！（サウナ編）"
-slug = "saga3"
 
 [extra]
-header_image = "halot"
-header_style = "background-position: 80% top;"
-title_image = "telttasauna4"
+sidebar_image = "halot"
+sidebar_style = "background-position: 80% top;"
+summary_image = "telttasauna4"
 +++
 いよいよ、佐賀県で「Go To フィンランドサウナフェスin武雄」というイベント報告のサウナ編です！前は[グルメ](@/2020-12-01-saga1/index.md)や[モルック](@/2020-12-08-saga2/index.md)について書きましたが、今回はテントサウナ体験の話しです。
 <!-- more -->

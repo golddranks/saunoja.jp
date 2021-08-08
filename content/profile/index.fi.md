@@ -1,10 +1,9 @@
 +++
 title = "Kirjoittajien esittely"
-slug = "profile"
 template = "page_with_title.html"
 date = 0000-01-01
 [extra]
-header_image = "ranta"
+sidebar_image = "ranta"
 +++
 Moi! Olemme vuonna 2017 Japaniin muuttanut suomalainen pariskunta. Blogaamme kahdella kielellä saunasta ja muista kulttuuri-ilmiöistä suomalais-japanilaisessa kontekstissa! Saunoja-blogin taustasta ja ideasta sekä ajatuksesta nimen takana kerromme tarkemmin blogin [ensimmäisessä postauksessa](@/2020-11-22-hello/index.fi.md).
 

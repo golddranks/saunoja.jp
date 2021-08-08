@@ -58,24 +58,24 @@ body { margin: 0 }
 {% set relpath = relative_path | split(pat="/") | slice(end=-1) %}
 {% set content_relpath = ["content"] | concat(with=relpath) %}
 
-{% if page.extra.header_image %}
-{% set header_image_path = relpath | concat(with=extra.header_image ~ ".jpg") | join(sep="/") %}
+{% if page.extra.sidebar_image %}
+{% set sidebar_image_path = relpath | concat(with=extra.sidebar_image ~ ".jpg") | join(sep="/") %}
 {% else %}
-{% set header_image_path = "vene.jpg" %}
+{% set sidebar_image_path = "vene.jpg" %}
 {% endif%}
-{% set header_image_dataurl = load_data(path = content_relpath | concat(with="header.dataurl") | join(sep="/")) %}
+{% set sidebar_image_dataurl = load_data(path = content_relpath | concat(with="header.dataurl") | join(sep="/")) %}
 {% set page = page | default(value=section) %}
 <body class="lang-{{lang}}">
-  {% set img = resize_image(path=header_image_path, width=1000, op='fit_width') %}
+  {% set img = resize_image(path=sidebar_image_path, width=1000, op='fit_width') %}
   <header style="background-image: url({{
     img.url | replace(from=config.base_url, to='') | safe
-  }}), url({{ header_image_dataurl | safe }});{{ extra.header_style | default(value='') | safe }}">
+  }}), url({{ sidebar_image_dataurl | safe }});{{ extra.sidebar_style | default(value='') | safe }}">
     <h1 id="saunoja-logo">
       <a href="{{ root }}">
-        <ruby>saunoja<rt style="{{ extra.thin_header_style | default(value='') | safe }}"><span>サ</span><span>ウ</span><span>ノ</span><span>屋</span></rt></ruby>
+        <ruby>saunoja<rt style="{{ extra.thin_sidebar_style | default(value='') | safe }}"><span>サ</span><span>ウ</span><span>ノ</span><span>屋</span></rt></ruby>
       </a>
     </h1>
-    <div id="catch-copy" style="{{ extra.thin_header_style | default(value='') | safe }}">
+    <div id="catch-copy" style="{{ extra.thin_sidebar_style | default(value='') | safe }}">
       <a href="{{ root }}">{{ trans(key="catchcopy", lang=lang) | safe }}</a>
     </div>
   </header>

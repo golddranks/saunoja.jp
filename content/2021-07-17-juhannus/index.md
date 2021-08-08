@@ -1,13 +1,11 @@
 +++
 title = "本格的なフィンランド夏至in山梨"
-slug = "juhannus"
 
 [extra]
-author = "Pyry & Noora"
-header_image = "mokkipiha3"
-header_style = "background-position: 30% top; text-shadow: 2px 5px 5px rgb(0, 0, 0);"
-title_image = "mokki"
-thin_header_style = "text-shadow: 1px 1px 4px rgb(0, 55, 77), 0px 0px 5px rgb(0, 0, 0);"
+sidebar_image = "mokkipiha3"
+sidebar_style = "background-position: 30% top; text-shadow: 2px 5px 5px rgb(0, 0, 0);"
+summary_image = "mokki"
+thin_sidebar_style = "text-shadow: 1px 1px 4px rgb(0, 55, 77), 0px 0px 5px rgb(0, 0, 0);"
 +++
 
 年に最も重要な祝祭。日本で言えば、お正月やお盆、またフィンランドで言えば[Joulu（ヨウル＝クリスマス）](@/2021-04-25-joulu/index.md)やJuhannus（ユハンヌス＝夏至祭）でしょう。フィンランド人にとって、一年中、日が最も長い夏至が大切な日です。さらに、「白夜」という夜になっても明るいという現象が著しい時期でもあります。

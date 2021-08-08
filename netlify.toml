@@ -34,3 +34,13 @@
   for = "*.js"
   [headers.values]
     Cache-Control = "public, max-age=300"
+
+[[redirects]]
+  from = "/blog-wo-hajimemashita"
+  to = "/hello"
+  status = 301
+
+[[redirects]]
+  from = "/saga-ken-takeo-shi-de-sauna-ni-haitte-kimashita"
+  to = "/saga1"
+  status = 301

@@ -1,11 +1,10 @@
 +++
 title = "佐賀県武雄市でサウナに入ってきました！（グルメ編）"
-slug = "saga-ken-takeo-shi-de-sauna-ni-haitte-kimashita"
 
 [extra]
-header_image = "teltta"
-header_style = "background-position: 80% top"
-title_image = "lohikeitto2"
+sidebar_image = "teltta"
+sidebar_style = "background-position: 80% top"
+summary_image = "lohikeitto2"
 +++
 早速、「サウノ屋」初のサウナ報告です！2020年11月23日九州の佐賀県で「Go To フィンランドサウナフェスin武雄」というイベントに参加してきました。
 実は、人生初めての佐賀県でした。こう、サウナが旅行のきっかけになるなんて、嬉しいかぎりです！

@@ -1,12 +1,10 @@
 +++
 title = "Vietimme Japanissa suomalaisen joulun"
-slug = "joulu"
 
 [extra]
-author = "Noora & Pyry"
-header_image = "header"
-header_style = "background-position: 80% top;"
-title_image = "jouluhuone2"
+sidebar_image = "header"
+sidebar_style = "background-position: 80% top;"
+summary_image = "jouluhuone2"
 +++
 Joulusta on ehtinyt kulua jo melko lailla aikaa, mutta haluaisimme esitellä miten vietimme sitä suomalaiseen tyyliin täällä Japanissa.
 

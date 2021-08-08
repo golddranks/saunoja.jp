@@ -1,12 +1,11 @@
 +++
 title = "フィンランドサウナはUNESCO無形文化遺産に！"
-slug = "unesco"
 
 [extra]
 author = "Pyry"
-header_image = "jarvi"
-header_style = "background-position: 80% top;"
-title_image = "sauna"
+sidebar_image = "jarvi"
+sidebar_style = "background-position: 80% top;"
+summary_image = "sauna"
 +++
 
 素晴らしいニュースだ。フィンランドのサウナ文化は、日本の「和食」みたいにUNESCOの無形文化遺産として選ばれたことがつい先日、12月17日に発表された！このニュースを一刻も早くこのブログでも取り上げたくて、今回は番外編の記事を書いてみた。

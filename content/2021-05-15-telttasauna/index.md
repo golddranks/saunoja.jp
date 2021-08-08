@@ -1,12 +1,10 @@
 +++
 title = "フィンランド人だけど、テントサウナは張ったことがない？！"
-slug = "telttasauna"
 
 [extra]
-author = "Pyry & Noora"
-header_image = "sauna_sillan_alla"
-header_style = "background-position: 30% top;"
-title_image = "telttasauna"
+sidebar_image = "sauna_sillan_alla"
+sidebar_style = "background-position: 30% top;"
+summary_image = "telttasauna"
 +++
 
 もう初夏になりましたが、前回の年末の過ごし方に続いて、もう少し冬の思い出を振り返ってみたいと思います。
