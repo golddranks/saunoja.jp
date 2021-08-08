@@ -1,5 +1,6 @@
 +++
 title = "Bungo-Oonon mainiot saunat: väkevälöylyinen Rebuild Sauna"
+draft = true
 
 [extra]
 author = "Pyry"
