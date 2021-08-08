@@ -34,7 +34,7 @@ Saunaan mentiin sisälle matalasta ovesta. Kun saunatupaan päästiin mukavan h�
 
 {{ image_single(image="sauna") }}
 
-Sitten kokeiltiin löylyä. Suomessa ei ole ammattimaisia löylynheittäjiä, joten suomalaiset saunat rakennetaan niin, että lauteilta voi poistumatta helposti heittää vettä kiukaalle. Täällä löylykauha oli kuitenkin jättimäinen, ja kiuas oli lauteita vastapäätä, joten oli helpompaa, että joku heitti löylyä alhaalla kiukaan vierestä. Otin tämän roolin alkuun itselleni. Tulivoimaa kiukaassa oli reilusti, eikä tarvinnut pelätä että se jäähtyy. Koska kuitenkin halusin nauttia saunomisesta itsekin, heitin löylyt ja kipusin sitten lauteille lämmittelemään. Lauteet olivat suomalaiseen tyyliin porrasmaiset, joten löylyn kipakkuutta voi säädellä valitsemalla istumapaikkansa korkeuden, mikä miellytti minua.
+Sitten kokeiltiin löylyä. Suomessa ei ole ammattimaisia löylynheittäjiä, joten suomalaiset saunat rakennetaan niin, että lauteilta voi poistumatta helposti heittää vettä kiukaalle. Täällä löylykauha oli kuitenkin jättimäinen, ja kiuas oli lauteita vastapäätä, joten oli helpompaa, että joku heitti löylyä alhaalla kiukaan vierestä. Otin tämän roolin alkuun itselleni. Tulivoimaa jyhkeässä puukiukaassa oli reilusti, eikä tarvinnut pelätä että se jäähtyy. Koska kuitenkin halusin nauttia saunomisesta itsekin, heitin löylyt ja kipusin sitten lauteille lämmittelemään. Lauteet olivat suomalaiseen tyyliin porrasmaiset, joten löylyn kipakkuutta voi säädellä valitsemalla istumapaikkansa korkeuden, mikä miellytti minua.
 
 {{ image_single(image="kiuas") }}
 
