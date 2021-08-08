@@ -26,7 +26,7 @@ No, seuraavaksi itse pääasiaan: saunaan! Rebuild Sauna oli suomalaiselle tuttu
 
 {{ image_single(image="rebuild") }}
 
-Ulkoa päin tarkasteltuna saunan erikoisuutena oli sen vieressä oleva uima-allas. Se oli tarkoitettu kastautumiseen saunomisen lomassa, mutta allas oli niin suuri, että siinä voi hieman uidakin. Vesi tuli kuulemma suoraan vuoripurosta, mikä teki siitä näin kesäaikaan mukavan vilpoisaa. Alkoikin kiinnostaa, kuinka isoja vaihteluita lämpötilassa olisi vuodenajasta riippuen. Tietysti jokainen vuodenaika olisi oma elämyksensä, ja talvisessa Rebuild Saunassa saunominen alkoikin kiinnostaa minua ajatuksena.
+Ulkoa päin tarkasteltuna saunan erikoisuutena oli sen vieressä oleva uima-allas. Se oli tarkoitettu kastautumiseen saunomisen lomassa, mutta allas oli niin suuri, että siinä voi hieman uidakin. Vesi tuli kuulemma suoraan vuoripurosta, mikä teki siitä näin kesäaikaan mukavan vilpoisaa. Alkoikin mietityttää, kuinka isoja vaihteluita lämpötilassa olisi vuodenajasta riippuen. Tietysti jokainen vuodenaika olisi oma elämyksensä, ja talvisessa Rebuild Saunassa saunominen alkoikin kiinnostaa minua ajatuksena.
 
 {{ image_single(image="allas") }}
 
