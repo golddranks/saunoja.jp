@@ -38,7 +38,7 @@ Sitten kokeiltiin löylyä. Suomessa ei ole ammattimaisia löylynheittäjiä, jo
 
 {{ image_single(image="kiuas") }}
 
-Myöhemmin Rebuild Saunan rakentajista toinen, *Yakushiji Ryooji* ryhtyi löylymestariksi. Hänen tyylinsä oli "aufgussmaisempi": löylynheiton lisäksi hän tarjosi saunojille pyyhkeellä löyhytettyjä lämpöaaltoja. "Kunhan maistatte helvetin kuumuutta, tuntuu viileä allas taivaalta", totesi hän. Asenne kohdillaan!
+Myöhemmin Rebuild Saunan rakentajista toinen, *Yakushiji Ryooji* ryhtyi löylymestariksi. Hänen tyylinsä oli "aufgussmaisempi": löylynheiton lisäksi hän tarjosi saunojille pyyhkeellä löyhytettyjä lämpöaaltoja. "Kunhan maistatte helvetin kuumuutta, tuntuu viileä allas taivaalta", totesi hän. Asennemies!
 
 {{ image_single(image="rakentajat", caption="Rebuild Sauna on Yakushiji Ryoojin ja Takahashi Kenin kätten tulos.") }}
 
