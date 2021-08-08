@@ -2,6 +2,19 @@
     <p class="post-info">
         <span class="post-date">{{ page.date | replace(from="-", to="/")}}</span>
         <span class="post-author">{{ trans(key="author", lang=lang) }}: {{ page.extra.author | default(value=config.extra.author) | safe }}</span>
+        <span class="earlier-later">
+            {% if page.earlier and page.earlier.slug != "profile" %}
+            <a href="{{ page.earlier.path | safe }}">← <span class="earlier-later-simple">{{ trans(key="earlier-simple", lang=lang) | safe }}</span></a>
+            {% else %}
+            ← <span class="earlier-later-simple">{{ trans(key="earlier-simple", lang=lang) | safe }}</span>
+            {% endif %}
+            /
+            {% if page.later %}
+            <a href="{{ page.later.path | safe }}"><span class="earlier-later-simple">{{ trans(key="later-simple", lang=lang) | safe }}</span> →</a>
+            {% else %}
+            <span class="earlier-later-simple">{{ trans(key="later-simple", lang=lang) | safe }}</span> →
+            {% endif %}
+        </span>
     </p>
 {% endmacro post_info %}
 

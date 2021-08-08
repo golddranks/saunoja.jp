@@ -79,7 +79,10 @@ h1, h2, h3, h4, h5, h6 {
 
 #main {
   h1 {
+    height: 4.5em;
     font-size: 1.5em;
+    display: table-cell;
+    vertical-align: bottom;
   }
 
   h2 {

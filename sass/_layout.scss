@@ -64,7 +64,7 @@ footer {
 #main {
   box-sizing: border-box;
   margin-left: $header-ratio;
-  padding: 3em;
+  padding: 0 3em 3em 3em;
   max-width: $main-max-width;
   overflow: hidden;
 }
@@ -98,7 +98,7 @@ footer {
   }
   #main {
     margin-left: 0;
-    padding: 6vw;
+    padding: 0 6vw 6vw 6vw;
   }
   footer {
     margin: 0;
@@ -120,6 +120,6 @@ footer {
     }
   }
   #main {
-    padding: #{6vw/100vw * $min-width};
+    padding: 0 #{6vw/100vw * $min-width} #{6vw/100vw * $min-width} #{6vw/100vw * $min-width};
   }
 }
