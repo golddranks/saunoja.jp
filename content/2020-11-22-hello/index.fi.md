@@ -1,10 +1,9 @@
 +++
 title = "Aloitimme blogin!"
-slug = "blog-wo-hajimemashita"
 
 [extra]
-header_image = "ranta"
-title_image = "laituri"
+sidebar_image = "ranta"
+summary_image = "laituri"
 +++
 Hei ja tervetuloa!
 

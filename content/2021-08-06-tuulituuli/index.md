@@ -1,12 +1,11 @@
 +++
 title = "豊後大野のいいサウナ・少し粗いのが魅力な「Tuuli Tuuli」"
-slug = "tuulituuli"
 
 [extra]
 author = "Pyry"
-header_image = "tuulipimea"
-header_style = "background-position: 30% top;"
-title_image = "tuuli"
+sidebar_image = "tuulipimea"
+sidebar_style = "background-position: 30% top;"
+summary_image = "tuuli"
 +++
 
 大分県豊後大野市に旅をしてきて、素晴らしいサウナを発見したことを、[前回、報告しました](@/2021-07-30-bungo-oono/index.md)。今回はその中の一つ、特に気に入ったものを紹介したいと思います。なんと、銭湯にも温泉施設にも付いているサウナではなく、食堂・喫茶店・民宿であるカフェパラムの庭にあったサウナです！名前は「Tuuli Tuuli」です！フィンランド語の名前ですね。Tuuli（トゥーリ）は「風」という意味です。

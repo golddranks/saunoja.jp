@@ -1,12 +1,10 @@
 +++
 title = "2021年初の水風呂！"
-slug = "talviturkki"
 
 [extra]
-author = "Pyry & Noora"
-header_image = "kivet"
-header_style = "background-position: 25% top;"
-title_image = "jokitelttanoora"
+sidebar_image = "kivet"
+sidebar_style = "background-position: 25% top;"
+summary_image = "jokitelttanoora"
 +++
 
 ヤッホー！この前書いた[テントサウナを初めて張ったエピソード](@/2021-05-15-telttasauna/index.md)から、もう時が経てそろそろ梅雨に入りそうな季節が巡ってきていました。過ごしやすい気温でテントサウナにまた入ってみたいという気持ちになって、テントサウナを持っている友達にまた誘っていただきました！以下、テントサウナのリベンジ編を報告させていただきます！

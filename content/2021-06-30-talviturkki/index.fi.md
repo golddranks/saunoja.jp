@@ -1,12 +1,10 @@
 +++
 title = "Heitimme talviturkkimme joessa"
-slug = "talviturkki"
 
 [extra]
-author = "Pyry & Noora"
-header_image = "kivet"
-header_style = "background-position: 25% top;"
-title_image = "jokitelttanoora"
+sidebar_image = "kivet"
+sidebar_style = "background-position: 25% top;"
+summary_image = "jokitelttanoora"
 +++
 
 Hei taas! [Edellisestä telttasaunaepisodistamme](@/2021-05-15-telttasauna/index.fi.md) on reaaliajassa kulunut jo monta vuodenaikaa, joten skippaamme loppukevääseen. Aloimme tuumimaan, että lämpimämmillä ilmoilla uusi kokeilu telttasaunomisesta olisi paikallaan, joten kutsuimme itsemme ystäviemme luokse löylyttelemään! Nyt seuraa siis jatkostoori telttasaunakokemuksesellemme!

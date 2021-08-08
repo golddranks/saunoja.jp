@@ -1,11 +1,10 @@
 +++
 title = "御船山楽園のサウナはすごい！"
-slug = "saga4"
 
 [extra]
-header_image = "pimeys"
-header_style = "background-position: 80% top;"
-title_image = "mies_sauna"
+sidebar_image = "pimeys"
+sidebar_style = "background-position: 80% top;"
+summary_image = "mies_sauna"
 +++
 
 佐賀県武雄市でキャンプ場のイベントでテントサウナに入った等の話しは[前回](@/2020-12-14-saga3/index.fi.md)で終了ですが、

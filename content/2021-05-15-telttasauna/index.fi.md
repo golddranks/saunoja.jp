@@ -1,12 +1,10 @@
 +++
 title = "Suomalainen, joka ei ole koskaan pystyttänyt telttasaunaa"
-slug = "telttasauna"
 
 [extra]
-author = "Pyry & Noora"
-header_image = "sauna_sillan_alla"
-header_style = "background-position: 30% top;"
-title_image = "telttasauna"
+sidebar_image = "sauna_sillan_alla"
+sidebar_style = "background-position: 30% top;"
+summary_image = "telttasauna"
 +++
 
 Kesä tekee jo kovaa vauhtia tuloaan, mutta jatketaan vielä edelliskerran teemalla, sillä aiomme palata vielä hieman muistelemaan viime talvea.

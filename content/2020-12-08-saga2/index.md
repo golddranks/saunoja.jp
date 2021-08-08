@@ -1,12 +1,11 @@
 +++
 title = "佐賀県武雄市でサウナに入ってきました！（モルック編）"
-slug = "saga2"
 
 [extra]
-header_image = "molkky_ruoho"
-header_style = "background-position: 80% top; text-shadow: 1px 1px 4px rgb(44, 55, 33), -1px -1px 4px rgb(44, 55, 33), 1px -1px 4px rgb(44, 55, 33), -1px 1px 4px rgb(44, 55, 33);"
-thin_header_style = "text-shadow: 1px 1px 3px rgb(44, 55, 33), -1px -1px 3px rgb(44, 55, 33), 1px -1px 3px rgb(44, 55, 33), -1px 1px 3px rgb(44, 55, 33), 0 0 15px rgb(44, 55, 33);"
-title_image = "molkky_ruoho2"
+sidebar_image = "molkky_ruoho"
+sidebar_style = "background-position: 80% top; text-shadow: 1px 1px 4px rgb(44, 55, 33), -1px -1px 4px rgb(44, 55, 33), 1px -1px 4px rgb(44, 55, 33), -1px 1px 4px rgb(44, 55, 33);"
+thin_sidebar_style = "text-shadow: 1px 1px 3px rgb(44, 55, 33), -1px -1px 3px rgb(44, 55, 33), 1px -1px 3px rgb(44, 55, 33), -1px 1px 3px rgb(44, 55, 33), 0 0 15px rgb(44, 55, 33);"
+summary_image = "molkky_ruoho2"
 +++
 続きまして、2020年11月23日九州の佐賀県で「Go To フィンランドサウナフェスin武雄」というイベントに参加してた報告の続編です！
 [前回](@/2020-12-01-saga1/index.md)はイベントの背景や提供されていたフィンランド料理について書きました。今回はフィンランドの代表的なゲーム、モルックの大会についてです！

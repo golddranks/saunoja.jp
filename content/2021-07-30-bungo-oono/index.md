@@ -1,12 +1,11 @@
 +++
 title = "大分県豊後大野市が「サウナのまち」に"
-slug = "bungo-oono"
 
 [extra]
 author = "Pyry"
-header_image = "chinda"
-header_style = "background-position: 40% top; text-shadow: 2px 2px 2px rgb(100, 100, 100);"
-title_image = "lepotuoli"
+sidebar_image = "chinda"
+sidebar_style = "background-position: 40% top; text-shadow: 2px 2px 2px rgb(100, 100, 100);"
+summary_image = "lepotuoli"
 +++
 
 先日人生初めて大分県に行ってきました。別府などを始め、温泉で有名な大分県。しかし、今回は温泉についての話しではありません。まさか、この大分県にすごいサウナがあることを発見しました！実は大分県には温泉が出ない地域があるようです。今回、この豊後大野市という町のサウナイベントに行ってきた話を、プルが報告いたします！

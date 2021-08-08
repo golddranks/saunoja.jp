@@ -22,10 +22,10 @@
 {% if page.slug != "profile" %}
 <h1><a href="{{ page.path | safe }}">{{ page.title | safe }}</a></h1>
 {{ macros::post_info(page=page) }}
-{% if page.extra.title_image %}
+{% if page.extra.summary_image %}
 {% set relative_path = page.relative_path | default(value=section.relative_path) %}
 {% set relpath = relative_path | split(pat="/") | slice(end=-1) %}
-{% set image = relpath | concat(with=page.extra.title_image ~ ".jpg") | join(sep="/") %}
+{% set image = relpath | concat(with=page.extra.summary_image ~ ".jpg") | join(sep="/") %}
 <figure>
   <div class="imgrow">
     <div>

@@ -1,12 +1,11 @@
 +++
 title = "Ooitan läänin Bungo-Oono julistautui saunakaupungiksi!"
-slug = "bungo-oono"
 
 [extra]
 author = "Pyry"
-header_image = "chinda"
-header_style = "background-position: 40% top; text-shadow: 2px 2px 2px rgb(100, 100, 100);"
-title_image = "lepotuoli"
+sidebar_image = "chinda"
+sidebar_style = "background-position: 40% top; text-shadow: 2px 2px 2px rgb(100, 100, 100);"
+summary_image = "lepotuoli"
 +++
 
 Kävin pari viikkoa sitten ensimmäistä kertaa Kyuushuun saaren Ooitan läänissä. Lääni on tunnettu lukuisista kuumista lähteistään, ja esimerkiksi kylpyläkaupunki Beppu sijaitsee siellä. Mutta tämä juttupa ei ole kuumista lähteistä, vaan saunomisesta: Ooitan läänissä on nimittäin Bungo-Oonon kaupunki, jossa kuumia lähteitä ei ole lainkaan. Sen sijaan löysin sieltä upeita saunoja, joten raportoin niistä nyt Saunojan lukijoille!

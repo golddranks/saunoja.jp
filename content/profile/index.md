@@ -1,10 +1,9 @@
 +++
 title = "筆者のプロフィール"
-slug = "profile"
 template = "page_with_title.html"
 date = 0000-01-01
 [extra]
-header_image = "ranta"
+sidebar_image = "ranta"
 +++
 モイ！2017年日本に移住したフィンランド人の夫婦です。サウナをはじめ、フィン日関連の文化などについて両国語でブログを書いています。『サウノ屋』というブログの由来や目的、名前の意図については[ブログの初記事](@/2020-11-22-hello/index.md)の方をお読みください！
 

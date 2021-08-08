@@ -1,11 +1,10 @@
 +++
 title = "Saunamatka – Takeo, Saga (osa 1)"
-slug = "saga-ken-takeo-shi-de-sauna-ni-haitte-kimashita"
 
 [extra]
-header_image = "teltta"
-header_style = "background-position: 80% top"
-title_image = "lohikeitto2"
+sidebar_image = "teltta"
+sidebar_style = "background-position: 80% top"
+summary_image = "lohikeitto2"
 +++
 Osallistuimme 23. marraskuuta Sagan läänin Takeon kaupungissa järjestettyyn "Go To フィンランドサウナフェスin武雄" (*Go To Finland Sauna Fes in Takeo*) -tapahtumaan. Tämä oli meille molemmille ensimmäinen kerta Sagassa, ja tuntuu hienolta ajatella, että sauna johdatti meidät sinne.
 <!-- more -->

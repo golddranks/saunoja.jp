@@ -1,11 +1,10 @@
 +++
 title = "Saunamatka – Takeo, Saga (osa 3)"
-slug = "saga3"
 
 [extra]
-header_image = "halot"
-header_style = "background-position: 80% top;"
-title_image = "telttasauna4"
+sidebar_image = "halot"
+sidebar_style = "background-position: 80% top;"
+summary_image = "telttasauna4"
 +++
 Jatkoa [edelliseen](@/2020-12-08-saga2/index.fi.md): osallistuimme 23. marraskuuta Sagan läänin Takeon kaupungissa
 järjestettyyn "Go To フィンランドサウナフェスin武雄" (*Go To Finland Sauna Fes in
