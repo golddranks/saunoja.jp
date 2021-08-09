@@ -1,16 +1,53 @@
 +++
-title = "豊後大野のいいサウナ・ロウリュが熱い「REBUILD SAUNA」"
-draft = true
+title = "フィンランド国営放送で日本のサウナブームを紹介"
 
 [extra]
-author = "Pyry"
-#sidebar_image = "lauteet"
-#sidebar_style = "background-position: 80% top"
-#summary_image = "rebuild"
+author = "Pyry & Noora"
+summary_image = "saunojat"
 +++
 
-draft
+暫く前から、フィンランド国営放送の記者である[ヘイッキ・ヴァルカマ](https://twitter.com/heikkivalkama/)さんから連絡がありました。
+日本におけるサウナ文化や特に現在のサウナブームについてインタビューをさせてくれないかという内容でした。ヘイッキさんは東京オリンピック
+を取材しに渡日する予定だったので、オリンピックのついでに日本のさまざまな文化・社会的な事情もフィンランド人のみんなに紹介する計画でした。
+その中の一つのテーマとして、日本におけるサウナブームが選ばれたんです。
 
 <!-- more -->
 
-draft continues
+インタビューを受けることにしました。さらに、フィンランド風サウナのネタとして良さそうな場所も紹介しました。フィンランド風のサウナに熱心な、
+お風呂施設の経営者である[新谷竹郎](https://twitter.com/saunacafe)さんに、数年前から縁がありまして、新谷さんが経営している大宮の「[お風呂 café utatane](https://ofurocafe-utatane.com)」を紹介することになりました。
+
+ヘイッキさんと新谷さんと取材の予定をcafé utataneにかためて、結果、フィンランド国営放送のウェブサイト上の記事やオリンピックのテレビ放送の
+一部として放送されたサウナをテーマにしたVTRができました。あいにく、フィンランド語なので、このブログの日本語版を読んでいただいている読者様に
+わかりにくいかもしれませんが、もし覗いてみるくらいご興味があれば、以下に記事やVTRへのリンクを貼っておきます。（VTRは新谷さんのインタビュー
+の分、日本語になっています！）
+
+以下、記事です。タイトルの和訳：「日本におけるサウナはかつて汗かきおじさんの趣味でした。サウナブームに伴い、女性や若い層もロウリュに熱心」
+
+{{ link_preview(
+    title="Sauna oli Japanissa ennen hikisten setien juttu – saunabuumin myötä nuoret ja naiset ovat innostuneet löylyistä",
+    domain="yle.fi",
+    url="https://yle.fi/urheilu/3-12035993",
+    img="https://images.cdn.yle.fi/image/upload/w_1200,h_630,c_fit,q_80/v1627375771/13-3-12036156.jpg",
+    desc="“Suomalainen sekasauna on monille vaikea ymmärtää. Se, että naiset ja miehet voivat olla yhdessä alasti saunassa, tuntuu olevan suurimmalle osalle aivan mahdoton yhtälö”, kertovat suomalaiset saunabloggaajat. ") }}
+
+さらに以下、VTRです。
+
+{% html() %}
+<figure>
+<div class="yle_areena_player" data-id="1-50907759"></div><script src="https://player-v2.yle.fi/embed.js" defer></script>
+</figure>
+{% end %}
+
+久しぶりにcafé utataneに訪れたら、ここもまたサウノ屋の読者様に紹介したいサウナだなという気分にもなりました。なぜなら、café utataneの特徴は、
+大浴場の中に本格的なフィンランド風のサウナ小屋が設置してあることだからです。東京からも遠くなく、穴場だと思っています。ということで、また後でcafé utataneについて
+書く予定です！
+
+ヘイッキさんは書いた記事が出てから、一つ少し気になったフィードバックも出ました。記事で「フィンランドの混浴の文化」についても触れますが、ツイッターではこれに
+ついて疑問の声や、批判も上がりました。一部のコメントによると「フィンランドのサウナ文化を海外で紹介される際、混浴は必要以上に取り上げられる傾向があるし、混浴
+のサウナはフィンランドでは重要なサウナ文化ではない」とのことです。確かに混浴はフィンランドでは主流の入り方ではないかもしれません。しかし重要なサウナ文化ではないことに、意義があります。
+私たち両方がさまざまな場面で混浴の文化があると、自分で目撃して、体験しているのです。フィンランドではサウナの入り方は多種多様で、「正解」はないと行っても良いでしょう。
+これは非常に興味深いテーマなので、いつかもっと深く様々な入り方や混浴の習慣について書きたいと思います。
+
+ちなみにヘイッキさんはフィンランド国営放送の記者である他に、長年日本に住んできたことがあり、日本語を堪能して、日本の文化についても詳しいです。オリンピック放送と一緒に、
+フィンランド人に日本のことを紹介するのは、とても面白い取り組みだと思いました。動画は日本人が喋っているインタビューを除いて、フィンランド語にはなっていますが、もしご興味があれば、
+国営放送のストリーミングサイトで、[ご覧に慣れます](https://areena.yle.fi/1-50907754)！

@@ -143,3 +143,28 @@ blockquote {
     }
   }
 }
+
+.link-preview {
+  a {
+    line-height: 1em;
+    h3 {
+      line-height: 1em;
+      text-transform: none;
+      letter-spacing: normal;
+      margin: 0.5em 0;
+    }
+    margin: 0 auto;
+    display: block;
+    max-width: 500px;
+    img {
+      width: 100%;
+    }
+    p {
+      color: $text-color;
+      margin: 0;
+    }
+    div {
+      padding: 0.5em 0;
+    }
+  }
+}
