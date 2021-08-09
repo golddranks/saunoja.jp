@@ -8,7 +8,7 @@ sidebar_style = "background-position: 80% top"
 summary_image = "rebuild"
 +++
 
-[Kerroin joitakin viikkoja sitten](@/2021-07-30-bungo-oono/index.fi.md) löytäneeni Ooitan läänin matkaltani Bungo-Oonon kaupungista mainioita saunoja. Esittelin aiemmin Lodge Kiyokawan *Jokisaunan* ja [*Café Paramin* "Tuuli Tuulin"](@/2021-08-06-tuulituuli/index.fi.md). Tällä kertaa kirjoitan *Sauna Expon* pääjärjestäjän, Takahashi Kenin pyörittämän Lamp-majatalon *Rebuild Saunasta*!
+[Kerroin joitakin viikkoja sitten](@/2021-07-30-bungo-oono/index.fi.md) löytäneeni Ooitan läänin matkaltani Bungo-Oonon kaupungista mainioita saunoja. Esittelin aiemmin Lodge Kiyokawan *Jokisaunan* ja [Café Paramin *Tuuli Tuulin*](@/2021-08-06-tuulituuli/index.fi.md). Tällä kertaa kirjoitan *Sauna Expon* pääjärjestäjän, Takahashi Kenin pyörittämän Lamp-majatalon *Rebuild Saunasta*!
 
 <!-- more -->
 

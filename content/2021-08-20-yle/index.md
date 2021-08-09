@@ -1,5 +1,6 @@
 +++
 title = "豊後大野のいいサウナ・ロウリュが熱い「REBUILD SAUNA」"
+draft = true
 
 [extra]
 author = "Pyry"
