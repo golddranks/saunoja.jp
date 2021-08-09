@@ -35,7 +35,7 @@ body {
   }
 }
 
-header {
+#site-header {
   color: $header-text-color;
   text-align: right;
   text-shadow: 0 0 3px rgb(44, 68, 99);
@@ -79,10 +79,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #main {
   h1 {
-    height: 4.5em;
     font-size: 1.5em;
-    display: table-cell;
-    vertical-align: bottom;
   }
 
   h2 {
@@ -100,6 +97,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .lang-ja {
   #main {
+    line-height: 2em;
     h1, h2, h3, h4, h5, h6 {
       text-transform: none;
     }
@@ -111,8 +109,9 @@ h1, h2, h3, h4, h5, h6 {
   color: $text-color;
   text-align: justify;
   hyphens: auto;
-  line-height: 2em;
+  line-height: 1.8em;
   h1, h2, h3, h4, h5, h6 {
+    line-height: 2.0rem;
     color: $heading-text-color;
     margin: 1.1em 0 0.8em 0;
   }
