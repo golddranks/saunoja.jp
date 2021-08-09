@@ -22,7 +22,7 @@ Saavuimme keskellä metsää olevaan majataloon, joka oli kuin kartano. Ensivaik
 
 {{ image_row(images=["lamp", "lamp2"]) }}
 
-No, seuraavaksi itse pääasiaan: saunaan! Rebuild Sauna oli suomalaiselle tuttu ja turvallinen mökkisauna. Tarkastelin taas *Kylpyläläänin mainioiden saunojen tutkimuskeskuksen* opaskirjaa, ja opin saunan taustasta: saunan rakentaja Ken kertoi, että oli rakentanut saunan puutavarasta, joka oli menossa jätteeksi. Ahaa, siitäköhän nimen sana "rebuild" siis tulee? Kuitenkin *Tuuli Tuulista* poiketen, työn jälki vaikutti hyvin huolelliselta. Se myös sopi oivallisesti ympäristöönsä.
+No, seuraavaksi itse pääasiaan: saunaan! Rebuild Sauna oli suomalaiselle tuttu ja turvallinen mökkisauna. Tarkastelin taas *Kylpyläläänin mainioiden saunojen tutkimuskeskuksen* opaskirjaa ja opin saunan taustasta: saunan rakentaja Ken kertoi, että oli rakentanut saunan puutavarasta, joka oli menossa jätteeksi. Ahaa, siitäköhän nimen sana "rebuild" siis tulee? Kuitenkin *Tuuli Tuulista* poiketen, työn jälki vaikutti hyvin huolelliselta. Saunarakennus myös sopi oivallisesti ympäristöönsä.
 
 {{ image_single(image="rebuild") }}
 
@@ -30,7 +30,7 @@ Ulkoa päin tarkasteltuna saunan erikoisuutena oli sen vieressä oleva uima-alla
 
 {{ image_single(image="allas") }}
 
-Saunaan mentiin sisälle matalasta ovesta. Kun saunatupaan päästiin mukavan hämärässä valaistuksessa odottivat kiuas ja lauteet. Lauteet olivat korkealla ja kiuas oli iso. Saunassa oli käytetty eri suuntiin kulkevia puunsyitä taidokkaasti, ja seinille oli luotu hyvällä maulla niistä koostuvia tekstuureja. Saunamökki vaikutti rakkaudella rakennetulta.
+Saunaan mentiin sisälle matalasta ovesta. Kun saunatupaan päästiin, mukavan hämärässä valaistuksessa odottivat kiuas ja lauteet. Lauteet olivat korkealla ja kiuas oli iso. Saunassa oli käytetty eri suuntiin kulkevia puunsyitä taidokkaasti, ja seinille oli luotu hyvällä maulla niistä koostuvia tekstuureja. Saunamökki vaikutti rakkaudella rakennetulta.
 
 {{ image_single(image="sauna") }}
 
