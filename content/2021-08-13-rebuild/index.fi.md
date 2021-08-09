@@ -5,10 +5,10 @@ title = "Bungo-Oonon mainiot saunat: väkevälöylyinen Rebuild Sauna"
 author = "Pyry"
 sidebar_image = "lauteet"
 sidebar_style = "background-position: 80% top"
- summary_image = "rebuild"
+summary_image = "rebuild"
 +++
 
-[Kerroin joitakin viikkoja sitten](@/2021-07-30-bungo-oono/index.fi.md) löytäneeni Ooitan läänin matkaltani Bungo-Oonon kaupungista mainioita saunoja. Esittelin aiemmin *Lodge Kiyokawan* "Jokisaunan" ja [*Café Paramin* "Tuuli Tuulin"](@/2021-08-06-tuulituuli/index.fi.md). Tällä kertaa kirjoitan *Sauna Expon* pääjärjestäjän, *Takahashi Kenin* pyörittämän *Lamp*-majatalon "Rebuild Saunasta"!
+[Kerroin joitakin viikkoja sitten](@/2021-07-30-bungo-oono/index.fi.md) löytäneeni Ooitan läänin matkaltani Bungo-Oonon kaupungista mainioita saunoja. Esittelin aiemmin Lodge Kiyokawan *Jokisaunan* ja [*Café Paramin* "Tuuli Tuulin"](@/2021-08-06-tuulituuli/index.fi.md). Tällä kertaa kirjoitan *Sauna Expon* pääjärjestäjän, Takahashi Kenin pyörittämän Lamp-majatalon *Rebuild Saunasta*!
 
 <!-- more -->
 
@@ -38,7 +38,7 @@ Sitten kokeiltiin löylyä. Suomessa ei ole ammattimaisia löylynheittäjiä, jo
 
 {{ image_single(image="kiuas") }}
 
-Myöhemmin Rebuild Saunan rakentajista toinen, *Yakushiji Ryuuji* ryhtyi löylymestariksi. Hänen tyylinsä oli "aufgussmaisempi": löylynheiton lisäksi hän tarjosi saunojille pyyhkeellä löyhytettyjä lämpöaaltoja. "Kunhan maistatte helvetin kuumuutta, tuntuu viileä allas taivaalta", totesi hän. Asennemies!
+Myöhemmin Rebuild Saunan rakentajista toinen, Yakushiji Ryuuji ryhtyi löylymestariksi. Hänen tyylinsä oli "aufgussmaisempi": löylynheiton lisäksi hän tarjosi saunojille pyyhkeellä löyhytettyjä lämpöaaltoja. "Kunhan maistatte helvetin kuumuutta, tuntuu viileä allas taivaalta", totesi hän. Asennemies!
 
 {{ image_single(image="rakentajat", caption="Rebuild Sauna on Yakushiji Ryuujin ja Takahashi Kenin kätten tulos.") }}
 

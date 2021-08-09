@@ -5,7 +5,7 @@ title = "豊後大野のいいサウナ・ロウリュが熱い「REBUILD SAUNA�
 author = "Pyry"
 sidebar_image = "lauteet"
 sidebar_style = "background-position: 80% top"
- summary_image = "rebuild"
+summary_image = "rebuild"
 +++
 
 この間の大分県豊後大野市の旅で、[いいサウナを発見したと報告しました](@/2021-07-30-bungo-oono/index.md)。以前、ロッジきよかわの「Jokisauna」や[カフェパラムの「Tuuli Tuuli」](@/2021-08-06-tuulituuli/index.md)について書きましたが、今回は「サウナ万博」の主催者である髙橋ケンさんが経営している宿泊施設「LAMP」にある「REBUILD SAUNA」の報告になります！
