@@ -18,11 +18,11 @@ Oli *Expon* päätapahtuman päivä, mutta tapahtuma oli peruttu joen tulvimisen
 
 {{ image_single(image="map", caption="Siirtyminen tapahtui vuoristotietä ajaen.") }}
 
-Saavuimme keskellä metsää olevaan majataloon, joka oli kuin kartano. Ensivaikutelmani oli: "jättimäinen"! Jos puutkin, niin ehkä talotkin kasvavat isommiksi näin keskellä vuoria? Tämän kartanon tiloissa toimi Lamp-niminen majatalo. Koska kävimme vain päiväkäynnillä, en osaa sanoa juuta enkä jaata majoitustiloista. Vaikutti kuitenkin, että paikka soveltuisi erinomaisesti vuorilla patikointiin ja patikkaretken jälkeiseen saunomiseen.
+Saavuimme keskellä metsää olevaan majataloon, joka oli kuin kartano. Jos kerran puutkin, niin ehkä talotkin kasvavat isommiksi näin keskellä vuoria? Tämän kartanon tiloissa toimi Lamp-niminen majatalo. Koska kävimme vain päiväkäynnillä, en osaa sanoa juuta enkä jaata majoitustiloista. Vaikutti kuitenkin siltä, että paikka soveltuisi erinomaisesti vuorilla patikointiin ja patikkaretken jälkeiseen saunomiseen.
 
 {{ image_row(images=["lamp", "lamp2"]) }}
 
-No, seuraavaksi itse pääasiaan: saunaan! Rebuild Sauna oli suomalaiselle tuttu ja turvallinen mökkisauna. Tarkastelin taas *Kylpyläläänin mainioiden saunojen tutkimuskeskuksen* opaskirjaa ja opin saunan taustasta: saunan rakentaja Ken kertoi, että oli rakentanut saunan puutavarasta, joka oli menossa jätteeksi. Ahaa, siitäköhän nimen sana "rebuild" siis tulee? Kuitenkin *Tuuli Tuulista* poiketen, työn jälki vaikutti hyvin huolelliselta. Saunarakennus myös sopi oivallisesti ympäristöönsä.
+No, seuraavaksi itse pääasiaan: saunaan! Rebuild Sauna oli suomalaiselle tuttu ja turvallinen mökkisauna. Tarkastelin taas *Kylpyläläänin mainioiden saunojen tutkimuskeskuksen* opaskirjaa ja opin saunan taustasta: saunan rakentaja Ken kertoi, että oli rakentanut saunan puutavarasta, joka oli menossa jätteeksi. Ahaa, siitäköhän nimen sana "rebuild" siis tulee? Kuitenkin Tuuli Tuulista poiketen, työn jälki vaikutti hyvin huolelliselta. Saunarakennus myös sopi oivallisesti ympäristöönsä.
 
 {{ image_single(image="rebuild") }}
 
