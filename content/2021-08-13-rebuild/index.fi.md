@@ -14,7 +14,7 @@ summary_image = "rebuild"
 
 {{ image_single(image="lamp_sign") }}
 
-Oli *Expon* päätapahtuman päivä, mutta tapahtuma oli peruttu joen tulvimisen takia. Kun pormestari oli julistanut Bungo-Oonon "saunakaupungiksi", kävimme henkilökunnan kanssa Jokisaunassa, mutta lopeteltuamme aikaa oli vielä yllin kyllin. Kun vapaaehtoisia oli varta vasten asti saapunut paikalle, paikalliset lähtivät esittelemään meille Bungo-Oonon saunoja. Suuntasimme kohti Kenin Rebuild Saunaa!
+Oli Expon päätapahtuman päivä, mutta tapahtuma oli peruttu joen tulvimisen takia. Kun pormestari oli julistanut Bungo-Oonon "saunakaupungiksi", kävimme henkilökunnan kanssa Jokisaunassa, mutta lopeteltuamme aikaa oli vielä yllin kyllin. Kun vapaaehtoisia oli varta vasten asti saapunut paikalle, paikalliset lähtivät esittelemään meille Bungo-Oonon saunoja. Suuntasimme kohti Kenin Rebuild Saunaa!
 
 {{ image_single(image="map", caption="Siirtyminen tapahtui vuoristotietä ajaen.") }}
 
