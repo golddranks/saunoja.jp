@@ -31,17 +31,17 @@ Paikan oloasuihin on käytetty suomalaisen tekstiilibrändi Kaunisteen kuoseja, 
 
 Maistelimme muutama vuosi sitten käydessämme näitä pohjoismaisia ruokia, ja totesimme että yritys oli hyvä, mutta maut eivät
 olleet ihan kohdillaan; jotkin suomalaiset raaka-aineet kuten esimerkiksi puolukat oli korvattu Japanissa helpommin saatavilla olevilla pensasmustikoilla.
-Tällä kertaa maistelimme mm. tarjolla ollutta laskiaispullaa. Sekin jätti autenttisuudessaan hieman toivomisen varaa; taikina ei ollut pehmeän
+Tällä kertaa maistelimme mm. tarjolla ollutta laskiaispullaa. Se erosi hieman perinteisestä laskiaispullasta; taikina ei ollut pehmeän
 sitkoinen, vaan jopa hieman lehtitaikinamaisen murea.
 
 Café Utatanen sauna on kuitenkin aidon oloinen! Utatanen kylpytilat on jaettu naisten ja miesten kylpyhalleihin,
-ja molempien nurkassa nököttää hirsirakenteinen saunamökki. Kylpytiloihissa on myös sisäpihan ulkoilma-altaat, ja uutuutena oli Virosta asti tuodut tynnyrimalliset saunat, joita voi vuokrata yksityiskäyttöön.
+ja molempien nurkassa nököttää hirsirakenteinen saunamökki. Kylpytiloissa on myös sisäpihan ulkoilma-altaat, ja uutuutena oli Virosta asti tuodut tynnyrimalliset saunat, joita voi vuokrata yksityiskäyttöön.
 
 Saunamökissä on suomalaiseen tyyliin kiuas, johon saa heittää löylyä, ja saunan lauteet ovat korkealla. Seinälle on ripustettu ohjeet
-japanilaisille saunojille, miten suomalaiseen tyyliin heitetään löylyä oma-aloitteisesti. Olen havainnut, että monet japanilaiset
+japanilaisille saunojille, miten suomalaiseen tyyliin heitetään löylyä oma-aloitteisesti. Monet japanilaiset
 saunojat eivät osaa arvioida, kuinka usein löylyä tulisi heittää, kuinka paljon heitetään kerralla ja niin edelleen. Tätä auttamaan
 on seinälle asetettu tiimalasi, jolla löylyjen aikaväliä voi arvioida. Mielestäni se oli ihan hyvä keksintö saunan kohdeyleisöä ajatellen,
-mutta suomalaisena koimme sen kuitenkin hieman... holhoavaksi. Japanilaisilla on nimittäin taipumus keksiä yksityiskohtaiset käyttösäännöt asioille, ja pelkäämme, että suomalaiselle saunomiselle on käymässä samoin. Olisi ikävää näin suomalaisina, koko ikämme saunoneina kuulla saunovamme väärin, koska
+mutta suomalaisina koimme sen kuitenkin hieman... holhoavaksi. Japanilaisilla on nimittäin taipumus keksiä yksityiskohtaiset käyttösäännöt asioille, ja pelkäämme, että suomalaiselle saunomiselle on käymässä samoin. Olisi ikävää koko ikämme saunoneina kuulla saunovamme väärin, koska
 teemme sen fiiliksen mukaan! Toistaiseksi tämä pelko ei onneksi ole käynyt toteen.
 
 Saunan lämpötila oli sopiva ja löylyt olivat mukavan kosteat. Ero kosteudessa suomalaisen ja japanilaisen saunan välillä tulee hyvin
