@@ -8,7 +8,7 @@ author = "Pyry & Noora"
 
 Saitaman Oomiyassa sijaitsee varsinainen saunahelmi: kylpykahvila Utatane, jossa päässee japanilaisen kylvyn lisäksi
 nauttimaan hirsirakenteisesta saunasta ja muista suomalaisista asioista. Kävimme pitkästä aikaa Utatanessa aiemmin kertomani
-YLEn haastattelun myötä. Tällä kertaa kerron hieman tarkemmin *Ofuro Café Utatanesta* itsestään.
+YLEn haastattelun myötä. Tällä kertaa kerromme hieman tarkemmin *Ofuro Café Utatanesta* itsestään.
 
 <!-- more -->
 
@@ -21,8 +21,8 @@ Rannekkella voi ostaa ruokia ja juomia, ja lasku maksetaan poistuttaessa. Halute
 Kahvila on nuorten ja pariskuntien suosiossa: asiakkana näkyy niin kuhertelevia teinipareja kuin mangaa löhötuoleissa lukevia
 kaveriporukoitakin. Tunnelma on kuitenkin rauhallinen, paikan nimen mukaisesti hieman unelias.
 
-Shintani on innostunut Suomesta ja suomalaistyylisestä saunomisesta, ja se näkyy kaikkialla.
-Interiööri on selvästi inspiroitunut Suomesta: katossa liehuu monenvärisenä kiiltelevä kangasinstallaatio,
+Shintani on innostunut Suomesta ja saunomisesta, ja se näkyy kaikkialla.
+Interiööri on selvästi suomi-inspiroitunut: katossa liehuu monenvärisenä kiiltelevä kangasinstallaatio,
 joka tuo heti mieleen revontulet, ja koristekasvien seassa näkyy koivunrunkoja. Aulan koko seinän kattavassa kirjahyllyssä on suomenkielisiä ja Suomesta kertovia kirjoja ja lehtiä, sekä myynnissä olevia kodinsisustus- ja saunatuotteita.
 Kahvilan kylteissä ja opasteissa voi bongata suomen kieltä siellä täällä. Koristeeksi on viime aikoina jopa lisätty suomalaisia
 tienviittoja suomalais-ruotsalaisine paikkakuntien nimineen. Ruokalistaltakin löytyy suomea: tarjolla on Lapin Kultaa,
@@ -40,7 +40,7 @@ ja molempien nurkassa nököttää hirsirakenteinen saunamökki. Kylpytiloissa o
 Saunamökissä on suomalaiseen tyyliin kiuas, johon saa heittää löylyä, ja saunan lauteet ovat korkealla. Seinälle on ripustettu ohjeet
 japanilaisille saunojille, miten suomalaiseen tyyliin heitetään löylyä oma-aloitteisesti. Monet japanilaiset
 saunojat eivät osaa arvioida, kuinka usein löylyä tulisi heittää, kuinka paljon heitetään kerralla ja niin edelleen. Tätä auttamaan
-on seinälle asetettu tiimalasi, jolla löylyjen aikaväliä voi arvioida. Mielestäni se oli ihan hyvä keksintö saunan kohdeyleisöä ajatellen,
+on seinälle asetettu tiimalasi, jolla löylyjen aikaväliä voi arvioida. Mielestämme se oli ihan hyvä keksintö saunan kohdeyleisöä ajatellen,
 mutta suomalaisina koimme sen kuitenkin hieman... holhoavaksi. Japanilaisilla on nimittäin taipumus keksiä yksityiskohtaiset käyttösäännöt asioille, ja pelkäämme, että suomalaiselle saunomiselle on käymässä samoin. Olisi ikävää koko ikämme saunoneina kuulla saunovamme väärin, koska
 teemme sen fiiliksen mukaan! Toistaiseksi tämä pelko ei onneksi ole käynyt toteen.
 
