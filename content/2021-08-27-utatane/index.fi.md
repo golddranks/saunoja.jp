@@ -23,10 +23,11 @@ kaveriporukoitakin. Tunnelma on kuitenkin rauhallinen, paikan nimen mukaisesti h
 
 Shintani on innostunut Suomesta ja suomalaistyylisestä saunomisesta, ja se näkyy kaikkialla.
 Interiööri on selvästi inspiroitunut Suomesta: katossa liehuu monenvärisenä kiiltelevä kangasinstallaatio,
-joka tuo heti mieleen revontulet, ja koristekasvien seassa näkyy koivunrunkoja. Aulan koko seinän kattavassa kirjahyllyssä on suomalaisia teoksia, myynnissä olevia kodinsisustus- ja saunatuotteita sekä Suomesta tuotuja koristeita.
+joka tuo heti mieleen revontulet, ja koristekasvien seassa näkyy koivunrunkoja. Aulan koko seinän kattavassa kirjahyllyssä on suomenkielisiä ja Suomesta kertovia kirjoja ja lehtiä, sekä myynnissä olevia kodinsisustus- ja saunatuotteita.
 Kahvilan kylteissä ja opasteissa voi bongata suomen kieltä siellä täällä. Koristeeksi on viime aikoina jopa lisätty suomalaisia
 tienviittoja suomalais-ruotsalaisine paikkakuntien nimineen. Ruokalistaltakin löytyy suomea: tarjolla on Lapin Kultaa,
-lonkeroa, korvapuustia sekä skandinaavisia ruoka-annoksia.
+lonkeroa, korvapuustia sekä pohjoismaisia ruoka-annoksia. 
+Paikan oloasuihin on käytetty suomalaisen tekstiilibrändi Kaunisteen kuoseja, ja onpa majoituspuolella myös niin Kaunisteen tekstiileillä sisustettu huone kuin Japanin Moominvalley Parkin kanssa yhteistyössä toteutettu Muumi-teemainen huonekin.
 
 Maistelimme muutama vuosi sitten käydessämme näitä pohjoismaisia ruokia, ja totesimme että yritys oli hyvä, mutta maut eivät
 olleet ihan kohdillaan; jotkin suomalaiset raaka-aineet kuten esimerkiksi puolukat oli korvattu Japanissa helpommin saatavilla olevilla mustikoilla.
