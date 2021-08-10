@@ -30,7 +30,7 @@ lonkeroa, korvapuustia sekä pohjoismaisia ruoka-annoksia.
 Paikan oloasuihin on käytetty suomalaisen tekstiilibrändi Kaunisteen kuoseja, ja onpa majoituspuolella myös niin Kaunisteen tekstiileillä sisustettu huone kuin Japanin Moominvalley Parkin kanssa yhteistyössä toteutettu Muumi-teemainen huonekin.
 
 Maistelimme muutama vuosi sitten käydessämme näitä pohjoismaisia ruokia, ja totesimme että yritys oli hyvä, mutta maut eivät
-olleet ihan kohdillaan; jotkin suomalaiset raaka-aineet kuten esimerkiksi puolukat oli korvattu Japanissa helpommin saatavilla olevilla mustikoilla.
+olleet ihan kohdillaan; jotkin suomalaiset raaka-aineet kuten esimerkiksi puolukat oli korvattu Japanissa helpommin saatavilla olevilla pensasmustikoilla.
 Tällä kertaa maistelimme mm. tarjolla ollutta laskiaispullaa. Sekin jätti autenttisuudessaan hieman toivomisen varaa; taikina ei ollut pehmeän
 sitkoinen, vaan jopa hieman lehtitaikinamaisen murea.
 
