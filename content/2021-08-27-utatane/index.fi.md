@@ -13,36 +13,34 @@ YLEn haastattelun myötä. Tällä kertaa kerron hieman tarkemmin *Ofuro Café U
 <!-- more -->
 
 Tutustuimme Utatanen pyörittäjään, Shintani Takeroohon jo joitakin vuosia sitten, ja ennen koronapandemian alkamista kävimme
-saunomassa siellä muutamaan otteeseen. "Utatane" tarkoittaa päiväunia, torkkumista, ja kahvilan konsepti on sen mukainen: se
+saunomassa siellä muutamaan otteeseen. "Utatane" tarkoittaa päiväunia, torkkumista, ja paikan konsepti on sen mukainen: se
 on jonkinlainen yhdistelmä *super sentoo* -kylpylää, *manga-kissa*-mangakahvilaa ja majataloa. Sisäänpääsymaksulla saa päälleen
 rennon oloasun, ja saa oleskella kahvilan löhötuoleissa ja sohvilla, torkkua riippumatoissa, lukea mangaa ja käydä kylvyssä.
-Rannekkella voi ostaa ruokia ja juomia, ja lasku maksetaan poistuttaessa.
+Rannekkella voi ostaa ruokia ja juomia, ja lasku maksetaan poistuttaessa. Halutessaan paikkaan voi myös jäädä yöksi.
 
 Kahvila on nuorten ja pariskuntien suosiossa: asiakkana näkyy niin kuhertelevia teinipareja kuin mangaa löhötuoleissa lukevia
-kaveriporukoitakin. Tunnelma on kuitenkin rauhallinen, kahvilan nimen mukaisesti hieman unelias.
+kaveriporukoitakin. Tunnelma on kuitenkin rauhallinen, paikan nimen mukaisesti hieman unelias.
 
-Shintani on innostunut Suomesta ja suomalaistyylisestä saunomisesta, ja se näkyy hänen kahvilassaan.
-Interiööri on selvästi inspiroitunut suomesta: katossa liehuu monenvärisenä kiiltelevä kangasinstallaatio,
-joka tuo heti mieleen revontulet, ja koristekasvien seassa näkyy koivunrunkoja.
+Shintani on innostunut Suomesta ja suomalaistyylisestä saunomisesta, ja se näkyy kaikkialla.
+Interiööri on selvästi inspiroitunut Suomesta: katossa liehuu monenvärisenä kiiltelevä kangasinstallaatio,
+joka tuo heti mieleen revontulet, ja koristekasvien seassa näkyy koivunrunkoja. Aulan koko seinän kattavassa kirjahyllyssä on suomalaisia teoksia, myynnissä olevia kodinsisustus- ja saunatuotteita sekä Suomesta tuotuja koristeita.
 Kahvilan kylteissä ja opasteissa voi bongata suomen kieltä siellä täällä. Koristeeksi on viime aikoina jopa lisätty suomalaisia
 tienviittoja suomalais-ruotsalaisine paikkakuntien nimineen. Ruokalistaltakin löytyy suomea: tarjolla on Lapin Kultaa,
 lonkeroa, korvapuustia sekä skandinaavisia ruoka-annoksia.
 
-Maistelimme muutama vuosi sitten käydessämme näitä skandinaavisia ruokia, ja totesimme että yritys oli hyvä, mutta maut eivät
-vaikuttaneet aivan autenttisilta; jotkin suomalaiset raaka-aineet kuten puolukat oli korvattu Japanissa helpommin saatavilla.
-Tällä kertaa maistelimme mm. laskiaispullaa. Sekin jätti autenttisuudessaan hieman toivomisen varaa; taikina ei ollut pehmeän
-sitkoinen, vaan hieman karkea.
+Maistelimme muutama vuosi sitten käydessämme näitä pohjoismaisia ruokia, ja totesimme että yritys oli hyvä, mutta maut eivät
+olleet ihan kohdillaan; jotkin suomalaiset raaka-aineet kuten esimerkiksi puolukat oli korvattu Japanissa helpommin saatavilla olevilla mustikoilla.
+Tällä kertaa maistelimme mm. tarjolla ollutta laskiaispullaa. Sekin jätti autenttisuudessaan hieman toivomisen varaa; taikina ei ollut pehmeän
+sitkoinen, vaan jopa hieman lehtitaikinamaisen murea.
 
-Café Utatanen sauna on kuitenkin aidon oloinen! Utatanen kylpy on jaettu naisten ja miesten kylpyhalleihiin,
-ja molempien nurkassa nököttää hirsirakenteinen saunamökki. Kylpyhallien kyljessä on myös sisäpihan ulkoilma-altaat, ja uutuutena
-pihalla oli Virosta asti tuotu tynnyrin mallinen sauna, jota voi vuokrata yksityiskäyttöön porukalla.
+Café Utatanen sauna on kuitenkin aidon oloinen! Utatanen kylpytilat on jaettu naisten ja miesten kylpyhalleihin,
+ja molempien nurkassa nököttää hirsirakenteinen saunamökki. Kylpytiloihissa on myös sisäpihan ulkoilma-altaat, ja uutuutena oli Virosta asti tuodut tynnyrimalliset saunat, joita voi vuokrata yksityiskäyttöön.
 
-Saunamökkissä on suomalaiseen tyyliin kiuas, johon saa heittää löylyä, ja lauteet ovat korkealla. Seinälle on ripustettu ohjeet
+Saunamökissä on suomalaiseen tyyliin kiuas, johon saa heittää löylyä, ja saunan lauteet ovat korkealla. Seinälle on ripustettu ohjeet
 japanilaisille saunojille, miten suomalaiseen tyyliin heitetään löylyä oma-aloitteisesti. Olen havainnut, että monet japanilaiset
 saunojat eivät osaa arvioida, kuinka usein löylyä tulisi heittää, kuinka paljon heitetään kerralla ja niin edelleen. Tätä auttamaan
 on seinälle asetettu tiimalasi, jolla löylyjen aikaväliä voi arvioida. Mielestäni se oli ihan hyvä keksintö saunan kohdeyleisöä ajatellen,
-mutta suomalaisena koimme sen kuitenkin hieman... holhoavaksi. Japanilaisilla on nimittäin taipumus ritualisoida asioita, ja pelkäämme
-että suomalaiselle saunomiselle on käymässä samoin. Emme halua suomalaisina koko ikämme saunoneina kuulla saunovamme väärin, koska
+mutta suomalaisena koimme sen kuitenkin hieman... holhoavaksi. Japanilaisilla on nimittäin taipumus keksiä yksityiskohtaiset käyttösäännöt asioille, ja pelkäämme, että suomalaiselle saunomiselle on käymässä samoin. Olisi ikävää näin suomalaisina, koko ikämme saunoneina kuulla saunovamme väärin, koska
 teemme sen fiiliksen mukaan! Toistaiseksi tämä pelko ei onneksi ole käynyt toteen.
 
 Saunan lämpötila oli sopiva ja löylyt olivat mukavan kosteat. Ero kosteudessa suomalaisen ja japanilaisen saunan välillä tulee hyvin
