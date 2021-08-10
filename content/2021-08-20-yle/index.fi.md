@@ -39,7 +39,7 @@ Sekä vielä upote videoon:
 {% end %}
 
 Käydessämme pitkästä aikaa Café Utatanessa, tuli mieleen, että siinäpä jälleen sauna, joka olisi hieno esitellä Saunojan lukijoille!
-Café Utatanessa on nimittäin autenttinen suomalainen sauna, ja se ei ole sijainniltaan kaukanakaan Tokiosta. Aiomme siis kirjoittaa
+Café Utatanessa on nimittäin japanilaistyylisen kylvyn lisäksi autenttinen suomalainen saunamökki, ja se ei ole sijainniltaan kaukanakaan Tokiosta. Aiomme siis kirjoittaa
 Café Utatanesta myöhemmin Saunojassa!
 
 Meidän kannaltamme mielenkiintoista oli myös eräs palaute, jonka saimme Twitterin kautta artikkelista: ingressissä mainittu sekasauna
