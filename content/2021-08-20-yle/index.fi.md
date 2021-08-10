@@ -8,7 +8,7 @@ summary_image = "saunojat"
 
 Jokin aika sitten YLEn journalisti [Heikki Valkama](twitter.com/heikkivalkama/) otti meihin yhteyttä ja kysyi,
 kiinnostaisiko meitä tulla haastateltavaksi japanilaisesta saunakulttuurista ja etenkin tämänhetkisestä buumista.
-Heikki oli saapumassa Tokioon reportoimaan Tokion olympialaisista, ja siinä varjolla esittelemään suomalaisyleisölle
+Heikki oli saapumassa Japaniin tekemään juttuja Tokion olympialaisista, ja siinä varjolla esittelemään suomalaisyleisölle
 Japanin kulttuurin monenlaisia puolia. Yhdeksi aiheeksi valikoitui sauna.
 
 <!-- more -->
@@ -39,8 +39,8 @@ Sekä vielä upote videoon:
 {% end %}
 
 Käydessämme pitkästä aikaa Café Utatanessa, tuli mieleen, että siinäpä jälleen sauna, joka olisi hieno esitellä Saunojan lukijoille!
-Café Utatanessa on nimittäin japanilaistyylisen kylvyn lisäksi autenttinen suomalainen saunamökki, ja se ei ole sijainniltaan kaukanakaan Tokiosta. Aiomme siis kirjoittaa
-Café Utatanesta myöhemmin Saunojassa!
+Café Utatanessa on nimittäin japanilaistyylisen kylvyn lisäksi autenttinen suomalainen saunamökki, ja se ei ole sijainniltaankaan kaukana
+Tokiosta. Aiomme siis kirjoittaa Café Utatanesta myöhemmin Saunojassa!
 
 Meidän kannaltamme mielenkiintoista oli myös eräs palaute, jonka saimme Twitterin kautta artikkelista: ingressissä mainittu sekasauna
 vaikutti herättävän kummastusta ja jopa närkästystä. Muutama kommentoija totesi, että sekasauna saa tarpeettoman paljon huomiota puhuttaessa
