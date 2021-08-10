@@ -4,6 +4,7 @@ title = "フィンランド国営放送で日本のサウナブームを紹介"
 [extra]
 author = "Pyry & Noora"
 summary_image = "saunojat"
+summary_attribution = "写真：[Petri Artturi Asikainen](http://www.artturi.com)"
 +++
 
 暫く前から、フィンランド国営放送の記者である[ヘイッキ・ヴァルカマ](https://twitter.com/heikkivalkama/)さんから連絡がありました。

@@ -4,6 +4,7 @@ title = "Kerroimme YLElle Japanin saunabuumista"
 [extra]
 author = "Pyry & Noora"
 summary_image = "saunojat"
+summary_attribution = "Kuva: [Petri Artturi Asikainen](http://www.artturi.com)"
 +++
 
 Jokin aika sitten YLEn journalisti [Heikki Valkama](twitter.com/heikkivalkama/) otti meihin yhteyttä ja kysyi,

@@ -33,6 +33,7 @@
         {% set title_img = resize_image(path=image, width=1600, op='fit_width') %}
       <img src="{{ title_img.url | replace(from=config.base_url, to='') | safe }}">
       </a>
+      <p class="attribution">{% if page.extra.summary_attribution %}{{ page.extra.summary_attribution | markdown(inline=true) | safe }}{% endif %}</p>
     </div>
   </div>
 </figure>
