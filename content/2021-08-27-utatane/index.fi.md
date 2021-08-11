@@ -32,7 +32,8 @@ Paikan oloasuihin on käytetty suomalaisen tekstiilibrändi Kaunisteen kuoseja, 
 Maistelimme muutama vuosi sitten käydessämme näitä pohjoismaisia ruokia, ja totesimme että yritys oli hyvä, mutta maut eivät
 olleet ihan kohdillaan; jotkin suomalaiset raaka-aineet kuten esimerkiksi puolukat oli korvattu Japanissa helpommin saatavilla olevilla pensasmustikoilla.
 Tällä kertaa maistelimme mm. tarjolla ollutta laskiaispullaa. Se erosi hieman perinteisestä laskiaispullasta; taikina ei ollut pehmeän
-sitkoinen, vaan jopa hieman lehtitaikinamaisen murea.
+sitkoinen, vaan jopa hieman lehtitaikinamaisen murea. Utatane ei tietenkään yritäkään olla mikään "suomalaistyylinen ravintola",
+joten Suomi-inspiroitunut menu saa meiltä pelkästään kiitosta.
 
 Café Utatanen sauna on kuitenkin aidon oloinen! Utatanen kylpytilat on jaettu naisten ja miesten kylpyhalleihin,
 ja molempien nurkassa nököttää hirsirakenteinen saunamökki. Kylpytiloissa on myös sisäpihan ulkoilma-altaat, ja uutuutena oli Virosta asti tuodut tynnyrimalliset saunat, joita voi vuokrata yksityiskäyttöön.
