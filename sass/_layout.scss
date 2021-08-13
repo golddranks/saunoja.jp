@@ -4,7 +4,7 @@ html, body {
   min-width: $min-width;
 }
 
-header {
+#site-header {
   box-sizing: border-box;
   padding: 6em 3em 0 0;
   position: fixed;
@@ -20,7 +20,7 @@ header {
 }
 
 @media (max-width: $compress-logo-bp) {
-  header, footer {
+  #site-header, footer {
     padding-right: calc( 1em + 16vw - 128px);
   }
 }
@@ -61,16 +61,25 @@ footer {
   }
 }
 
-#main {
+.main {
   box-sizing: border-box;
   margin-left: $header-ratio;
-  padding: 3em;
+  padding: 0 3em 3em 3em;
   max-width: $main-max-width;
   overflow: hidden;
+  header {
+    height: 6rem;
+    margin-bottom: 0.8em;
+    h1 {
+      height: 6rem;
+      display: table-cell;
+      vertical-align: bottom;
+    }
+  }
 }
 
 @media (max-width: $portrait-mode-bp) {
-  header {
+  #site-header {
     position: static;
     width: 100%;
     min-width: $min-width;
@@ -96,9 +105,9 @@ footer {
       padding-left: 0;
     }
   }
-  #main {
+  .main {
     margin-left: 0;
-    padding: 6vw;
+    padding: 0 6vw 6vw 6vw;
   }
   footer {
     margin: 0;
@@ -109,7 +118,7 @@ footer {
 }
 
 @media (max-width: $min-width) {
-  header {
+  #site-header {
     padding: 2em #{4vw/100vw * $min-width};
   }
   #topbar {
@@ -119,7 +128,7 @@ footer {
       padding: 0 #{4vw/100vw * $min-width};
     }
   }
-  #main {
-    padding: #{6vw/100vw * $min-width};
+  .main {
+    padding: 0 #{6vw/100vw * $min-width} #{6vw/100vw * $min-width} #{6vw/100vw * $min-width};
   }
 }

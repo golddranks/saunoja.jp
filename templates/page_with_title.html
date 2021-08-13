@@ -30,7 +30,9 @@
 {% endblock metatags %}
 
 {% block pagecontent %}
+<header>
 <h1>{{ page.title | safe }}</h1>
+</header>
 {% block article %}
 {{ page.content | safe }}
 {% endblock article %}

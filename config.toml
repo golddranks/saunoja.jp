@@ -30,8 +30,10 @@ author = "Kirjoittaja"
 read_more = "(Lue lisää)"
 site-description = "Suomipariskunta blogaa saunasta"
 site-url = "https://saunoja.jp/fi"
-earlier = "Aiempi kirjoitus: "
-later = "Myöhempi kirjoitus: "
+earlier = "Edellinen kirjoitus: "
+earlier-simple = "edellinen"
+later = "Seuraava kirjoitus: "
+later-simple = "seuraava"
 open-quote = '"'
 close-quote = '"'
 
@@ -42,7 +44,9 @@ read_more = "（続きを読む）"
 site-description = "フィンランド夫婦はサウナからお届けします"
 site-url = "https://saunoja.jp"
 earlier = "前の記事"
+earlier-simple = "前の記事"
 later = "後の記事"
+later-simple = "後の記事"
 open-quote = '【'
 close-quote = '】'
 

@@ -9,13 +9,13 @@
   <link rel="alternate" type="application/atom+xml" title="RSS" href="{{ get_url(path='atom.xml', trailing_slash=false) | safe }}">
   {% endblock %}
   <style> /* Rough layout fallback */
-header { background-repeat: no-repeat; position: fixed; background-size: auto 100vh; width: 30vw; top: 0; bottom: 0; left: 0; }
-#main { margin-left: 30vw }
+#site-header { background-repeat: no-repeat; position: fixed; background-size: auto 100vh; width: 30vw; top: 0; bottom: 0; left: 0; }
+.main { margin-left: 30vw }
 body { margin: 0 }
 @media (max-width: 800px) {
-  header { position: static; width: 100vw; background-size: 100% }
+  #site-header { position: static; width: 100vw; background-size: 100% }
   h1 { margin: 0 }
-  #main { margin-left: 0 }
+  .main { margin-left: 0 }
 }
   </style>
   <link rel="stylesheet" href="/styles.css">
@@ -67,7 +67,7 @@ body { margin: 0 }
 {% set page = page | default(value=section) %}
 <body class="lang-{{lang}}">
   {% set img = resize_image(path=sidebar_image_path, width=1000, op='fit_width') %}
-  <header style="background-image: url({{
+  <header id="site-header" style="background-image: url({{
     img.url | replace(from=config.base_url, to='') | safe
   }}), url({{ sidebar_image_dataurl | safe }});{{ extra.sidebar_style | default(value='') | safe }}">
     <h1 id="saunoja-logo">
@@ -101,7 +101,7 @@ body { margin: 0 }
     </a>
     {% endif %}
   </nav>
-  <article id="main">
+  <article class="main">
     {% block pagecontent %} {% endblock pagecontent %}
   </article>
   <footer>

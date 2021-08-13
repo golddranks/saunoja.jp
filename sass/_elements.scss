@@ -47,11 +47,14 @@ hr {
 }
 
 .post-info {
-  margin: 0 0 0 0;
+  margin: 0 0 1.5em 0;
   color: #8d8d8d;
   .post-date {
     display: inline-block;
-    width: 8em;
+    width: 7em;
+  }
+  .earlier-later {
+    float: right;
   }
 }
 
@@ -125,6 +128,10 @@ blockquote {
   .hidewide {
     display: initial;
   }
+
+  .earlier-later-simple {
+    display: none;
+  }
   
   .slide {
     display: block;
@@ -135,4 +142,33 @@ blockquote {
       padding-left: 0.5em;
     }
   }
+}
+
+.link-preview {
+  a {
+    line-height: 1em;
+    h3 {
+      line-height: 1em;
+      text-transform: none;
+      letter-spacing: normal;
+      margin: 0.5em 0;
+    }
+    margin: 0 auto;
+    display: block;
+    max-width: 500px;
+    img {
+      width: 100%;
+    }
+    p {
+      color: $text-color;
+      margin: 0;
+    }
+    div {
+      padding: 0.5em 0;
+    }
+  }
+}
+
+.attribution {
+  text-align: right;
 }
