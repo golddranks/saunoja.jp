@@ -1,6 +1,5 @@
 +++
 title = "フィンランド国営放送で日本のサウナブームを紹介"
-draft = true
 
 [extra]
 author = "Pyry & Noora"

@@ -1,6 +1,5 @@
 +++
 title = "Kerroimme YLElle Japanin saunabuumista"
-draft = true
 
 [extra]
 author = "Pyry & Noora"
