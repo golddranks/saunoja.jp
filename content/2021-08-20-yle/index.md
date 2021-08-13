@@ -1,5 +1,6 @@
 +++
 title = "フィンランド国営放送で日本のサウナブームを紹介"
+draft = true
 
 [extra]
 author = "Pyry & Noora"
@@ -15,7 +16,7 @@ summary_attribution = "写真：[Petri Artturi Asikainen](http://www.artturi.com
 <!-- more -->
 
 インタビューを受けることにしました。さらに、フィンランド風サウナのネタとして良さそうな場所も紹介しました。サウナに熱心な、
-お風呂施設の経営者である[新谷竹郎](https://twitter.com/saunacafe)さんに、数年前から縁がありまして、新谷さんが経営している大宮の「[お風呂 café utatane](https://ofurocafe-utatane.com)」を紹介しました。
+お風呂施設の経営者である[新谷竹郎](https://twitter.com/saunacafe)さんに、数年前から縁がありまして、新谷さんが経営している大宮の「[おふろ café utatane](https://ofurocafe-utatane.com)」を紹介しました。
 
 ヘイッキさんと新谷さんと取材の予定をcafé utataneにかためて、結果、フィンランド国営放送のウェブサイト上の記事やオリンピックのテレビ放送の
 一部として放送されたサウナをテーマにしたVTRができました。あいにく、フィンランド語なので、このブログの日本語版を読んでいただいている読者様に
