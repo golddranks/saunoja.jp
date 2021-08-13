@@ -5,8 +5,8 @@
 {{ super() }}
 {% set relative_path = page.relative_path | default(value=section.relative_path) %}
 {% set relpath = relative_path | split(pat="/") | slice(end=-1) %}
-{% if page.extra.title_image %}
-    {% set image = relpath | concat(with=page.extra.title_image ~ ".jpg") | join(sep="/") %}
+{% if page.extra.summary_image %}
+    {% set image = relpath | concat(with=page.extra.summary_image ~ ".jpg") | join(sep="/") %}
 {% else %}
     {% set image = 'card_vene.jpg' %}
 {% endif %}
