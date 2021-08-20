@@ -1,12 +1,11 @@
 +++
 title = "Hurmaava kylpykahvila Utatane"
-draft = true
+draft = True
 
 [extra]
 author = "Pyry & Noora"
-#summary_image = "saunojat"
-sidebar_image = "sauna"
-sidebar_style = "background-position: 50% top;"
+summary_image = "ulko"
+sidebar_image = "sauna_sidebar"
 +++
 
 Saitaman Oomiyassa sijaitsee varsinainen saunahelmi: kylpykahvila Utatane, jossa päässee japanilaisen kylvyn lisäksi
@@ -38,7 +37,7 @@ tienviittoja suomalais-ruotsalaisine paikkakuntien nimineen. Ruokalistaltakin l�
 lonkeroa, korvapuustia sekä pohjoismaisia ruoka-annoksia. 
 Paikan oloasuihin on käytetty suomalaisen tekstiilibrändi Kaunisteen kuoseja, ja onpa majoituspuolella myös niin Kaunisteen tekstiileillä sisustettu huone kuin Japanin Moominvalley Parkin kanssa yhteistyössä toteutettu Muumi-teemainen huonekin.
 
-{{ image_row(images=["koivu2", "majoitus"]) }}
+{{ image_row(images=["koivu", "majoitus"]) }}
 
 Maistelimme muutama vuosi sitten käydessämme näitä pohjoismaisia ruokia, ja totesimme että yritys oli hyvä, mutta maut eivät
 olleet ihan kohdillaan; jotkin suomalaiset raaka-aineet kuten esimerkiksi puolukat oli korvattu Japanissa helpommin saatavilla olevilla pensasmustikoilla.
@@ -46,7 +45,7 @@ Tällä kertaa maistelimme mm. tarjolla ollutta laskiaispullaa. Se erosi hieman 
 sitkoinen, vaan jopa hieman lehtitaikinamaisen murea. Utatane ei tietenkään yritäkään olla mikään "suomalaistyylinen ravintola",
 joten Suomi-inspiroitunut menu saa meiltä pelkästään kiitosta.
 
-{{ image_row(images=["pulla3", "pafe3"], caption="Maistoimme myös sauna-jäätelöannosta, joka oli mielenkiintoinen yhdistelmä saunan inspiroimia makuja. Kahvinmakuinen siirappi kaadettiin annoksen päälle pienellä löylykauhalla!") }}
+{{ image_row(images=["pulla", "pafe"], caption="Maistoimme myös sauna-jäätelöannosta, joka oli mielenkiintoinen yhdistelmä saunan inspiroimia makuja. Kahvinmakuinen siirappi kaadettiin annoksen päälle pienellä löylykauhalla!") }}
 
 Café Utatanen sauna on kuitenkin aidon oloinen! Utatanen kylpytilat on jaettu naisten ja miesten kylpyhalleihin,
 ja molempien nurkassa nököttää hirsirakenteinen saunamökki. Kylpytiloissa on myös sisäpihan ulkoilma-altaat, ja uutuutena oli Virosta asti tuodut tynnyrimalliset saunat, joita voi vuokrata yksityiskäyttöön.
@@ -77,4 +76,4 @@ julkisissa saunoissa sopivan lämmön takaaminen on aina tasapainottelua.
 
 Nautimme löylyjen ja kylpyjen jälkeen saunaoluet ja rentouduimme riippumatoissa. Kiitos hyvistä löylyistä!
 
-{{ image_single(image="kalia2", caption="Japanissa tulee harvemmin vastaan siidereitä, joten Happy Joe oli tervetullut yllätys!") }}
+{{ image_single(image="kalia", caption="Japanissa tulee harvemmin vastaan siidereitä, joten Happy Joe oli tervetullut yllätys!") }}
