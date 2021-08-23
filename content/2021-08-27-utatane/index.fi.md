@@ -1,6 +1,6 @@
 +++
 title = "Hurmaava kylpykahvila Utatane"
-draft = True
+draft = true
 
 [extra]
 author = "Pyry & Noora"

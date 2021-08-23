@@ -1,6 +1,6 @@
 +++
 title = "素敵な「おふろcafé utatane」"
-draft = True
+draft = true
 
 [extra]
 author = "Pyry & Noora"
