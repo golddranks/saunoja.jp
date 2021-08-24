@@ -7,7 +7,7 @@ summary_image = "saunojat"
 summary_attribution = "Kuva: [Petri Artturi Asikainen](http://www.artturi.com)"
 +++
 
-Jokin aika sitten YLEn journalisti [Heikki Valkama](twitter.com/heikkivalkama/) otti meihin yhteyttä ja kysyi,
+Jokin aika sitten YLEn journalisti [Heikki Valkama](https://twitter.com/heikkivalkama/) otti meihin yhteyttä ja kysyi,
 kiinnostaisiko meitä tulla haastateltavaksi japanilaisesta saunakulttuurista ja etenkin tämänhetkisestä buumista.
 Heikki oli saapumassa Japaniin tekemään juttuja Tokion olympialaisista, ja siinä varjolla esittelemään suomalaisyleisölle
 Japanin kulttuurin monenlaisia puolia. Yhdeksi aiheeksi valikoitui sauna.
