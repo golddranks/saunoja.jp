@@ -8,8 +8,8 @@ sidebar_image = "sauna_sidebar"
 +++
 
 Saitaman Oomiyassa sijaitsee varsinainen saunahelmi: kylpykahvila Utatane, jossa päässee japanilaisen kylvyn lisäksi
-nauttimaan hirsirakenteisesta saunasta ja muista suomalaisista asioista. Kävimme pitkästä aikaa Utatanessa aiemmin kertomani
-YLEn haastattelun myötä. Tällä kertaa kerromme hieman tarkemmin *Ofuro Café Utatanesta* itsestään.
+nauttimaan hirsirakenteisesta saunasta ja muista suomalaisista asioista. Kävimme pitkästä aikaa Utatanessa aiemmin mainitsemamme
+[YLEn haastattelun](@/2021-08-24-yle/index.fi.md) myötä. Tällä kertaa kerromme hieman tarkemmin *Ofuro Café Utatanesta* itsestään.
 
 <!-- more -->
 
