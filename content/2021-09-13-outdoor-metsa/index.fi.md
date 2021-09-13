@@ -5,7 +5,7 @@ title = "Menovinkki: Outdoor Sauna in Metsä"
 author = "Pyry"
 summary_image = "utepils"
 sidebar_image = "varjot"
-sidebar_style = "background-position: 20% top;"
+sidebar_style = "background-position: 100% top; text-shadow: 1px 1px 4px rgb(60, 0, 0), -1px -1px 4px rgb(60, 0, 0), 1px -1px 4px rgb(60, 0, 0), -1px 1px 4px rgb(60, 0, 0)"
 +++
 
 Kävin reilu viikko sitten Saitaman Hannoossa sijaitsevassa pohjoismaa-teemaisessa *Metsä Village* -puistossa. Paikka on kenties parhaiten tunnettu siitä, että sen kyljessä on myös Japanin muumipuisto *Moominvalley Park*. Minut oli kutsuttu testilöylyihin, sillä 10. syyskuuta Metsä Villagessa avautui kolme kuukautta kestävä saunatapahtuma *Outdoor Sauna in Metsä*.
