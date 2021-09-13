@@ -14,11 +14,11 @@ Kävin reilu viikko sitten Saitaman Hannoossa sijaitsevassa pohjoismaa-teemaises
 
 {{ image_row(images=["poster", "entrance"]) }}
 
-Metsä Villageen on ilmainen sisäänpääsy, ja sen konseptina on tarjota mukavaa hengailutilaa "pohjoismaatyylisellä" järvimaisemalla ja vapaasti käytettävillä lepotuoleilla. Puistoon on siroteltu myymälöitä, kahviloita ja ruokapaikkoja, jotka tarjoavat niin pohjoismaalaista kuin paikallisiakin brändejä ja designtuotteja ja sekä herkkuja, ruokaa ja juomaa. *Utepils*-aukiolla oli tarjolla myös (ennen koronaa) pienpanimo-oluita terassitunnelmissa.
+Metsä Villageen on ilmainen sisäänpääsy, ja sen konseptina on tarjota mukavaa hengailutilaa "pohjoismaatyylisellä" järvimaisemalla ja vapaasti käytettävillä lepotuoleilla. Puistoon on siroteltu myymälöitä, kahviloita ja ruokapaikkoja, jotka tarjoavat niin pohjoismaalaisia kuin paikallisiakin brändejä ja designtuotteja ja sekä herkkuja, ruokaa ja juomaa. *Utepils*-aukiolla oli tarjolla myös (ennen koronaa) pienpanimo-oluita terassitunnelmissa.
 
 {{ image_single(image="utepils") }}
 
-Tämänkertainen tapahtuma järjestetään juurikin tällä Utepils-aukiolla. Paikalle oli tuotu suomalainen Metos Asema -perävaunusauna sekä monta Metoksen saunatelttaa. Lisäksi aukiolle oli rakennettu grillikatoksia. Saunat ja BBQ ovat varattavissa etukäteen aikasloteittain.
+Tämänkertainen tapahtuma järjestetään juurikin tällä Utepils-aukiolla. Paikalle oli tuotu Metos Asema -perävaunusauna sekä monta saunatelttaa. Lisäksi aukiolle oli rakennettu grillikatoksia. Saunat ja BBQ ovat varattavissa etukäteen aikasloteittain.
 
 {{ image_row(images=["kuisti", "abcs"]) }}
 
@@ -30,7 +30,7 @@ Metos Asema oli nautinnollinen kokemus. Saunakoppina se oli hyvin pieni, ja täm
 
 {{ video_single(video="loyly", caption="Hienot huurut! (Kuuntele äänillä!)") }}
 
-Koska tapahtuma oli julkisella paikalla ilman mitään näkösuojia ja erottelua sukupuolten välillä, saunaan piti mennä uimapuvussa, mutta lisäksi minun piti peittää ylävartalonikin. Onneksi meille testilöylyihin osallistujille jaettiin tapahtuman T-paidat. Vaateet päällä saunominen on sellainen juttu, mihin en ihan helpolla suomalaisena totu. Ymmärrän kyllä uimapukupakon sekasaunassa, mutta T-paita menee jo vähän liiallisuuksiin. En ole varma, osaanko nauttia hikoilusta yhtä vapautuneesti, kun olen verhoutunut kosteutta imevään puuvillakankaaseen.
+Koska tapahtuma oli julkisella paikalla ilman mitään näkösuojia ja erottelua sukupuolten välillä, saunaan piti mennä uimapuvussa, mutta lisäksi piti peittää ylävartalokin. Onneksi meille testilöylyihin osallistujille jaettiin tapahtuman T-paidat. Vaateet päällä saunominen on sellainen juttu, mihin en ihan helpolla suomalaisena totu. Ymmärrän kyllä uimapukupakon sekasaunassa, mutta T-paita menee jo vähän liiallisuuksiin. En ole varma, osaanko nauttia hikoilusta yhtä vapautuneesti, kun olen verhoutunut kosteutta imevään puuvillakankaaseen.
 
 {{ image_single(image="saunoja") }}
 
