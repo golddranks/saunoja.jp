@@ -8,11 +8,11 @@ sidebar_image = "varjot"
 sidebar_style = "background-position: 20% top;"
 +++
 
-Kävin reilu viikko sitten Saitaman Hannoossa sijaitsevassa pohjoismaa-teemaisessa *Metsä Village* -puistossa. Paikka on kenties parhaiten tunnettu siitä, että sen kyljessä on myös Japanin muumipuisto *Moominvalley Park*. Minut oli kutsuttu testilöylyihin, sillä 10. syyskuuta Metsä Villagessa avautuu kolme kuukautta kestävä saunatapahtuma *Outdoor Sauna in Metsä*.
+Kävin reilu viikko sitten Saitaman Hannoossa sijaitsevassa pohjoismaa-teemaisessa *Metsä Village* -puistossa. Paikka on kenties parhaiten tunnettu siitä, että sen kyljessä on myös Japanin muumipuisto *Moominvalley Park*. Minut oli kutsuttu testilöylyihin, sillä 10. syyskuuta Metsä Villagessa avautui kolme kuukautta kestävä saunatapahtuma *Outdoor Sauna in Metsä*.
 
 <!-- more -->
 
-{{ image_single(image="utepils") }}
+{{ image_row(images=["poster", "entrance"]) }}
 
 Metsä Villageen on ilmainen sisäänpääsy, ja sen konseptina on tarjota mukavaa hengailutilaa "pohjoismaatyylisellä" järvimaisemalla ja vapaasti käytettävillä lepotuoleilla. Puistoon on siroteltu myymälöitä, kahviloita ja ruokapaikkoja, jotka tarjoavat niin pohjoismaalaista kuin paikallisiakin brändejä ja designtuotteja ja sekä herkkuja, ruokaa ja juomaa. *Utepils*-aukiolla oli tarjolla myös (ennen koronaa) pienpanimo-oluita terassitunnelmissa.
 
