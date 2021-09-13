@@ -1,5 +1,6 @@
 +++
 title = "雨の日のサウナin HINOKO TOKYO"
+draft = true
 
 [extra]
 author = "Pyry"

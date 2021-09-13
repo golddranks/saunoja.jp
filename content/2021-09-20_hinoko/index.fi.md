@@ -1,5 +1,6 @@
 +++
 title = "Sateinen saunareissu HINOKO TOKYOssa"
+draft = true
 
 [extra]
 author = "Pyry"
