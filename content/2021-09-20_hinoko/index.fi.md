@@ -15,7 +15,7 @@ Kävimme männäviikolla saunomassa leirintäalue Hinoko Tokyossa, jonne oli juu
 
 Tokion Hinohara-murassa sijaitseva Hinoko Tokyo aloitti toimintansa 2018 leirintäalueena, joka täydentyi saunamökillä 2021 huhtikuussa. Sauna on vain jäsenten varattavissa, ja jäseneksi pääsee vain käymällä paikalla jonkun toisen jäsenen kutsumana. Ystävämme Inka oli onneksi jäsen ja pystyi varaamaan meille saunallisen leiripaikan, jonne suuntasimme seitsemän hengen voimin.
 
-{{ image_row(images=["sauna3", "joki2"]) }}
+{{ image_row(images=["sauna3", "joki"]) }}
 
 Perjantain aamupäivän sää oli ollut epävakaa ja sadetta tulla tihutti vähän väliä. Saapuessamme perille puolenpäivän aikoihin sade lakkasi hetkeksi joten katsoimme parhaaksi pystyttää teltat ja rakentaa terassille pressuista sateensuojan, jonka alla hengailla. Niiden jälkeen meillä oli vielä muutama tunti luppoaikaa ennen kuin pitäisi aloittaa grillin valmistelu, joten ryhdyimme lämmittämään saunaa. Saunassa oli Harvian puulämmitteinen kiuas, mutta paikalla olevat polttopuut olivat sen verran kosteita, että niiden sytyttämisessä kesti hetki jos toinenkin. Lopulta tuli lähti roihuamaan iloisesti ja saunan lämpötila alkoi nousta hyvää tahtia. Pienen odottelun jälkeen lämpö oli noussut jo 60 asteeseen joten ei muuta kuin löylyttelemään. 
 
@@ -31,7 +31,7 @@ Sauna itsessään oli mukavan simppeli. Betonilattiaa lukuunottamatta sauna oli 
 
 Hämärän hiivittyä aloimme virittää grilliä, jonka saimme sateesta huolimatta syttymään käyttämällä saunassa hiilloksella olevia puita. Ruoan jälkeen Pyry lähti vielä kerran edelleen lämpimään saunaan ja sieltä pimeässä jokeen, mikä tuntui päivän päätteeksi erityisen hyvältä. Aamulla ennen pois lähtöä ehdimme lämmittää saunan vielä kertaalleen ja käydä aamusaunassa. 
 
-{{ video_single(video="grilli2") }}
+{{ video_single(video="grilli") }}
 
 Vaikka sadetta piisasi, saunan ansiosta emme päässeet kylmettymään. Hinoko Tokyo lunastaa paikkansa ainakin Nooran top 3 Japanin saunalistalla. Puusaunoja ei Japanissa ole liiaksi, joten voimme suositella paikkaa pehmeitä löylyjä halajaville.
 
@@ -44,4 +44,4 @@ Esimerkiksi Pyryn mökillä on saunaterassin puhtaana pitämiseksi asetettu pesu
 
 Hinoko Tokyo tarjoaa myös päiväsaunomismahdollisuutta, mitä olisi kiva kokeilla joskus myöhemmin nyt kun siellä on tullut kerran jo yövyttyä.
 
-{{ video_single(video="loyly2") }}
+{{ video_single(video="loyly") }}
