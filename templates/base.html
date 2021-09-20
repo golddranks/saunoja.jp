@@ -81,7 +81,7 @@ body { margin: 0 }
   </header>
   <nav id="topbar">
   {% if lang == "fi" %}
-    <a href="{{ root }}">Etusivu</a>
+    <a href="/fi/all">Kaikki postaukset</a>
     <a href="/fi/profile">Kirjoittajista</a>
     <a href="{{ page.path | trim_start_matches(pat='/fi') | safe }}" id="lang-select">
       <svg xmlns="http://www.w3.org/2000/svg" width="1.2em" height="1.3em">
@@ -90,7 +90,7 @@ body { margin: 0 }
       </svg> <span>日本語で読む</span>
     </a>
     {% else %}
-    <a href="{{ root }}">記事一覧</a>
+    <a href="/all">記事一覧</a>
     <a href="/profile">筆者プロフィール</a>
     <a href="/fi{{ page.path | safe }}" id="lang-select">
       <svg xmlns="http://www.w3.org/2000/svg" width="1.2em" height="1.3em">
